@@ -12,12 +12,16 @@ weight: 22
 bookHidden: true
 ---
 
-## 2.22 Bhaddiya Kāligodhāputta  
+## 2.22  Bhaddaji
 
-“Ah, happiness! Ah, happiness!”—thus they call me.  
-But I wasn’t unhappy before, nor am I unhappy now.  
+That king was named Panāda,  
+Whose sacrificial post was golden.  
+Its height was sixteen times its width,  
+And the top was a thousand-fold.  
 
-Before, I had what I wanted,  
-Now I have no desire for anything.
+With a thousand panels, and a hundred ball-caps,  
+Adorned with banners, made of gold;  
+There, the seven times six hundred  
+Gods of music danced.  
 
 ## Notes

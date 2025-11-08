@@ -12,11 +12,16 @@ weight: 47
 bookHidden: true
 ---
 
-## 2.47 Kaḷudāyi  
+## 2.47 Anūpama
 
-A monk should delight in the wilderness,  
-Should be at peace, with few desires.  
-He should live happily in the forest,  
-Mindful, energetic, and calm.
+The conceited mind, addicted to pleasure,  
+Impales itself on its own stake.  
+It goes only where  
+There’s a stake, a chopping block.  
+
+I declare you the demon mind!  
+I declare you the insidious mind!  
+You’ve found the teacher so hard to find—  
+Don’t lead me away from the goal.  
 
 ## Notes

@@ -18,10 +18,12 @@ bookHidden: true
 Too late,” they say.  
 Those who neglect their work like this—  
 Opportunities pass them by.  
+
 But one who considers hot and cold  
 To be nothing more than a blade of grass;  
 He does his manly duty,  
 And his happiness never fails.  
+
 With my chest I’ll thrust aside  
 The grasses, vines, and creepers,  
 And devote myself to seclusion.”

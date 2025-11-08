@@ -12,16 +12,19 @@ weight: 45
 bookHidden: true
 ---
 
-## 2.45 Raṭṭhapāla  
+## 2.45 Visākhapañcālaputta
 
-The world is unstable,  
-And doesn’t last long.  
-It’s filled with suffering;  
-There’s no shelter, no protector.  
+One should not suspend others from the Saṅgha,  
+Nor raise objections against them;  
+And neither disparage nor raise one’s voice  
+Against one who has crossed to the further shore.  
+One should not praise oneself among the assemblies,  
+But be without conceit, measured in speech,  
+And of good conduct.  
 
-Having understood the truth,  
-I’ve gone forth from home to homelessness;  
-I’ve attained the unconditioned,  
-The stilling of all formations.
+For one who sees the goal, so very subtle and fine,  
+Who has wholesome thoughts and humbleness,  
+And cultivates the Buddha’s ethical conduct,  
+It’s not hard to gain nibbāna.  
 
 ## Notes

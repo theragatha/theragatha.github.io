@@ -18,10 +18,12 @@ bookHidden: true
 Thin, with veins matted on his skin,  
 Eating and drinking in moderation—  
 This person’s spirit is undaunted.”  
+
 “Pestered by gadflies and mosquitoes  
 In the awesome wilderness;  
 One should mindfully endure,  
 Like an elephant at the head of the battle.  
+
 A monk alone is like Brahmā;  
 A pair of monks are like devas;  
 Three are like a village;  

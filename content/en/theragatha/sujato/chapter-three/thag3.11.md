@@ -18,10 +18,12 @@ One newly gone forth,
 Who has left their home out of faith,  
 Should associate with spiritual friends,  
 Whose livelihood is pure, and who are not lazy.  
+
 One newly gone forth,  
 Who has left their home out of faith,  
 A monk who stays with the Saṅgha,  
 Being wise, would train in monastic discipline.  
+
 One newly gone forth,  
 Who has left their home out of faith,  
 Skilled in what is appropriate and what is not,  

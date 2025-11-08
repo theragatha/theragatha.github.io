@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.94 Sañjaya  
+# 1.94 Mettaji
 
-See the great excellence of the wise:  
-They’ve crossed the flood,  
-They’ve cut off the chain,  
-And they’re freed from all suffering.
+Homage to that Blessed One,  
+The glorious son of the Sakyans!  
+When he realised the highest state,  
+He taught the highest Dhamma well.  
 
 ## Notes

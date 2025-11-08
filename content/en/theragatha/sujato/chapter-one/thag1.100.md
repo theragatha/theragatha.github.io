@@ -17,6 +17,6 @@ bookHidden: true
 Accomplished in the four right strivings,  
 With establishment of mindfulness as your safe place,  
 Festooned with the flowers of liberation,  
-You’ll realise nibbāna without defilements.
+You’ll realise nibbāna without defilements.  
 
 ## Notes

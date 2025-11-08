@@ -12,16 +12,19 @@ weight: 32
 bookHidden: true
 ---
 
-## 2.32 Nitta  
+## 2.32 Sivaka
 
-This body is a disease,  
-A lump, a boil, a wound;  
-It’s tormented, miserable, and frail,  
-A putrid thing, oozing with filth.  
+All houses are impermanent;  
+Again and again, in all kinds of realms,  
+54 verses of senior monks  
+I’ve searched for the house-builder—  
+Rebirth again and again is suffering.  
 
-I have realized the truth about this body—  
-Truly, it’s impermanent and not-self.  
-Having gone beyond all suffering,  
-I’m cooled, quenched, and free.
+I’ve seen you, house-builder!  
+You won’t build a house again.  
+All your rafters are broken,  
+Your ridgepole is split.  
+My mind is released from limits:  
+It’ll fall apart in this very life.  
 
 ## Notes

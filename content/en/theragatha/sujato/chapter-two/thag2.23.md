@@ -12,11 +12,17 @@ weight: 23
 bookHidden: true
 ---
 
-## 2.23 Khaṇḍasumana  
+## 2.23 Sobhita
 
-The flower of a well-kept garden  
-Can be seen from afar;  
-In the same way, the words of a well-spoken monk  
-Shine far and wide.
+As a monk, mindful and wise,  
+Resolute in power and energy,  
+I recollected five hundred aeons  
+In one night.  
+
+Developing the four establishments of mindfulness,  
+The seven factors of awakening,  
+And the eightfold path,  
+I recollected five hundred aeons  
+In one night.  
 
 ## Notes

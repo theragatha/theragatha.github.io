@@ -12,16 +12,16 @@ weight: 27
 bookHidden: true
 ---
 
-## 2.27 Devasabha  
+## 2.27 Bharata
 
-Speak only after considering  
-The words you are about to say;  
-Don’t speak lies,  
-And don’t say what will lead to harm.  
+Come Nandaka, let’s go  
+To visit our preceptor.  
+We’ll roar the lion’s roar  
+Before of the best of Buddhas.  
 
-When you speak the truth,  
-Say what’s beneficial,  
-And don’t hurt anyone—  
-That’s the Dhamma of the Buddhas.
+The sage gave us the going forth  
+Out of compassion, so that we could realize  
+The ending of all fetters—  
+Now we have reached that goal.  
 
 ## Notes

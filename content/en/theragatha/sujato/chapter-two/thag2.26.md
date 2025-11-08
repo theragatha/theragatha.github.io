@@ -12,16 +12,16 @@ weight: 26
 bookHidden: true
 ---
 
-## 2.26 Uttiya  
+## 2.26 Puṇṇamāsa
 
-Go beyond being clever,  
-And give up all cleverness;  
-Don’t get caught up in conceit,  
-But train yourself in peace.  
+I abandoned the five hindrances  
+So I could realise security from the yoke;  
+And I picked up the Dhamma as a mirror,  
+For knowing and seeing myself.  
 
-Go beyond the pathless jungle,  
-The bondage of Māra.  
-Be without attachments,  
-And realize the supreme peace.
+I checked over this body  
+All of it, inside and out.  
+Internally and externally,  
+My body looked vacant.  
 
 ## Notes

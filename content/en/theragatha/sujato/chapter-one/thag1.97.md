@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.97 Tissa  
+# 1.97 Tissa
 
 Giving up a valuable bronze bowl,  
 And a precious golden one, too,  
 I took a bowl made of clay:  
-This is my second anointing.
+This is my second anointing.  
 
 ## Notes

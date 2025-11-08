@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.96 Samiddhi  
+# 1.96 Khaṇḍasumana
 
-The Blessed One taught me the Dhamma,  
-For the abandoning of all attachments,  
-For the ending of craving,  
-For dispassion, cessation, and nibbāna.
+I oﬀered a single flower,  
+And then amused myself in heavens  
+For 800 million years;  
+With what’s left over I’ve realized nibbāna.  
 
 ## Notes

@@ -12,11 +12,17 @@ weight: 34
 bookHidden: true
 ---
 
-## 2.34 Sugita  
+## 2.34  Isidinna
 
-Though someone speaks well,  
-If they act badly, they are not good.  
-But one who does what is good,  
-Even if they don’t speak much, is truly good.
+I’ve seen lay disciples who have memorized discourses,
+Saying “Sensual pleasures are impermanent”;
+But they are passionately enamoured
+Of jewelled earrings,
+Desiring children and wives.
+
+To be honest, they don’t know Dhamma,
+Despite saying “Sensual pleasures are impermanent”;
+They don’t have the power to cut their lust,
+So they’re attached to children, wives, and wealth.
 
 ## Notes

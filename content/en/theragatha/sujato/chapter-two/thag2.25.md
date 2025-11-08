@@ -12,16 +12,17 @@ weight: 25
 bookHidden: true
 ---
 
-## 2.25 Abhaya  
+## 2.25 Vītasoka
 
-Whoever undertakes the holy life,  
-Intending to find peace of mind,  
-Should be scrupulous and restrained,  
-Mindful and fully aware.  
+The barber approached  
+To shave my head.  
+I picked up a mirror  
+And looked at my body.  
 
-When you go out,  
-When you come back,  
-When you look ahead and aside,  
-Restrain yourself in all situations.
+My body looked vacant;  
+I was blind, but the darkness left me.  
+My fancy hairdo has been cut off:  
+Now there is no more rebirth  
+Into any state of existence.  
 
 ## Notes

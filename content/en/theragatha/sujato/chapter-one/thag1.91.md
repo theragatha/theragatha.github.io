@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.91 Rāmaṇīyavihārī  
+# 1.91 Paripuṇṇaka
 
-The wilderness is delightful,  
-Where ordinary people find no joy.  
-There the passionless will rejoice,  
-For they seek no sensual pleasures.
+What I consumed today is considered better  
+Than pure food of a hundred flavors:  
+The Dhamma taught by the Buddha,  
+Gotama of infinite vision.  
 
 ## Notes

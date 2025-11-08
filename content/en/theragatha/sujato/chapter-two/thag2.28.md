@@ -12,12 +12,16 @@ weight: 28
 bookHidden: true
 ---
 
-## 2.28 Belaṭṭhakāni  
+## 2.28 Bharata
 
-A monk who is devoted to meditation,  
-Delighting in the Dhamma,  
-Who is mindful, energetic, and calm,  
-Will blow away Māra and his army,  
-As a great wind blows away a heap of cotton.
+Come Nandaka, let’s go  
+To visit our preceptor.  
+We’ll roar the lion’s roar  
+Before of the best of Buddhas.  
+
+The sage gave us the going forth  
+Out of compassion, so that we could realize  
+The ending of all fetters—  
+Now we have reached that goal.  
 
 ## Notes

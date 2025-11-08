@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.86 Sañjaya  
+# 1.86 Nāgita
 
-See the great excellence of the wise:  
-They’ve crossed the flood,  
-They’ve cut off the chain,  
-And they’re freed from all suffering.
+Outside of here there are many other doctrines;  
+Those paths don’t lead to nibbāna, but this one does.  
+Indeed, the Blessed One himself counsels the Saṅgha;  
+The Teacher shows the palms of his hands.  
 
 ## Notes

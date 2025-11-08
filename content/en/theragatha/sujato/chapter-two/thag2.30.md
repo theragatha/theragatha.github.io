@@ -12,16 +12,17 @@ weight: 30
 bookHidden: true
 ---
 
-## 2.30 Siṅgālapitaka  
+## 2.30  Kaṇhadinna
 
-As a man might lay down a load  
-And rest his burden on the ground,  
-So I lay down the heavy load  
-And reach nibbāna.  
+I sat close by wise people,  
+And learnt the Dhamma many times.  
+What I learnt, I practiced,  
+Entering the road that culminates in the deathless.  
 
-My mind is completely liberated;  
-My path has been fully purified;  
-I’ve reached the destruction of craving;  
-I’ve attained the end of suffering.
+I’ve slain the desire to be reborn  
+In any state of existence,  
+Such desire won’t be found in me again.  
+It was not, and it won’t be in me,  
+And it isn’t found in me now.  
 
 ## Notes

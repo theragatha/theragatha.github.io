@@ -12,16 +12,16 @@ weight: 42
 bookHidden: true
 ---
 
-## 2.42 Cūḷapanthaka  
+## 2.42 Dhammapāla
 
-Through laziness and lack of effort,  
-I was unable to memorize even a verse.  
-But the Buddha, compassionate and kind,  
-Taught me the essence of the Dhamma.  
+The young monk
+Who is devoted to the teaching of the Buddha,
+Wakeful among those who sleep—
+His life isn’t in vain.
 
-With a handful of dust as a simile,  
-He made me realize impermanence;  
-Now my mind is well-liberated,  
-I’ve attained the end of suffering.
+So let the wise devote themselves
+To faith, virtuous behaviour,
+Confidence, and insight into Dhamma,
+Remembering the teachings of the Buddhas.
 
 ## Notes

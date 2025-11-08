@@ -12,11 +12,15 @@ weight: 35
 bookHidden: true
 ---
 
-## 2.35 Nandiya  
+## 2.35 Sambulakaccāna
 
-When I was foolish and ignorant,  
-I wandered in the world of birth and death.  
-But now I’ve understood the aggregates;  
-The great darkness is torn apart.
+The sky rains, the sky groans,  
+I’m staying alone in a frightful hole.  
+But while I’m staying alone in that frightful hole,  
+I’ve no fear, no dread, no goosebumps.  
+
+This is my normal state,  
+When I’m staying alone in a frightful hole:  
+I’ve no fear, no dread, no goosebumps.  
 
 ## Notes

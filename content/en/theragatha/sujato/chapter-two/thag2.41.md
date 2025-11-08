@@ -12,11 +12,19 @@ weight: 41
 bookHidden: true
 ---
 
-## 2.41 Visākhā  
+## 2.41  Kumārakassapa
 
-I’ve gone beyond birth and death,  
-And reached the end of suffering.  
-This body, so frail and transient,  
-Will not be reborn again.
+Oh, the Buddhas! Oh, the Dhammas!
+Oh, the perfections of the Teacher!
+Where a disciple may see
+Such a Dhamma for themselves.
+
+Through countless aeons
+They obtained an identity;
+This is the end,
+Their last body;
+Transmigrating through births and deaths,
+Now there is no more rebirth
+Into any state of existence.
 
 ## Notes

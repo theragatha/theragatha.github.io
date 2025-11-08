@@ -12,11 +12,17 @@ weight: 49
 bookHidden: true
 ---
 
-## 2.49 Mahākappina  
+## 2.49  Sandhita
 
-Seeing the Dhamma, I was freed;  
-My mind is liberated, without taints.  
-Having realized the destruction of craving,  
-I’ve attained nibbāna—cool, quenched, and free.
+Beneath the Bodhi Tree,  
+Bright green and growing,  
+Being mindful, my perception  
+Became one with the Buddha.  
+
+It was thirty one aeons ago  
+That I gained that perception;  
+And it is due to that perception  
+That I’ve realized the ending of defilements.  
+
 
 ## Notes

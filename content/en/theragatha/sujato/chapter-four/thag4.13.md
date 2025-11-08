@@ -1,19 +1,18 @@
 ---
-title: "4.13 Mudita"
-id: "thag4.13"
+title: "4.12 Mudita"
+id: "thag4.12"
 chapter: 4
-verse: 13
-slug: "thag4.13"
+verse: 12
+slug: "thag4.12"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-weight: 13
+weight: 12
 bookHidden: true
 ---
 
-## 4.13 Mudita  
-
+## 4.12 Mudita  
 
 I went forth to save my life;  
 But I gained faith  

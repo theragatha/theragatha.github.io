@@ -12,11 +12,13 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.92 Samiddhi  
+# 1.92 Vijaya
 
-The Blessed One taught me the Dhamma,  
-For the abandoning of all attachments,  
-For the ending of craving,  
-For dispassion, cessation, and nibbāna.
+The one whose defilements are dried up,  
+Who’s not attached to food,  
+Whose resort is the liberation  
+That is signless and empty:  
+Their track is hard to trace,  
+Like that of birds in the sky.  
 
 ## Notes

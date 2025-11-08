@@ -12,11 +12,20 @@ weight: 36
 bookHidden: true
 ---
 
-## 2.36 Ubhaya  
+## 2.36  Nitaka
 
-I’ve fully understood this body,  
-I’ve realized the end of defilements.  
-I’ve gone beyond all rebirths,  
-And attained the unconditioned.
+Whose mind is like rock,  
+Steady, not trembling?  
+Free of desire among desirable things,  
+Not agitated among agitating things?  
+For one whose mind is developed in this way,  
+From where will suffering come?  
+
+My mind is like rock,  
+Steady, not trembling,  
+Free of desire among desirable things,  
+Not agitated among agitating things.  
+For me, whose mind is developed in this way,  
+From where will suffering come?  
 
 ## Notes

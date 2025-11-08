@@ -12,16 +12,16 @@ weight: 24
 bookHidden: true
 ---
 
-## 2.24 Tissa  
+## 2.24  Valliya
 
-You were impatient,  
-When you heard the Teacher’s words;  
-You didn’t follow his instruction,  
-You didn’t listen carefully.  
+The duty of one whose energy is strong;  
+The duty of one intent on awakening:  
+That I’ll do, I won’t fail—  
+See my energy and effort!  
 
-But now you follow the instruction,  
-The word of the Teacher;  
-Mindful, you guard the Dhamma;  
-You’ve abandoned birth and death.
+Teach me the path,  
+The road that culminates in the deathless.  
+I’ll know it with wisdom,  
+As the Ganges knows the ocean.  
 
 ## Notes

@@ -18,10 +18,12 @@ Avoiding bad friends,
 You should associate with the best of people.  
 Stick to the advice that he gave you,  
 Aspiring for unshakable happiness.  
+
 If someone lost in the middle of the ocean,  
 Were to clamber up on a little log, they’d sink;  
 In the same way, even a good person would sink  
 If they rely on a lazy person.  
+
 So avoid those who are lazy, lacking energy.  
 Instead, dwell with the wise—  
 Secluded, noble,  

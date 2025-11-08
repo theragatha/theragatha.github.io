@@ -12,11 +12,16 @@ weight: 43
 bookHidden: true
 ---
 
-## 2.43 Kulla  
+## 2.43 Brahmāli
 
-In the forest I dwell alone,  
-Peaceful, free from fear;  
-No noise disturbs my meditation—  
-I live in happiness.
+Whose faculties have become serene,  
+Like horses tamed by a charioteer?  
+Who has abandoned conceit and defilements,  
+Becoming such that even the gods envy them?  
+
+My faculties have become serene,  
+Like horses tamed by a charioteer?  
+I have abandoned conceit and defilements,  
+Becoming such that even the gods envy me.  
 
 ## Notes

@@ -18,10 +18,12 @@ Whoever wishes to do afterwards
 What they should have done before  
 They’ve lost the causes for happiness,  
 And afterwards they’re tormented with remorse.  
+
 You should only say what you would do;  
 You shouldn’t say what you wouldn’t do.  
 The wise will recognize  
 One who talks without doing.  
+
 Oh! nibbāna is so very blissful,  
 As taught by the fully awakened Buddha:  
 Sorrowless, stainless, secure;  

@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.88 Samiddhi  
+# 1.88 Ajjuna
 
-The Blessed One taught me the Dhamma,  
-For the abandoning of all attachments,  
-For the ending of craving,  
-For dispassion, cessation, and nibbāna.
+I was able to lift myself up  
+From the water to the shore.   
+I’ve penetrated the truths,  
+Like one swept along on a powerful flood.  
 
 ## Notes

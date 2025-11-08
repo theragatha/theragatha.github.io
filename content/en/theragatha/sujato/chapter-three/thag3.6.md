@@ -18,10 +18,12 @@ bookHidden: true
 Such brilliant speakers, and very learned—  
 Stands at the door:  
 The old man, Khujjasobhita.  
+
 One of those monks who live in Pāṭaliputta—  
 Such brilliant speakers, and very learned—  
 Stands at the door:  
 An old man, trembling in the wind.”  
+
 “By war well fought, by sacrifice well made,  
 By victory in battle;  
 By living the spiritual life:  

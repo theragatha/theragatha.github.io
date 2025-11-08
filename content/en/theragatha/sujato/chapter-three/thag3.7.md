@@ -18,10 +18,12 @@ Anyone among men
 Who harms other creatures:  
 From this world and the next,  
 That person will fall.  
+
 But someone with a mind of loving-kindness,  
 Compassionate for all creatures:  
 That sort of person  
 Gives rise to merit in abundance.  
+
 One should train in good speech,  
 In attending closely to ascetics,  
 In sitting alone in hidden places,  

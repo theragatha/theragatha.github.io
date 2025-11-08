@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.89 Ujjaya  
+# 1.89 Devasabha
 
-Those who have destroyed the taints,  
-Who are poised and free from craving,  
-Whose faculties are peaceful,  
-Such ones are rightly called “Peaceful”.
+I’ve crossed the marshes,  
+I’ve avoided the cliﬀs,  
+I’m freed from floods and fetters,  
+And I've destroyed all conceit.  
 
 ## Notes

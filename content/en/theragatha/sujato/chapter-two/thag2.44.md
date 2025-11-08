@@ -12,11 +12,16 @@ weight: 44
 bookHidden: true
 ---
 
-## 2.44 Ānanda  
+## 2.44 Mogharāja
 
-All conditions are impermanent,  
-Subject to arising and passing away.  
-Having arisen, they cease;  
-Their stilling is true bliss.
+“Your skin is nasty but your heart is good,  
+Mogharāja, you always have samādhi.  
+But in the nights of winter, so dark and cold,  
+How will you get by, monk?”  
+
+I’ve heard that all the Magadhans  
+Have an abundance of grain.  
+I’ll make my bed under a thatched roof,  
+Just like those who live in comfort.”  
 
 ## Notes

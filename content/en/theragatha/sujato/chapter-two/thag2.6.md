@@ -17,10 +17,10 @@ bookHidden: true
 When I heard the Teacher  
 Speaking Dhamma,  
 I wasn’t aware of any doubt  
-In the all-knowing, unconquered one,  
+In the all-knowing, unconquered one, 
+
 The caravan leader, the great hero,  
 The most excellent of charioteers.  
-
 I have no doubt  
 In the path or practice.
 

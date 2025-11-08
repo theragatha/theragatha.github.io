@@ -12,16 +12,17 @@ weight: 48
 bookHidden: true
 ---
 
-## 2.48 Ekavihāriya  
+## 2.48 Vajjita
 
-In the wilderness I dwell alone,  
-Peaceful, free from fear;  
-No noise disturbs my meditation—  
-I live in happiness.  
+Transmigrating for such a long time,  
+I’ve evolved through various states of rebirth,  
+Not seeing the noble truths,  
+A blind, unenlightened person.  
 
-Having crossed the flood,  
-I’ve reached the far shore;  
-Without taints, I’m quenched,  
-Truly at peace.
+But when I became heedful  
+Transmigrating from birth to birth was disintegrated;  
+All states of rebirth were cut off;  
+Now there is no more rebirth  
+Into any state of existence  
 
 ## Notes

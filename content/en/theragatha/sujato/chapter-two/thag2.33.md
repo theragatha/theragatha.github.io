@@ -12,11 +12,16 @@ weight: 33
 bookHidden: true
 ---
 
-## 2.33 Gosāla  
+## 2.33 Upavāṇa
 
-My heart was agitated,  
-Like a fish tossed up on land.  
-But when I practiced mindfulness of the body,  
-I found peace and calm.
+The Worthy One, the world’s Holy One  
+The sage is afflicted by winds.  
+If there’s hot water,  
+Give it to the sage, brahmin.  
+
+I wish to bring it to the one  
+Who is honoured by those worthy of honour,  
+Revered by those worthy of reverence,  
+And respected by those worthy of respect.  
 
 ## Notes

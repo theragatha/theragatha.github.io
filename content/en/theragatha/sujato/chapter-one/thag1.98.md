@@ -20,6 +20,6 @@ Experiencing it with a lustful mind,
 You keep holding on.  
 Your defilements grow,  
 Leading to the root of rebirth  
-In some state of existence.
+In some state of existence.  
 
 ## Notes

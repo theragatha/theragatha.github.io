@@ -12,16 +12,16 @@ weight: 29
 bookHidden: true
 ---
 
-## 2.29 Dāsaka  
+## 2.29 Bhāradvāja
 
-There’s no fire like lust,  
-No holding like hate,  
-No net like delusion,  
-No river like craving.  
+This is how the wise roar:  
+Like lions in mountain caves,  
+Heroes, triumphant in battle,  
+Having vanquished Māra and his army.  
 
-There’s no higher state than peace,  
-No happiness beyond contentment,  
-No sickness like the aggregates,  
-No greater strength than wisdom.
+I’ve attended on the teacher;  
+I’ve honoured the Dhamma and the Saṅgha;  
+I’m happy and joyful,  
+Because I’ve seen my son free of defilements. 
 
 ## Notes

@@ -18,10 +18,12 @@ Sadly, I was intelligent and peaceful,
 But only enough to critically analyse the meaning.  
 The five kinds of sensual pleasure in the world,  
 So delusory, were my downfall.  
+
 Entering into Māra’s domain,  
 I was struck by a powerful dart;  
 But I was able to free myself  
 From the trap laid by the king of death.  
+
 All sensual pleasures have been abandoned,  
 Rebirth in all states of existence is torn apart,  
 Transmigration through births is finished,  

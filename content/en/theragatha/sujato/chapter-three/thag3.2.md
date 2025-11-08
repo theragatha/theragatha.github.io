@@ -18,10 +18,12 @@ I went forth five days ago,
 A trainee, with my heart’s goal unfulfilled.  
 I entered my dwelling,  
 And an aspiration arose in my mind.  
+
 I won’t eat; I won’t drink;  
 I won’t leave my dwelling;  
 Nor will I lie down on my side—  
 Until the dart of craving is pulled out.  
+
 See my energy and effort  
 As I practice this way!  
 I’ve attained the three knowledges,  

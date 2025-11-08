@@ -18,10 +18,12 @@ In the past you had faith,
 Today you have none.  
 What’s yours is yours alone;  
 I’ve done nothing wrong.  
+
 Faith is impermanent, fickle—  
 So I have seen.  
 People’s passions wax and wane:  
 Why should a sage grow old worrying about that?  
+
 The meal of a sage is cooked  
 Bit by bit, in this family or that.  
 I’ll walk for alms,  

@@ -12,16 +12,16 @@ weight: 37
 bookHidden: true
 ---
 
-## 2.37 Lakuṇṭaka Bhaddiya  
+## 2.37  Soṇapoṭiriya
 
-I’m small and ugly,  
-Short and dark, with little body-hair;  
-People laugh at me,  
-They call me “the little monk”.  
+Night, with its garland of stars,  
+Is not just for sleeping.  
+Those who are conscious will know  
+That night is also for waking.  
 
-But one who’s measured by knowledge,  
-By the Dhamma and virtuous conduct,  
-That one is truly a great being—  
-Not by form or family line.
+If I were to fall from the back of an elephant  
+And be trampled by the tuskers that follow,  
+Better for me to die in battle,  
+Than to live on in defeat.  
 
 ## Notes

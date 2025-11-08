@@ -1,5 +1,5 @@
 ---
-title: "4.11 Dhammika"
+title: "4.11 Sappaka"
 id: "thag4.11"
 chapter: 4
 verse: 11
@@ -12,30 +12,27 @@ weight: 11
 bookHidden: true
 ---
 
-## 4.11 Dhammika  
+## 4.11 Sappaka  
 
 
-“Dhamma really protects you if you practice Dhamma;  
-Dhamma well-practiced brings happiness.  
-If you practice Dhamma, this is the benefit—  
-You won’t go to a bad destination.  
+When the crane with its beautiful white wings,  
+Startled by fear of the dark thundercloud,  
+Flees, seeking shelter—  
+Then the River Ajakaraṇī delights me.  
 
-Dhamma and what is not Dhamma  
-Don’t both lead to the same results.  
-What is not Dhamma leads to hell,  
-While Dhamma takes you to a good destination.  
+When the crane, so pure and white,  
+Startled by fear of the dark thundercloud,  
+Seeks for a cave to shelter in, but can’t see one—  
+Then the River Ajakaraṇī delights me.  
 
-So you should be enthusiastic  
-To perform acts of Dhamma,  
-Rejoicing in the Fortunate One, the poised.  
-Disciples of the best of Fortunate Ones  
-Are firm in Dhamma;  
-Those wise ones are led on,  
-Going to the very best of refuges.”  
+Who wouldn’t be delighted  
+By the rose-apple trees  
+That adorn both banks of the river there,  
+Behind my cave?  
 
-“The boil has been burst from its root,  
-The net of craving is undone.  
-He has ended transmigration, he has nothing,  
-Just like the full moon in a clear night sky.”
+Rid of snakes, that death-mad swarm,  
+The lazy frogs croak:  
+“Today isn’t the time to stray from mountain streams;  
+Ajakaraṇī is safe, pleasant, and delightful.”
 
 ## Notes

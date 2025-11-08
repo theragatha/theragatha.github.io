@@ -12,11 +12,17 @@ weight: 31
 bookHidden: true
 ---
 
-## 2.31 Sundara Samudda  
+## 2.31 Migasira
 
-The monk who, through direct knowledge,  
-Is released from the snares of Māra—  
-The darkness is shattered for him,  
-He sees the unseeable.
+When I became a monk  
+In the teaching of the Buddha,  
+Letting go, I rose up;  
+I escaped the realm of sensual pleasures.  
+
+Then, under the supervision  
+Of the supreme Buddha,  
+My mind was freed.  
+I know that my freedom is unshakeable,  
+Because all fetters have ended.  
 
 ## Notes

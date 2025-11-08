@@ -12,11 +12,12 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.90 Sañjaya  
+# 1.90 Sāmidatta
 
-See the great excellence of the wise:  
-They’ve crossed the flood,  
-They’ve cut off the chain,  
-And they’re freed from all suffering.
+The five aggregates are fully understood;  
+They remain with the root cut oﬀ.  
+Transmigration is finished,  
+Now there is no more rebirth  
+Into any state of existence.  
 
 ## Notes

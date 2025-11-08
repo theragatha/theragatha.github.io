@@ -12,11 +12,17 @@ weight: 40
 bookHidden: true
 ---
 
-## 2.40 Moggallāna the Great  
+## 2.40 Kappaṭakura
 
-When I had understood the nature of the mind,  
-I made it still and unified;  
-Concentrated, I realized  
-The ending of all fetters.
+This fellow, “Rag-rice”, he sure is a rag.
+This place has been made for practising jhāna,
+Like a crystal vase filled to the brim
+With the nectar of the deathless,
+Into which enough Dhamma has been poured.
+
+Don’t nod off, Rag—
+I’ll smack your ear!
+Nodding off in the middle of the Saṅgha?
+You haven’t learnt a thing.
 
 ## Notes

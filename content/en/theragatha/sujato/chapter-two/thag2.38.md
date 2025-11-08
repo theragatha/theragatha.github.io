@@ -12,11 +12,17 @@ weight: 38
 bookHidden: true
 ---
 
-## 2.38 Sumaṅgala  
+## 2.38 Nisabha
 
-I’ve destroyed the taints,  
-Cut the bonds,  
-Completely uprooted craving,  
-And abandoned the round of rebirths.
+One who has gone forth  
+From the home life out of faith,  
+Leaving behind the five kinds of sensual pleasures,  
+So pleasant seeming, delighting the mind—  
+Let them put an end to suffering.  
+
+I don’t long for death;  
+I don’t long for life;  
+I await my time,  
+Aware and mindful.  
 
 ## Notes
