@@ -12,8 +12,7 @@ weight: 7
 bookHidden: true
 ---
 
-## 4.7 Sambhūta  
-
+# 4.7 Sambhūta  
 
 Hurrying when it’s time for going slowly;  
 Going slowly when it’s time to hurry;  

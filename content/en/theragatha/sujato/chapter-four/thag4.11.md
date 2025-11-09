@@ -12,8 +12,7 @@ weight: 11
 bookHidden: true
 ---
 
-## 4.11 Sappaka  
-
+# 4.11 Sappaka  
 
 When the crane with its beautiful white wings,  
 Startled by fear of the dark thundercloud,  

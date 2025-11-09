@@ -12,7 +12,7 @@ weight: 10
 bookHidden: true
 ---
 
-## 5.10 Yasadatta  
+# 5.10 Yasadatta  
 
 With fault-finding mind, the dullard  
 Listens to the conqueror’s teaching.  

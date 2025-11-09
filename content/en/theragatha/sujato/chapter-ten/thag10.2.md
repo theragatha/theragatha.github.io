@@ -12,8 +12,7 @@ weight: 2
 bookHidden: true
 ---
 
-## 10.2 Ekavihāriya  
-
+# 10.2 Ekavihāriya  
 
 If no-one else is found  
 In front or behind,  

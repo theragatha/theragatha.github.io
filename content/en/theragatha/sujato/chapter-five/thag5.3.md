@@ -12,7 +12,7 @@ weight: 3
 bookHidden: true
 ---
 
-## 5.3 Girimānanda  
+# 5.3 Girimānanda  
 
 The sky rains, like a beautiful song,  
 My little hut is roofed and pleasant,  

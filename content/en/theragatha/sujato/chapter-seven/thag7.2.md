@@ -12,8 +12,7 @@ weight: 2
 bookHidden: true
 ---
 
-## 7.2 Lakuṇḍakabhaddiya  
-
+# 7.2 Lakuṇḍakabhaddiya  
 
 Bhaddiya has plucked out craving, root and all,  
 And in a jungle thicket  

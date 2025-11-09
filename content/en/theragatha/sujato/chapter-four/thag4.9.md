@@ -12,8 +12,7 @@ weight: 9
 bookHidden: true
 ---
 
-## 4.9 Candana  
-
+# 4.9 Candana  
 
 Covered with gold,  
 Surrounded by all her maids,  

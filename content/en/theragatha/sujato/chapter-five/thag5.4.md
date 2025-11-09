@@ -12,7 +12,7 @@ weight: 4
 bookHidden: true
 ---
 
-## 5.4 Sumana  
+# 5.4 Sumana  
 
 My mentor helped me to learn,  
 Hoping that I would practice those teachings;  

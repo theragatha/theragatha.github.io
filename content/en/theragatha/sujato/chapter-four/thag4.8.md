@@ -12,8 +12,7 @@ weight: 8
 bookHidden: true
 ---
 
-## 4.8 Rāhula  
-
+# 4.8 Rāhula  
 
 I am known as “Fortunate Rāhula”,  
 Because I’m endowed in both ways:  

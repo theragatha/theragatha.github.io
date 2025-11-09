@@ -12,7 +12,7 @@ weight: 5
 bookHidden: true
 ---
 
-## 5.5 Vaḍḍha  
+# 5.5 Vaḍḍha  
 
 It was good, how my mother  
 Spurred me onwards.  

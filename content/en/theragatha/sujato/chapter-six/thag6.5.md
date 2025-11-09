@@ -12,8 +12,7 @@ weight: 5
 bookHidden: true
 ---
 
-## 6.5 Mālukyaputta  
-
+# 6.5 Mālukyaputta  
 
 For a person who lives heedlessly,  
 Craving grows like a parasitic creeper.  

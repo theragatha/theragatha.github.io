@@ -12,7 +12,7 @@ weight: 9
 bookHidden: true
 ---
 
-## 5.9 Vijitasena  
+# 5.9 Vijitasena  
 
 I’ll cage you, mind,  
 Like an elephant in a stockade.  

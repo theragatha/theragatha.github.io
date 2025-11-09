@@ -12,8 +12,7 @@ weight: 2
 bookHidden: true
 ---
 
-## 8.2 Sirimitta  
-
+# 8.2 Sirimitta  
 
 Without anger or resentment,  
 Without deceit, and rid of slander,  

@@ -12,7 +12,7 @@ weight: 7
 bookHidden: true
 ---
 
-## 5.7 Gayākassapa  
+# 5.7 Gayākassapa  
 
 Three times a day—  
 Morning, midday, and evening—  

@@ -12,8 +12,7 @@ weight: 4
 bookHidden: true
 ---
 
-## 6.4 Kulla  
-
+# 6.4 Kulla  
 
 I, Kulla, went to a charnel ground  
 And saw a woman left there,  

@@ -12,8 +12,7 @@ weight: 7
 bookHidden: true
 ---
 
-## 10.7 (Apara) Gotama  
-
+# 10.7 (Apara) Gotama  
 
 You should understand your own purpose,  
 And consider the teachings carefully,  

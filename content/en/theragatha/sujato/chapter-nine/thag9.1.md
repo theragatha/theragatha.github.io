@@ -12,8 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 9.1 Bhūta  
-
+# 9.1 Bhūta  
 
 When a wise person fully understands  
 That old age and death—  

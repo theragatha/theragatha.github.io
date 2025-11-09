@@ -12,8 +12,7 @@ weight: 6
 bookHidden: true
 ---
 
-## 10.6 Vaṅgantaputtaupasena  
-
+# 10.6 Vaṅgantaputtaupasena  
 
 In order to go on retreat,  
 A monk should stay in lodgings  

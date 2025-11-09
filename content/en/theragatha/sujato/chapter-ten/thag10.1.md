@@ -12,8 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 10.1 Kāḷudāyi  
-
+# 10.1 Kāḷudāyi  
 
 “The trees are now crimson, venerable sir,  
 They’ve shed their foliage, and are ready to fruit.  

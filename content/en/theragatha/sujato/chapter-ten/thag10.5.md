@@ -12,8 +12,7 @@ weight: 5
 bookHidden: true
 ---
 
-## 10.5 Kappa  
-
+# 10.5 Kappa  
 
 Filled with different kinds of dirt,  
 A great producer of dung,  

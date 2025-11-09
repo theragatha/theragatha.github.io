@@ -12,8 +12,7 @@ weight: 4
 bookHidden: true
 ---
 
-## 4.4 Nandaka  
-
+# 4.4 Nandaka  
 
 Damn these stinking bodies!  
 They’re on Māra’s side, they ooze;  

@@ -12,8 +12,7 @@ weight: 6
 bookHidden: true
 ---
 
-## 4.6 Senaka  
-
+# 4.6 Senaka  
 
 During the spring festival at Gayā,  
 It was so welcome for me  

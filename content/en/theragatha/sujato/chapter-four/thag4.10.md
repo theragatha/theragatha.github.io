@@ -12,8 +12,7 @@ weight: 10
 bookHidden: true
 ---
 
-## 4.10 Dhammika  
-
+# 4.10 Dhammika  
 
 “Dhamma really protects you if you practice Dhamma;  
 Dhamma well-practiced brings happiness.  

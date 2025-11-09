@@ -12,8 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 8.1 Mahākaccāyana  
-
+# 8.1 Mahākaccāyana  
 
 Don’t get involved in lots of work,  
 Avoid people, and don’t try to get more requisites.  

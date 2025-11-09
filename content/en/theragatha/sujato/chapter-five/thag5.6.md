@@ -12,7 +12,7 @@ weight: 6
 bookHidden: true
 ---
 
-## 5.6 Nadīkassapa  
+# 5.6 Nadīkassapa  
 
 It was truly for my benefit  
 That the Buddha went to the river Nerañjara;  

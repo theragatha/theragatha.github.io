@@ -12,8 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 6.1 Uruveḷakassapa  
-
+# 6.1 Uruveḷakassapa  
 
 When I saw the marvels  
 Of the renowned Gotama,  

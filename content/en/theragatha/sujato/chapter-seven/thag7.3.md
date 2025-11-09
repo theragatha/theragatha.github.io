@@ -12,8 +12,7 @@ weight: 3
 bookHidden: true
 ---
 
-## 7.3 Bhadda  
-
+# 7.3 Bhadda  
 
 I was an only child,  
 Loved by my mother and father.  

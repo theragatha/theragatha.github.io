@@ -12,8 +12,7 @@ weight: 3
 bookHidden: true
 ---
 
-## 8.3 Mahāpanthaka  
-
+# 8.3 Mahāpanthaka  
 
 When I first saw the teacher,  
 Who was free of fear from any direction,  

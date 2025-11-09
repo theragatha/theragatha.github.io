@@ -12,8 +12,7 @@ weight: 4
 bookHidden: true
 ---
 
-## 10.4 Cūḷapanthaka  
-
+# 10.4 Cūḷapanthaka  
 
 My progress was slow,  
 I was despised in the past;  

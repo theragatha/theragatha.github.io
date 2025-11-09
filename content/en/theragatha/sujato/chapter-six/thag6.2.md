@@ -12,8 +12,7 @@ weight: 2
 bookHidden: true
 ---
 
-## 6.2 Tekicchakāri  
-
+# 6.2 Tekicchakāri  
 
 “The rice has been harvested,  
 And gathered on the threshing-floor—  

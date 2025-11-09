@@ -12,7 +12,7 @@ weight: 12
 bookHidden: true
 ---
 
-## 5.12 Kosiya  
+# 5.12 Kosiya  
 
 Whatever wise person,  
 Understanding their teacher’s words,  

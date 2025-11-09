@@ -12,8 +12,7 @@ weight: 3
 bookHidden: true
 ---
 
-## 6.3 Mahānāga  
-
+# 6.3 Mahānāga  
 
 Whoever has no respect  
 For their companions in the spiritual life  

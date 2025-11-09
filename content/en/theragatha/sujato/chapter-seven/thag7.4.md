@@ -12,8 +12,7 @@ weight: 4
 bookHidden: true
 ---
 
-## 7.4 Sopāka  
-
+# 7.4 Sopāka  
 
 I saw the most excellent person,  
 Walking meditation in the shade of the terrace,  

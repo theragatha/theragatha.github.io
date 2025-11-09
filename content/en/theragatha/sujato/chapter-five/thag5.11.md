@@ -12,7 +12,7 @@ weight: 11
 bookHidden: true
 ---
 
-## 5.11 Soṇakuṭikaṇṇa  
+# 5.11 Soṇakuṭikaṇṇa  
 
 I’ve received full ordination,  
 I am liberated, without defilements,  

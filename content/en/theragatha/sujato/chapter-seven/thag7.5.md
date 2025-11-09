@@ -12,8 +12,7 @@ weight: 5
 bookHidden: true
 ---
 
-## 7.5 Sarabhaṅga  
-
+# 7.5 Sarabhaṅga  
 
 I broke the reeds off with my hands,  
 Made a hut, and stayed there.  

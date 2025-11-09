@@ -12,8 +12,7 @@ weight: 3
 bookHidden: true
 ---
 
-## 10.3 Mahākappina  
-
+# 10.3 Mahākappina  
 
 If you’re prepared for the future,  
 Both the good and the bad,  

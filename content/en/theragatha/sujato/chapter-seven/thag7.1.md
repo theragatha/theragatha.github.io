@@ -12,8 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 7.1 Sundarasamudda  
-
+# 7.1 Sundarasamudda  
 
 She was adorned with jewellery and all dressed up,  
 With a garland of flowers  

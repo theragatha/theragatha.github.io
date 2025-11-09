@@ -12,7 +12,7 @@ weight: 2
 bookHidden: true
 ---
 
-## 5.2 Subhūta  
+# 5.2 Subhūta  
 
 If a person, wishing for a certain outcome,  
 Applies themselves to a misguided endeavor,  
