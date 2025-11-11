@@ -1,5 +1,5 @@
 ---
-title: "16.5"
+title: "16.5 Mālukyaputta"
 id: "thag16.5"
 chapter: 16
 verse: verse_number
@@ -13,6 +13,7 @@ bookHidden: true
 ---
 
 # 16.5 Mālukyaputta
+
 When seeing a sight,
 Mindfulness becomes confused,
 If attention is focussed on the pleasant aspect.

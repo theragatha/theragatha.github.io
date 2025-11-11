@@ -621,257 +621,302 @@ Reducing suffering like this,
 Is said to be in the presence of nibbāna.
 
 ## 16.6 Sela
+
 “Your body is perfect, you are radiant,
 Handsome, lovely to behold,
 Blessed One, you are golden coloured,
 Your teeth are pure white, you are full of energy.
+
 The characteristics
 Of a handsome man,
 The marks of a great man,
 Are all in your body.
+
 Your eyes are clear, your face is nice,
 You are large, upright, and majestic.
-
-
 In the middle of the Saṅgha of ascetics,
 You shine like the sun.
+
 You’re a good-looking monk,
 With skin like gold;
 With such excellent appearance,
 What do you want with the ascetic life?
+
 You’re worthy of being a king,
 A wheel-rolling emperor, a bull among heroes,
 Victorious in the four directions,
 Lord of all India.
+
 Warriors, lords, and kings
 Are your followers
 You are king above kings and lord of men—
 Claim your kingship, Gotama!”
+
 “Sela, I am a king,
 Said the Blessed One to Sela,
 “The unsurpassed king of Dhamma.
 By Dhamma I set the wheel rolling,
 The wheel which cannot be rolled back.”
+
 “You claim to be awakened,”
 Said Sela the brahman,
 “The unsurpassed king of Dhamma.
 ‘By Dhamma I set the wheel rolling,’
 That is what you say, Gotama.
+
 Who is the Blessed One’s general,
 The disciple who follows the teacher?
-
 Who keeps on rolling
 The wheel of Dhama you rolled forth?”
+
 “I rolled forth the wheel,”
 Said the Blessed One to Sela,
 “The unexcelled wheel of Dhamma.
 Sāriputta, who follows the Tathāgata’s example,
 Keeps it rolling on.
+
 What’s to be known is known;
 What’s to be developed is developed;
 I’ve abandoned what’s to be abandoned;
 Therefore, brahmin, I am a Buddha.
+
 Dispel your doubt in me;
 Make up your mind, brahman!
 It’s always hard to gain
 The sight of Buddhas.
+
 I am one of those whose appearance
 Is always hard to find in this world;
 I am a Buddha, brahman,
 The unexcelled remover of darts.
+
 Holy, unequalled,
 Crusher of Māra’s army;
 Having subdued all enemies,
 I rejoice, fearing nothing in any direction.”
+
 “Listen, sirs, to what,
 Is spoken by the seer.
-
-
 Remover of darts, great hero,
 Roaring like a lion in the jungle.
+
 Holy, unequalled,
 Crusher of Māra’s army;
 Who could see him and not have faith,
 Even one whose nature is dark?
+
 Those who wish may follow me;
 Those who don’t wish may go.
 Right here, I’ll go forth,
 In the presence of the glorious wise one.”
+
 “If, sir, you adopt
 The teaching of the Buddha,
 We will also go forth
 In the presence of the glorious wise one.”
+
 These three hundred brahmans
 With hands held in añjalī, ask:
 “May we live the holy life
 In your presence, Blessed One?”
+
 “The holy life is well proclaimed,”
 Said the Buddha to Sela,
 “Apparent in this very life, without delay,
 In which the going forth isn’t in vain,
 For one heedful in the training.”
+
 “It’s the eighth day, o seer,
 Since we went to you for refuge.
-
 In seven days, Blessed One,
 We were tamed in your teaching.
+
 You are the Buddha, you are the teacher
 You are the sage who has overcome Māra;
 You have cut off the underlying tendencies,
 And having crossed over yourself,
 You bring people across.
+
 You have transcended attachments,
 Your defilements have been torn apart;
 Without grasping, like a lion,
 You’ve abandoned fear and dread.
+
 These three hundred monks
 Stand with hands in añjalī:
 Put out your feet, great hero,
 Let these beings of power venerate the teacher.”
+
 ## 16.7 Kāḷigodhāputtabhaddiya
+
 I rode on an elephant’s neck,
 Wearing delicate clothes.
 I ate rice conjey
 With pure meat sauce.
+
 Today I am fortunate, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Wearing rags, persevering,
 Happy with the scraps in my alms-bowl;
-
-
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Living on alms-food, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Possessing only three robes, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Going on alms-round from house to house
 Without exception, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Sitting alone, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Eating only what is placed in the alms-bowl,
 Persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Never eating too late, persevering,
 Happy with the scraps in my alms-bowl;
-
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Living in the wilderness, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Living at the foot of a tree, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Living in the open, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Living in a charnel ground, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Accepting whatever seat is offered, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Not lying down to sleep, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
 
-
 Having few wishes, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Content, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Secluded, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Not socializing, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Energetic, persevering,
 Happy with the scraps in my alms-bowl;
 Bhaddiya, son of Godhā,
 Practices jhāna without grasping.
+
 Giving up a valuable bronze bowl,
 And a precious golden one, too,
 I took up a clay bowl:
 This is my second initiation.
+
 Formerly I lived in a citadel
 Surrounded by high walls,
-
 With strong battlements and gates,
 And guarded by swordsmen—
 And I trembled with fear.
+
 Today I am fortunate, free of trembling,
 With fear and dread abandoned.
 Bhaddiya, son of Godhā,
 Has plunged into the forest and practices jhāna.
+
 Established in all the practices of virtue,
 Developing mindfulness and understanding,
 Gradually I attained
 The end of all fetters.
+
 ## 16.8 Aṅgulimāla
+
 “Ascetic, you’re walking,
 But you say ‘I’m standing still’;
 And I’m standing still, but you tell me I’m not.
 I’m asking you this, ascetic:
 Why are you standing still and I’m not?”
+
 “Aṅgulimāla, I always stand still—
 I’ve given up violence towards all living beings.
 But you have no restraint towards living creatures;
 That’s why I’m standing still and you’re not.”
+
 “It’s a been a long time since an ascetic,
 A great sage who I honour,
 Has entered this great forest.
 Now that I’ve heard your verse on Dhamma,
 I’ll discard a thousand evils.”
 
-
 With these words,
 The bandit hurled his sword and weapons
 Down a pit, a cliff, a chasm.
 Right there, he venerated the Fortunate One’s feet,
 And asked the Buddha for the going-forth.
+
 Then the Buddha, the compassionate great sage,
 The teacher of the world together with its gods,
 Said to him, “Come, monk!”
 Just this was enough for him to be a monk.
+
 “Whoever was heedless before,
 And afterwards is not,
 Lights up the world,
 Like the moon freed from a cloud.
+
 One whose bad deed
 Is blocked by skilful action,
 Lights up the world,
 Like the moon freed from a cloud.
+
 The young monk
 Who is devoted to the teaching of the Buddha,
 Lights up the world,
 Like the moon freed from a cloud.
+
 May even my enemies hear a Dhamma talk!
 May even my enemies
 Devote themselves to Buddha’s teaching!
@@ -882,106 +927,126 @@ May even my enemies hear Dhamma at suitable times,
 From those who speak on acceptance,
 Praising acquiescence;
 And may they practice accordingly!
+
 They would definitely not harm
 Me or anyone else;
 But would attain the ultimate peace,
 Looking after creatures both firm and fragile.
+
 Irrigators lead water,
 Fletchers shape arrows,
 Carpenters shape wood;
 The disciplined tame themselves.
+
 Some tame with sticks,
 With hooked poles or whips;
 But the poised one tamed me
 Without rod or sword.
+
 My name is ‘Harmless’,
 Though I used to be harmful.
 Today my name is truthful,
 As I don’t harm anyone.
+
 I used to be a bandit,
 The notorious Aṅgulimāla.
 Swept away in a great flood,
 I went to Buddha as a refuge.
+
 I used to have blood on my hands,
 The notorious Aṅgulimāla.
-
-
 See my going for refuge—
 I’ve undone the attachment to being reborn
 In any state of existence.
+
 I’ve done many such deeds
 As lead to a bad destination.
 I’ve experienced the result of my deeds,
 So I enjoy my food free of debt.
+
 Fools and unintelligent people
 Devote themselves to heedlessness.
 But the intelligent protect heedfulness
 As their best treasure.
+
 Don’t devote yourself to heedlessness,
 Nor delight in sexual intimacy.
 If you are heedful and practice jhāna
 You’ll attain the highest happiness.
+
 It was welcome, not unwelcome,
 The advice I got was good.
 Of things which are shared,
 I encountered the best.
+
 It was welcome, not unwelcome,
 The advice I got was good.
 I’ve attained the three knowledges,
 And fulfilled the Buddha’s instructions.
+
 In the wilderness, at the foot of a tree,
 In mountains, or in caves;
-
 At that time, wherever I stood,
 My mind was anxious.
+
 But now I lie down happily and stand up happily,
 I live my life happily,
 Out of Māra’s reach;
 The teacher had compassion for me.
+
 I used to belong to the brahman caste,
 Highborn on both sides,
 Now I’m a son of the Fortunate One,
 The teacher, the King of Dhamma.
+
 I am free of craving, without grasping,
 My sense-doors are guarded and well-restrained.
 I’ve destroyed the root of misery,
 And attained the end of defilements.
+
 I’ve attended on the teacher
 And fulfilled the Buddha’s instructions.
 The heavy burden is laid down,
 I’ve undone the attachment
 To being reborn in any state of existence.”
+
 ## 16.9 Anuruddha
+
 Leaving my mother and father behind,
 As well as sisters, kinsmen, and brothers;
 Abandoning the five kinds of sensual pleasures,
 Anuruddha practices jhāna.
+
 Surrounded by song and dance,
 Awakened by cymbals and gongs,
-
-
 He did not find purification,
 While delighting in Māra’s domain.
+
 But he has gone beyond all that,
 And delights in the teaching of the Buddha.
 Having crossed over the entire flood,
 Anuruddha practices jhāna.
+
 Sights, sounds, tastes, smells;
 Touches that please the mind.
 Having crossed over these as well,
 Anuruddha practices jhāna.
+
 The sage returned from alms-round,
 Alone, without companion.
 Seeking rags from the dust heap,
 Anuruddha is without defilements.
+
 The thoughtful sage
 Selected rags from the dust heap;
 He picked them up, washed, dyed, and wore them;
 Anuruddha is without defilements.
+
 The principles of someone
 Who has many wishes and is not content,
 Who socializes and is conceited,
 Are wicked and corrupted.
+
 But someone who is mindful, of few wishes,
 Content and untroubled,
 Delighting in seclusion, joyful,
@@ -991,51 +1056,60 @@ Their principles are skilful,
 Leading to awakening;
 They are without defilements—
 So it was said by the great sage.
+
 Knowing my thought,
 The world’s unsurpassed teacher
 Came up to me in his mind-made body,
 Using his psychic powers.
+
 When I had that thought
 He taught me more.
 The Buddha,
 Delighting in freedom from proliferation,
 Taught it to me.
+
 Understanding the Dhamma,
 I lived happily in the teaching.
 I’ve attained the three knowledges,
 And fulfilled the Buddha’s instructions.
+
 For the last fifty-five years
 I have not lain down to sleep;
 Twenty-five years have passed
 Since drowsiness was uprooted.
+
 The poised one, with steady heart,
 Was not breathing;
 Imperturbable, committed to peace,
 The seer has realised nibbāna.
 
-
 With a positive mind
 He put up with painful feelings;
 The liberation of his heart
 Was like the quenching of a lamp.
+
 Now these touches and the other four
 Are the last to be experienced by the sage;
 Nor will there be other mental phenomena
 Since the Buddha realised nibbāna.
+
 Weaver of the web, now there are no future lives
 In the company of gods.
 Transmigration through births is finished,
 Now there is no more rebirth
 Into any state of existence.
+
 Whoever in a moment knows the thousand-fold world,
 Together with the Brahmā realm;
 That monk, a master of psychic powers,
 Knowing the passing away and rebirth of beings,
 Sees even the gods at that time.
+
 In the past I was Annabhāra,
 A poor carrier of fodder.
 I made an offering
 To the renowned ascetic, Upariṭṭha.
+
 Then I was born in the Sakyan clan,
 Where I was known as “Anuruddha”.
 Surrounded by song and dance,
@@ -1045,52 +1119,62 @@ Then I saw the Buddha
 The teacher, without fear from any direction;
 Filling my mind with confidence in him,
 I went forth into homelessness.
+
 I know my past life,
 Where I used to live—
 I was born as Sakka,
 And stayed among the Tāvatiṃsa gods.
+
 Seven times I was a king of men
 Ruling a kingdom,
 Victorious in the four directions,
 Lord of all India.
 Without violence or sword,
 I governed by principle.
+
 Seven here, seven there,
 For fourteen transmigrations
 I remember my past lives;
 At that time I stayed in the realm of the gods.
+
 I have gained complete tranquillity
 In samādhi with five factors;
 Peaceful, serene,
 My clairvoyance is purified.
+
 Steady in jhāna with five factors,
 I know the passing away and rebirth of beings,
 Their coming and going,
 Their lives in this state and that.
-
 
 I’ve attended on the teacher
 And fulfilled the Buddha’s instructions.
 The heavy burden is laid down,
 I’ve undone the attachment to being reborn
 In any state of existence.
+
 In the Vajjian village of Veḷuva,
 At the end of life,
 Beneath a thicket of bamboos,
 I’ll realise nibbāna without defilements.
+
 ## 16.10 Pārāpariya
+
 While the ascetic practiced jhāna,
 Seated in seclusion, unified,
 In the forest full of flowers,
 This thought came to him:
+
 “The behaviour of the monks
 These days seems different
 From when the lord of the world,
 The best of men, was still here.
+
 Their robes were only for covering the private parts,
 And protection from the cold and wind;
 They ate in moderation,
 Content with whatever they were offered.
+
 Whether refined or rough,
 Little or much,
 They ate only for sustenance,
@@ -1100,78 +1184,93 @@ They weren’t so very eager,
 For the requisites of life,
 Such as tonics and other necessities,
 As they were for the end of defilements.
+
 In the wilderness, at the foot of trees,
 In caves and caverns,
 Committed to seclusion,
 They lived with that as their final goal.
+
 They were used to simple things,
 And were easy to look after,
 Gentle, their hearts not stubborn,
 Unsullied, not talkative,
 Their minds were intent on the goal.
+
 In this way they inspired confidence,
 In their movements, eating, and practice;
 Their deportment was smooth
 As a stream of oil.
+
 With the ending of all defilements,
 Those senior monks have now realised nibbāna;
 They were great meditators and great benefactors—
 There are few like them today.
+
 With the ending
 Of good principles and understanding,
 The conqueror’s teaching,
 Full of all excellent qualities, has fallen apart.
 
-
 This is the season
 For bad principles and defilements.
 Those who are ready for seclusion
 Are all that’s left of the true Dhamma.
+
 As they grow, the defilements
 Possess many people;
 They play with fools, I believe,
 Like demons with the mad.
+
 Overcome by defilements,
 They run here and there
 Among the causes for defilement,
 As if they had declared war on themselves.
+
 Having abandoned true Dhamma,
 They argue with each other;
 Following wrong views
 They think, ‘This is better.’
+
 They cut off their wealth,
 Children, and wife to go forth;
 But then they do what they shouldn’t,
 For the sake of a measly spoon of alms-food.
+
 They eat until their bellies are full,
 And then they lie to sleep on their backs.
 When they wake again, they keep on talking,
 The kind of talk that the teacher criticized.
+
 Valuing all the arts and crafts,
 They train themselves in them;
-
 Not being calm inside,
 They think, ‘This is the purpose of the ascetic life’.
+
 They provide clay, oil, and talcum powder,
 Water, lodgings, and food
 For householders,
 Expecting more in return.
+
 As well as tooth-picks, wood-apples,
 Flowers, food to eat,
 Well-cooked alms-food,
 Mangoes and myrobalans.
+
 In medicine they are like doctors,
 In business like householders,
 In decoration like prostitutes,
 In sovereignty like lords.
+
 Cheats, frauds,
 False witnesses, sly:
 Using multiple plans,
 They enjoy material things.
+
 Pursuing shams, contrivances, and plans,
 By this means
 They accumulate a lot of wealth
 For the sake of their livelihood.
+
 They assemble the community
 For business rather than Dhamma.
 They teach the Dhamma to others
@@ -1182,23 +1281,28 @@ Those outside the Saṅgha
 Quarrel over the Saṅgha’s property.
 They’re shameless, and do not care
 That they live on someone else’s property.
+
 Some who have a shaven head
 And wear the outer robe,
 Are not devoted to practice,
 But wish only to be honored,
 Infatuated with property and reverence.
+
 When things have come to this,
 It’s not easy these days
 To realise what has not yet been realised,
 Or to preserve what has been realised.
+
 A person with mindfulness established
 Could walk without shoes
 Even in a thorny place;
 That is how a sage should walk in the village.
+
 Remembering the meditators of old,
 And recollecting their conduct;
 Even in the latter days,
 It is still possible to realise the deathless.”
+
 That is what the ascetic, whose faculties
 Were fully developed, said in the sāla tree grove.
 The holy man, the sage, realised nibbāna:

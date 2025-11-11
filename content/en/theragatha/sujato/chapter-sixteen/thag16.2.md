@@ -1,5 +1,5 @@
 ---
-title: "16.2"
+title: "16.2 Pārāpariya"
 id: "thag16.2"
 chapter: 16
 verse: verse_number

@@ -1,5 +1,5 @@
 ---
-title: "16.4"
+title: "16.4 Raṭṭhapāla"
 id: "thag16.4"
 chapter: 16
 verse: verse_number

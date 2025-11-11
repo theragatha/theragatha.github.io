@@ -1,5 +1,5 @@
 ---
-title: "16.3"
+title: "16.3 Telakāni"
 id: "thag16.3"
 chapter: 16
 verse: verse_number
