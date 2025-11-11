@@ -1,11 +1,16 @@
 ---
 title: "Chapter Eleven"
-weight: 11
+id: "chapter-eleven"
+chapter: 2
+edition: "SuttaCentral"
+collection: "Theragāthā"
+pali_source: "suttacentral"
+translator: "Bhikkhu Sujato"
+slug: "chapter-eleven"
+weight: 2
 ---
 
 # Chapter Eleven
-
-*Translated by Bhikkhu Sujato.*
 
 ## 11.1 Saṅkicca  
 

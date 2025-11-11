@@ -1,11 +1,16 @@
 ---
 title: "Chapter Fifteen"
+id: "chapter-fifteen"
+chapter: 15
+edition: "SuttaCentral"
+collection: "Theragāthā"
+pali_source: "suttacentral"
+translator: "Bhikkhu Sujato"
+slug: "chapter-fifteen"
 weight: 15
 ---
 
 # Chapter Fifteen
-
-*Translated by Bhikkhu Sujato.*
 
 ## 15.1 Aññāsikoṇḍañña  
 

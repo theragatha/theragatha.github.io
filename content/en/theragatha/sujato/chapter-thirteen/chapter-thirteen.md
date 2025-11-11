@@ -1,11 +1,16 @@
 ---
 title: "Chapter Thirteen"
+id: "chapter-thirteen"
+chapter: 13
+edition: "SuttaCentral"
+collection: "Theragāthā"
+pali_source: "suttacentral"
+translator: "Bhikkhu Sujato"
+slug: "chapter-thirteen"
 weight: 13
 ---
 
 # Chapter Thirteen
-
-*Translated by Bhikkhu Sujato.*
 
 ## 13.1 Soṇakoḷivisa  
 

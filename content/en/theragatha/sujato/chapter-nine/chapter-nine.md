@@ -1,11 +1,16 @@
 ---
-title: "Chapter Nine"
+title: "Chapter nine"
+id: "chapter-nine"
+chapter: 9
+edition: "SuttaCentral"
+collection: "Theragāthā"
+pali_source: "suttacentral"
+translator: "Bhikkhu Sujato"
+slug: "chapter-nine"
 weight: 9
 ---
 
 # Chapter Nine
-
-*Translated by Bhikkhu Sujato.*
 
 ## 9.1 Bhūta  
 

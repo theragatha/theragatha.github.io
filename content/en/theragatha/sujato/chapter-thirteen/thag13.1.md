@@ -12,8 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 13.1 Soṇakoḷivisa  
-
+# 13.1 Soṇakoḷivisa  
 
 He who was special in the kingdom,  
 The attendant to the king of Aṅga,  

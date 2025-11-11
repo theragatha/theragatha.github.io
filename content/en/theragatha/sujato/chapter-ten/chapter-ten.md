@@ -1,5 +1,12 @@
 ---
 title: "Chapter Ten"
+id: "chapter-ten"
+chapter: 2
+edition: "SuttaCentral"
+collection: "Theragāthā"
+pali_source: "suttacentral"
+translator: "Bhikkhu Sujato"
+slug: "chapter-ten"
 weight: 10
 ---
 

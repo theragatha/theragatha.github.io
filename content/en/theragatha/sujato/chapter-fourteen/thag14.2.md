@@ -12,8 +12,7 @@ weight: 2
 bookHidden: true
 ---
 
-## 14.2 Godatta  
-
+# 14.2 Godatta  
 
 Just as a fine thoroughbred,  
 Yoked to a carriage, endures the load,  

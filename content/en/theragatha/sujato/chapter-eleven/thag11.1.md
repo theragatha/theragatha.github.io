@@ -12,8 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 11.1 Saṅkicca  
-
+# 11.1 Saṅkicca  
 
 “Like an ujjuhāna-bird in the rainy season,  
 Child, is there benefit for you in the grove?  

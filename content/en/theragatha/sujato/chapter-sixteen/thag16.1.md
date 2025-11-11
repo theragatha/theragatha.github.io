@@ -1,19 +1,18 @@
 ---
-title: "Chapter Sixteen"
-id: "chapter-sixteen"
+title: "16.1 Adhimutta"
+id: "thag16.1"
 chapter: 16
+verse: 1
+slug: "thag16.1"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-sixteen"
 weight: 16
+bookHidden: true
 ---
 
-# Chapter Sixteen
-
-
-## 16.1 Adhimutta
+# 16.1 Adhimutta
 
 “Those that we previously killed,
 Whether for sacrifice or for wealth,

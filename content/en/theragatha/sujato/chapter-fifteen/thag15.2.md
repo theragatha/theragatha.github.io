@@ -12,8 +12,7 @@ weight: 2
 bookHidden: true
 ---
 
-## 15.2 Udāyi  
-
+# 15.2 Udāyi  
 
 An person who has become  
 Awakened as a human being,  

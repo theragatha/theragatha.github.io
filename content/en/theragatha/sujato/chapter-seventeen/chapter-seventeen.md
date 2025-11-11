@@ -5,8 +5,6 @@ weight: 17
 
 # Chapter Seventeen
 
-*Translated by Bhikkhu Sujato.*
-
 ## 17.1 Phussa  
 
 Seeing many who inspire confidence,  

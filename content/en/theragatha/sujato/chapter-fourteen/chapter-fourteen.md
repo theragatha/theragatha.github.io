@@ -1,11 +1,16 @@
 ---
 title: "Chapter Fourteen"
+id: "chapter-fourteen"
+chapter: 14
+edition: "SuttaCentral"
+collection: "Theragāthā"
+pali_source: "suttacentral"
+translator: "Bhikkhu Sujato"
+slug: "chapter-fourteen"
 weight: 14
 ---
 
 # Chapter Fourteen
-
-*Translated by Bhikkhu Sujato.*
 
 ## 14.1 Khadiravaniyarevata  
 

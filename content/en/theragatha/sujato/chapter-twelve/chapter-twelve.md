@@ -1,13 +1,18 @@
 ---
 title: "Chapter Twelve"
+id: "chapter-twelve"
+chapter: 12
+edition: "SuttaCentral"
+collection: "Theragāthā"
+pali_source: "suttacentral"
+translator: "Bhikkhu Sujato"
+slug: "chapter-twelve"
 weight: 12
 ---
 
 # Chapter Twelve
 
-*Translated by Bhikkhu Sujato.*
-
-## 12.1 Sīlava  
+# 12.1 Sīlava  
 
 One should train just in virtue,  
 For in this world, when virtue is  

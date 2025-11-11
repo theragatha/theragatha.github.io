@@ -12,8 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 15.1 Aññāsikoṇḍañña  
-
+# 15.1 Aññāsikoṇḍañña  
 
 “My confidence grew  
 As I heard the Dhamma, so full of flavor.  

@@ -12,8 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 14.1 Khadiravaniyarevata  
-
+# 14.1 Khadiravaniyarevata  
 
 Since I’ve gone forth  
 From home life into homelessness,  
