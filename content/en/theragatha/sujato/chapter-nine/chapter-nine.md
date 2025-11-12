@@ -1,5 +1,5 @@
 ---
-title: "Chapter nine"
+title: "Chapter Nine"
 id: "chapter-nine"
 chapter: 9
 edition: "SuttaCentral"

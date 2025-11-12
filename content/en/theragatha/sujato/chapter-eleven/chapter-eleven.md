@@ -1,13 +1,13 @@
 ---
 title: "Chapter Eleven"
 id: "chapter-eleven"
-chapter: 2
+chapter: 11
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
 slug: "chapter-eleven"
-weight: 2
+weight: 11
 ---
 
 # Chapter Eleven
