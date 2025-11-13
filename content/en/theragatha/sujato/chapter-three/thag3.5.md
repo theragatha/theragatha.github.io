@@ -12,7 +12,7 @@ weight: 5
 bookHidden: true
 ---
 
-## 3.5 Mātaṅgaputta  
+# 3.5 Mātaṅgaputta  
 
 “It’s too cold, too hot,  
 Too late,” they say.  

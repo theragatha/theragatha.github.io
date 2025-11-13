@@ -12,7 +12,7 @@ weight: 11
 bookHidden: true
 ---
 
-## 3.11 Upāli  
+# 3.11 Upāli  
 
 One newly gone forth,  
 Who has left their home out of faith,  

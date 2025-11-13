@@ -12,7 +12,7 @@ weight: 6
 bookHidden: true
 ---
 
-## 3.6 Khujjasobhita  
+# 3.6 Khujjasobhita  
 
 “One of those monks who live in Pāṭaliputta—  
 Such brilliant speakers, and very learned—  

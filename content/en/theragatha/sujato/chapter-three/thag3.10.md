@@ -12,7 +12,7 @@ weight: 10
 bookHidden: true
 ---
 
-## 3.10 Sāṭimattiya  
+# 3.10 Sāṭimattiya  
 
 In the past you had faith,  
 Today you have none.  

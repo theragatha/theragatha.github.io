@@ -12,7 +12,7 @@ weight: 7
 bookHidden: true
 ---
 
-## 3.7 Vāraṇa  
+# 3.7 Vāraṇa  
 
 Anyone among men  
 Who harms other creatures:  

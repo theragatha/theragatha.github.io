@@ -12,7 +12,7 @@ weight: 15
 bookHidden: true
 ---
 
-## 3.15 Hārita  
+# 3.15 Hārita  
 
 Whoever wishes to do afterwards  
 What they should have done before,  

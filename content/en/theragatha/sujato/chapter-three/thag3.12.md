@@ -12,7 +12,7 @@ weight: 12
 bookHidden: true
 ---
 
-## 3.12 Uttarapāla  
+# 3.12 Uttarapāla  
 
 Sadly, I was intelligent and peaceful,  
 But only enough to critically analyse the meaning.  

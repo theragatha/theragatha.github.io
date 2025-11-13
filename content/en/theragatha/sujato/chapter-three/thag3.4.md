@@ -12,7 +12,7 @@ weight: 4
 bookHidden: true
 ---
 
-## 3.4 Dhaniya  
+# 3.4 Dhaniya  
 
 One who hopes for the ascetic life,  
 Wishing to live in happiness,  

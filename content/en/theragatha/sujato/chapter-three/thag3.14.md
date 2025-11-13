@@ -12,7 +12,7 @@ weight: 14
 bookHidden: true
 ---
 
-## 3.14 Gotama  
+# 3.14 Gotama  
 
 Transmigrating, I went to hell;  
 Again and again, I went to the ghost realm;  

@@ -12,7 +12,7 @@ weight: 2
 bookHidden: true
 ---
 
-## 3.2 Paccaya  
+# 3.2 Paccaya  
 
 I went forth five days ago,  
 A trainee, with my heart’s goal unfulfilled.  

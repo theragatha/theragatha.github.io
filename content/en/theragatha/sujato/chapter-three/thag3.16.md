@@ -12,7 +12,7 @@ weight: 16
 bookHidden: true
 ---
 
-## 3.16 Vimala  
+# 3.16 Vimala  
 
 Avoiding bad friends,  
 You should associate with the best of people.  

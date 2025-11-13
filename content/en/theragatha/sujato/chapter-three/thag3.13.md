@@ -12,7 +12,7 @@ weight: 13
 bookHidden: true
 ---
 
-## 3.13 Abhibhūta  
+# 3.13 Abhibhūta  
 
 All my family gathered here,  
 Listen to me,  

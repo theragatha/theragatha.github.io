@@ -12,7 +12,7 @@ weight: 9
 bookHidden: true
 ---
 
-## 3.9 Yasoja  
+# 3.9 Yasoja  
 
 “With knobbly knees,  
 Thin, with veins matted on his skin,  

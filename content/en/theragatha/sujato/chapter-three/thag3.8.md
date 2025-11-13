@@ -12,7 +12,7 @@ weight: 8
 bookHidden: true
 ---
 
-## 3.8 Vassika
+# 3.8 Vassika
 
 I was the only one in my family  
 Who had faith and wisdom.  

@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 3.1 Aṅgaṇikabhāradvāja  
+# 3.1 Aṅgaṇikabhāradvāja  
 
 Seeking purity the wrong way,  
 I worshipped the sacred fire in a grove.  
