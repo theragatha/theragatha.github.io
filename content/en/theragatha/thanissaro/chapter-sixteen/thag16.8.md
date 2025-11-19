@@ -54,7 +54,7 @@ said to him then:\
 “Come, monk.”\
 That in itself\
 was monkhood for him.\
-\* * \*
+\* * *\
 Aṅgulimāla:\
 Who once was heedless,\
 but later is not,\
