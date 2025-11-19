@@ -94,6 +94,8 @@ def create_consolidated_file(chapter_dir, output_filename='chapter-' + chapter_n
             output_lines.append(f'weight: {chapter_number}')
         elif line.startswith('verse:'):
             continue  # skip verse-specific field
+        elif line.startswith('bookHidden:'):
+            output_lines.append('bookHidden: false')
         else:
             output_lines.append(line)
     
