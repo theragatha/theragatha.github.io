@@ -8,6 +8,7 @@ pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
 slug: "chapter-one"
 weight: 1
+bookHidden: true
 ---
 
 # Chapter One

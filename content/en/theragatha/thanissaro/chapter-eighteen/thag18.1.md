@@ -38,7 +38,7 @@ of families—\
 a subtle arrow, hard to extract.\
 Offerings are hard for a worthless man\
 to let go.\
-\* * \*
+\* * *\
 Coming down from my dwelling place,\
 I entered the city for alms,\
 stood courteously next to a leper\
@@ -61,7 +61,7 @@ the foot of a tree for a dwelling,\
 cast-off rags for robes:\
 He is a man\
 of the four directions.\
-\* * \*
+\* * *\
 Where some are exhausted\
 climbing the mountain,\
 there[^2]\
@@ -157,7 +157,7 @@ as there is when my mind\
 is at one,\
 seeing the Dhamma\
 aright.\
-\* * \*
+\* * *\
 One shouldn’t do lots of work,\
 should avoid people,\
 shouldn’t busy oneself.\
@@ -171,7 +171,7 @@ The body gets wearied,\
 fatigued.\
 Aching, one finds\
 no tranquility.\
-\* * \*
+\* * *\
 Simply by flapping the mouth\
 one doesn’t see\
 even oneself.\
@@ -223,7 +223,7 @@ his faculties restrained, shines\
 because of his robe of cast-off rags,\
 like a lion\
 in the cleft of a mountain.\
-\* * \*
+\* * *\
 These many devas,\
 powerful, prestigious\
 —10,000 devas—\
@@ -252,7 +252,7 @@ a man worthy of worship,\
 worshipped by deva retinues,\
 Kappina\
 smiled.[^5]\
-\* * \*
+\* * *\
 As far as this buddha-field[^6] extends\
 —except for the great sage himself—\
 I’m the one\
