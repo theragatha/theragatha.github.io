@@ -8,7 +8,7 @@ collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
 weight: 3
-bookHidden: true
+bookHidden: false
 ---
 
 # Chapter Three
