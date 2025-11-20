@@ -1,8 +1,8 @@
 import re
 from pathlib import Path
 
-chapter_number = "4"
-chapter_number_word = "Four"
+chapter_number = "21"
+chapter_number_word = "Twenty-One"
 
 def extract_verse_data(file_path):
     """Extract verse number, title, body from a thag file."""
@@ -16,21 +16,21 @@ def extract_verse_data(file_path):
     front_matter = parts[1].strip()
     body = parts[2].strip()
     
-    # Extract verse number from filename (e.g., thag2.1 -> 2.1)
+    # Extract verse number from filename (e.g., thag7.1 -> 7.1)
     match = re.search(r'thag(\d+\.\d+)', file_path.stem)
     if not match:
         return None
     
     verse_num = match.group(1)
     
-    # Extract title line (## N.N Name) — note the double ##
+    # Extract title line (# N.N Name)
     title_match = re.search(r'^#\s+(\d+\.\d+)\s+(.+)$', body, re.MULTILINE)
     if not title_match:
         return None
     
     title = title_match.group(2).strip()
     
-    # Extract verse content: from ## line to ## Notes or end of file
+    # Extract verse content: from # line to ## Notes or end of file
     verse_start = body.find(f'# {verse_num}')
     notes_start = body.find('## Notes')
     
@@ -54,12 +54,20 @@ def extract_verse_data(file_path):
         'front_matter': front_matter
     }
 
-def create_consolidated_file(chapter_dir, output_filename='chapter-' + chapter_number_word.lower() + '-consolidated.md'):
-    """Read all thag*.md files, sort by verse number, create consolidated file."""
+def create_consolidated_file(chapter_number, chapter_number_word):
+    """Read all thag*.md files from chapter folder, sort by verse number, create consolidated file."""
+    
+    # Construct chapter folder path
+    chapter_dir = Path(__file__).parent / f'chapter-{chapter_number_word.lower()}'
+    
+    if not chapter_dir.exists():
+        print(f"Chapter directory not found: {chapter_dir}")
+        return
+    
     verses = []
     
     # Collect all verses
-    for md_file in sorted(chapter_dir.glob('thag' + chapter_number + '*.md')):
+    for md_file in sorted(chapter_dir.glob(f'thag{chapter_number}*.md')):
         data = extract_verse_data(md_file)
         if data:
             verses.append(data)
@@ -71,11 +79,8 @@ def create_consolidated_file(chapter_dir, output_filename='chapter-' + chapter_n
         print("No verses found")
         return
     
-    # Sort by verse number (2.1, 2.2, etc.)
+    # Sort by verse number
     verses.sort(key=lambda v: tuple(map(int, v['num'].split('.'))))
-    
-    # Build output
-    output_lines = []
     
     # Build output
     output_lines = ["---"]
@@ -114,13 +119,13 @@ def create_consolidated_file(chapter_dir, output_filename='chapter-' + chapter_n
     output_lines.append('## Notes')
     
     # Write consolidated file
+    output_filename = f'chapter-{chapter_number_word.lower()}.md'
     output_path = chapter_dir / output_filename
     output_path.write_text('\n'.join(output_lines) + '\n', encoding='utf-8')
     print(f"\nWrote consolidated file: {output_path}")
 
 def main():
-    chapter_dir = Path(__file__).parent
-    create_consolidated_file(chapter_dir)
+    create_consolidated_file(chapter_number, chapter_number_word)
 
 if __name__ == '__main__':
     main()
