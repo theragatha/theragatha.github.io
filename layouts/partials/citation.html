@@ -1,7 +1,28 @@
+<!-- 
 {{- with .Page.File -}}
   {{- $path := .Path | lower -}}
   {{- if in $path "/sujato/" -}}
     {{- $defaultCitation := "*Translation © Bhikkhu Sujato 2018, from [SuttaCentral.net](https://suttacentral.net), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*" -}}
+    <div class="page-citation" style="margin-top:0.75rem; font-size:0.95em; color:var(--muted)">
+      <div class="citation-text">
+        {{ $defaultCitation | markdownify }}
+      </div>
+    </div>
+  {{- end -}}
+{{- end -}} -->
+
+{{- with .Page.File -}}
+  {{- $path := .Path | lower -}}
+  
+  {{- if in $path "/sujato/" -}}
+    {{- $defaultCitation := "*Translation © Bhikkhu Sujato 2018, from [SuttaCentral.net](https://suttacentral.net), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*" -}}
+    <div class="page-citation" style="margin-top:0.75rem; font-size:0.95em; color:var(--muted)">
+      <div class="citation-text">
+        {{ $defaultCitation | markdownify }}
+      </div>
+    </div>
+  {{- else if in $path "/thanissaro/" -}}
+    {{- $defaultCitation := "*Translation © Thanissara Bhikkhu, from [Access to Insight](https://www.accesstoinsight.org/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*" -}}
     <div class="page-citation" style="margin-top:0.75rem; font-size:0.95em; color:var(--muted)">
       <div class="citation-text">
         {{ $defaultCitation | markdownify }}
