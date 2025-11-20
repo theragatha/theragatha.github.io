@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 19.1 Tāḷapuṭa
+# 19.1 Tāḷapuṭa
 
 Oh, when will I stay in a mountain cave,\
 Alone, with no companion,\

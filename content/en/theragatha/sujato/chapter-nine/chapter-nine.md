@@ -2,17 +2,18 @@
 title: "Chapter Nine"
 id: "chapter-nine"
 chapter: 9
+slug: "chapter-nine"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-nine"
 weight: 9
+bookHidden: false
 ---
 
 # Chapter Nine
 
-## 9.1 Bhūta  
+## [9.1 Bhūta](../thag9.1/)
 
 When a wise person fully understands  
 That old age and death—  
@@ -66,6 +67,6 @@ When one is happy, destroyer of stains,
 Heartlessness, and sorrow,  
 Without obstructions, entanglements, and darts,  
 And with all defilements annihilated, practising jhāna:  
-There is no greater pleasure than this.  
+There is no greater pleasure than this.
 
-
+## Notes

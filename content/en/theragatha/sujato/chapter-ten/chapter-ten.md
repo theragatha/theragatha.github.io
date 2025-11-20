@@ -1,20 +1,19 @@
 ---
 title: "Chapter Ten"
 id: "chapter-ten"
-chapter: 2
+chapter: 10
+slug: "chapter-ten"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-ten"
 weight: 10
+bookHidden: false
 ---
 
 # Chapter Ten
 
-*Translated by Bhikkhu Sujato.*
-
-## 10.1 Kāḷudāyi  
+## [10.1 Kāḷudāyi](../thag10.1/)
 
 “The trees are now crimson, venerable sir,  
 They’ve shed their foliage, and are ready to fruit.  
@@ -67,10 +66,9 @@ Gotamī is surrounded by those hosts of gods.”
 The incomparable Aṅgīrasa, the poised—  
 I bear the unbearable.  
 You, Sakya, are my father’s father;  
-Gotama, you are my grandfather in the Dhamma.”  
+Gotama, you are my grandfather in the Dhamma.”
 
-
-## 10.2 Ekavihāriya  
+## [10.2 Ekavihāriya](../thag10.2/)
 
 If no-one else is found  
 In front or behind,  
@@ -121,10 +119,9 @@ My intentions are fulfilled
 Like the moon on the fifteenth day.  
 With the utter ending of all defilements,  
 Now there is no more rebirth  
-Into any state of existence.  
+Into any state of existence.
 
-
-## 10.3 Mahākappina  
+## [10.3 Mahākappina](../thag10.3/)
 
 If you’re prepared for the future,  
 Both the good and the bad,  
@@ -179,10 +176,9 @@ That those who stay in your family
 Have understanding and learning,  
 And do their duty  
 Through the power of understanding,  
-Just as you’d cross a full river by boat.  
+Just as you’d cross a full river by boat.
 
-
-## 10.4 Cūḷapanthaka  
+## [10.4 Cūḷapanthaka](../thag10.4/)
 
 My progress was slow,  
 I was despised in the past;  
@@ -232,10 +228,9 @@ The teacher received the offering.
 Recipient of gifts from the whole world,  
 Receiver of sacrifices,  
 Field of merit for humanity,  
-He received the offering.  
+He received the offering.
 
-
-## 10.5 Kappa  
+## [10.5 Kappa](../thag10.5/)
 
 Filled with different kinds of dirt,  
 A great producer of dung,  
@@ -285,10 +280,9 @@ And take up rebirth again in some state of existence.
 Those who avoid this body,  
 Like a snake smeared with dung,  
 They expel the root of rebirth,  
-And realise nibbāna, without defilements.  
+And realise nibbāna, without defilements.
 
-
-## 10.6 Vaṅgantaputtaupasena  
+## [10.6 Vaṅgantaputtaupasena](../thag10.6/)
 
 In order to go on retreat,  
 A monk should stay in lodgings  
@@ -338,10 +332,9 @@ Until they have attained the end of suffering.
 For a monk who dwells in this way,  
 Longing for purification,  
 All his defilements wither away,  
-And he attains nibbāna.  
+And he attains nibbāna.
 
-
-## 10.7 (Apara) Gotama  
+## [10.7 (Apara) Gotama](../thag10.7/)
 
 You should understand your own purpose,  
 And consider the teachings carefully,  
@@ -392,4 +385,6 @@ This is appropriate for an ascetic.
 A sage should abandon craving,  
 With defilements split apart, root and all,  
 They should live liberated—  
-This is appropriate for an ascetic.  
+This is appropriate for an ascetic.
+
+## Notes

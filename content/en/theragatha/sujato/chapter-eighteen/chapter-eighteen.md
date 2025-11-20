@@ -2,17 +2,18 @@
 title: "Chapter Eighteen"
 id: "chapter-eighteen"
 chapter: 18
+slug: "chapter-eighteen"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-eighteen"
 weight: 18
+bookHidden: false
 ---
 
 # Chapter Eighteen
 
-## 18.1 Mahākassapa
+## [18.1 Mahākassapa](../thag18.1/)
 
 You shouldn’t live for the adulation of a following;\
 It turns your mind, and makes samādhi hard to find.\
@@ -224,3 +225,5 @@ Is the establishment of mindfulness;\
 Faith is his hands, and wisdom his head.\
 Having great knowledge,\
 He always wanders, quenched.
+
+## Notes

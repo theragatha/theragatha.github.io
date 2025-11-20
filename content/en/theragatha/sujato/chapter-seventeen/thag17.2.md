@@ -12,7 +12,7 @@ weight: 2
 bookHidden: true
 ---
 
-## 17.2 Sāriputta  
+# 17.2 Sāriputta  
 
 “A mindful person is like one of good conduct,  
 Or like one who is peaceful;  

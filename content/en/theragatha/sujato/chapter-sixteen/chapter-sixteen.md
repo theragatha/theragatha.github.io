@@ -2,227 +2,228 @@
 title: "Chapter Sixteen"
 id: "chapter-sixteen"
 chapter: 16
+slug: "chapter-sixteen"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-sixteen"
 weight: 16
+bookHidden: false
 ---
 
 # Chapter Sixteen
 
+## [16.1 Adhimutta](../thag16.1/)
 
-## 16.1 Adhimutta
-
-“Those that we previously killed,
-Whether for sacrifice or for wealth,
-Without exception were afraid:
+“Those that we previously killed,\
+Whether for sacrifice or for wealth,\
+Without exception were afraid:\
 They trembled and squealed.
 
-But you aren’t frightened;
-Your appearance is becoming more calm:
-Why don’t you cry out
+But you aren’t frightened;\
+Your appearance is becoming more calm:\
+Why don’t you cry out\
 In such a fearful situation?”
 
-“There isn’t any mental suffering
-For one without expectations, village chief.
-All fears are left behind
+“There isn’t any mental suffering\
+For one without expectations, village chief.\
+All fears are left behind\
 By one whose fetters are ended.
 
-When attachment to life is ended,
-In this very life as it is,
-There is no fear of death,
+When attachment to life is ended,\
+In this very life as it is,\
+There is no fear of death,\
 It is just like laying down a burden.
 
-I’ve lived the spiritual life well,
-And developed the path well, too;
-I have no fear of death
+I’ve lived the spiritual life well,\
+And developed the path well, too;\
+I have no fear of death\
 It is just like the ending of sickness.
 
-I’ve lived the spiritual life well,
-And developed the path well, too;
-I’ve seen lives seen to be ungratifying,
+I’ve lived the spiritual life well,\
+And developed the path well, too;\
+I’ve seen lives seen to be ungratifying,\
 Like one who has drunk poison, then vomited it out.
 
-One who has gone beyond, without grasping,
-Their duty completed, without defilements:
-They are content at the end of life,
+One who has gone beyond, without grasping,\
+Their duty completed, without defilements:\
+They are content at the end of life,\
 Just as one freed from execution.
 
-Having realised the supreme Dhamma,
-Without needing anything from the whole world,
-One doesn’t grieve at death;
+Having realised the supreme Dhamma,\
+Without needing anything from the whole world,\
+One doesn’t grieve at death;\
 It is just like escaping from a burning house.
 
-Whatever has come to pass,
-Wherever life is obtained,
-There is no-one who can wield power over all that:
+Whatever has come to pass,\
+Wherever life is obtained,\
+There is no-one who can wield power over all that:\
 So it was said by the great sage.
 
-Whoever understands this
-As it was taught by the Buddha
-Doesn’t take hold of any kind of life,
+Whoever understands this\
+As it was taught by the Buddha\
+Doesn’t take hold of any kind of life,\
 It is just like grabbing a hot iron ball.
 
-It doesn’t occur to me, ‘I had past lives’;
-Nor does it occur to me, ‘I will have future lives’.
-All conditions will disappear—
+It doesn’t occur to me, ‘I had past lives’;\
+Nor does it occur to me, ‘I will have future lives’.\
+All conditions will disappear—\
 Why lament for that?
 
-Seeing in accordance with reality
-The bare arising of phenomena,
-And the bare continuity of conditions,
+Seeing in accordance with reality\
+The bare arising of phenomena,\
+And the bare continuity of conditions,\
 There is no fear, village chief.
 
-The world is like grass and wood:
-When this is seen with understanding,
-Not finding anything to be mine,
+The world is like grass and wood:\
+When this is seen with understanding,\
+Not finding anything to be mine,\
 Thinking ‘it isn’t mine’, one doesn’t grieve.
 
-I’m fed up with the body;
-I don’t need another life.
-This body will be broken up,
+I’m fed up with the body;\
+I don’t need another life.\
+This body will be broken up,\
 There won’t be another.
 
-Do what you want
-With my corpse.
-I won’t be angry or attached
+Do what you want\
+With my corpse.\
+I won’t be angry or attached\
 On that account.”
 
-When they heard these words,
-So astonishing that they gave them goose-bumps,
-The young men laid down their swords
+When they heard these words,\
+So astonishing that they gave them goose-bumps,\
+The young men laid down their swords\
 And said this:
 
-“What have you practiced, Venerable?
-Or who is your teacher?
-Whose instructions do we follow
+“What have you practiced, Venerable?\
+Or who is your teacher?\
+Whose instructions do we follow\
 To gain the sorrowless state?”
 
-“All-knowing, all-seeing,
-The conqueror is my teacher.
-He is a teacher of great compassion,
+“All-knowing, all-seeing,\
+The conqueror is my teacher.\
+He is a teacher of great compassion,\
 Healer of the whole world.
 
-He taught this Dhamma,
-Which leads to the end, unsurpassed.
-Following his instructions,
+He taught this Dhamma,\
+Which leads to the end, unsurpassed.\
+Following his instructions,\
 You can gain the sorrowless state.”
 
-When the bandits heard the good words of the sage,
-They laid down their swords and weapons.
-Some refrained from their deeds,
+When the bandits heard the good words of the sage,\
+They laid down their swords and weapons.\
+Some refrained from their deeds,\
 While others chose the going-forth.
 
-When they had gone forth
-In the teaching of the Fortunate One,
-They developed the factors of awakening
-And the spiritual powers,
-And being wise, with joyful hearts, happy,
-Their spiritual faculties complete,
+When they had gone forth\
+In the teaching of the Fortunate One,\
+They developed the factors of awakening\
+And the spiritual powers,\
+And being wise, with joyful hearts, happy,\
+Their spiritual faculties complete,\
 They realised the state of nibbāna, the unconditioned.
 
-## 16.2 Pārāpariya
-While he was sitting alone
-In seclusion, practicing jhāna,
-An ascetic, the monk Pārāpariya
+## [16.2 Pārāpariya](../thag16.2/)
+
+While he was sitting alone\
+In seclusion, practicing jhāna,\
+An ascetic, the monk Pārāpariya\
 Had this thought:
 
-“Following what system
-What vow, what conduct,
-May I do what I need to do for myself,
+“Following what system\
+What vow, what conduct,\
+May I do what I need to do for myself,\
 Without harming anyone else?
 
-The faculties of human beings
-Can lead to both welfare and harm.
-Unguarded they lead to harm;
+The faculties of human beings\
+Can lead to both welfare and harm.\
+Unguarded they lead to harm;\
 Guarded they lead to welfare.
 
-By protecting the faculties,
-Taking care of the faculties,
-I can do what I need to do for myself
+By protecting the faculties,\
+Taking care of the faculties,\
+I can do what I need to do for myself\
 Without harming anyone else.
 
-If your eye wanders
-Among sights without check,
-Not seeing the danger,
+If your eye wanders\
+Among sights without check,\
+Not seeing the danger,\
 You’re not freed from suffering.
 
-If your ear wanders
-Among sounds without check,
-Not seeing the danger,
+If your ear wanders\
+Among sounds without check,\
+Not seeing the danger,\
 You’re not freed from suffering.
 
-If, not seeing the escape,
-You indulge in smell,
-You’re not freed from suffering,
+If, not seeing the escape,\
+You indulge in smell,\
+You’re not freed from suffering,\
 Being infatuated by smells.
 
-Recollecting the sour,
-And the sweet and the bitter,
-Captivated by craving for taste,
+Recollecting the sour,\
+And the sweet and the bitter,\
+Captivated by craving for taste,\
 You don’t understand the heart.
 
-Recollecting lovely
-And pleasurable touches,
-Full of desire, you experience
+Recollecting lovely\
+And pleasurable touches,\
+Full of desire, you experience\
 Many kinds of suffering because of lust.
 
-Unable to protect
-The mind from such mental phenomena,
-Suffering follows them,
+Unable to protect\
+The mind from such mental phenomena,\
+Suffering follows them,\
 Because of all five.
 
-This body is full of pus and blood,
-As well as many carcasses;
-But cunning people decorate it
+This body is full of pus and blood,\
+As well as many carcasses;\
+But cunning people decorate it\
 Like a lovely painted casket.
 
-You don’t understand that
-The gratification of sweetness turns out bitter,
-And attachments to those we love are suffering,
+You don’t understand that\
+The gratification of sweetness turns out bitter,\
+And attachments to those we love are suffering,\
 Like a razor smeared all over with honey.
 
-Full of lust for the sight of a woman,
-For the voice and the smells of a woman,
-For a woman’s touch,
+Full of lust for the sight of a woman,\
+For the voice and the smells of a woman,\
+For a woman’s touch,\
 You experience many kinds of suffering.
 
-All of a woman’s streams
-Flow from five to five.
-Whoever, being energetic,
+All of a woman’s streams\
+Flow from five to five.\
+Whoever, being energetic,\
 Is able to curb these,
 
-Purposeful and firm in Dhamma,
-Would be clever and discerning;
-Even while enjoying himself,
-What he does is connected
+Purposeful and firm in Dhamma,\
+Would be clever and discerning;\
+Even while enjoying himself,\
+What he does is connected\
 With Dhamma and its purpose.
 
-You should avoid a meaningless task
-That is leading to decline.
-Thinking, ‘This is not to be done’,
+You should avoid a meaningless task\
+That is leading to decline.\
+Thinking, ‘This is not to be done’,\
 Is being diligent and discerning.
 
-Whatever is meaningful,
-A principled happiness,
-Let one undertake and practice that:
+Whatever is meaningful,\
+A principled happiness,\
+Let one undertake and practice that:\
 This is the best happiness.
 
-Coveting the possessions of others
-By whatever means, whether high or low,
-One kills, injures, and torments,
+Coveting the possessions of others\
+By whatever means, whether high or low,\
+One kills, injures, and torments,\
 Violently plundering the possessions of others.
 
-Just as a strong person when building
-Knocks out a peg with a peg,
-So the skilful person
+Just as a strong person when building\
+Knocks out a peg with a peg,\
+So the skilful person\
 Knocks out the faculties with the faculties.
 
-Developing faith, energy, samādhi
-Mindfulness, and wisdom;
-Destroying the five with the five,
+Developing faith, energy, samādhi\
+Mindfulness, and wisdom;\
+Destroying the five with the five,\
 The perfected one lives without worry.
 
 Purposeful and firm in Dhamma,
@@ -230,397 +231,399 @@ Having fulfilled in every respect
 The instructions spoken by the Buddha,
 That person prospers in happiness.”
 
-## 16.3 Telakāni
-For a long time, unfortunately,
-Though I ardently contemplated the Dhamma,
-I didn’t have peace of mind;
+## [16.3 Telakāni](../thag16.3/)
+
+For a long time, unfortunately,\
+Though I ardently contemplated the Dhamma,\
+I didn’t have peace of mind;\
 So I asked ascetics and holy men:
 
-“Who has crossed over the world?
-Whose attainment culminates in the deathless?
-Whose teaching do I accept,
+“Who has crossed over the world?\
+Whose attainment culminates in the deathless?\
+Whose teaching do I accept,\
 To understand the highest goal?
 
-I was hooked inside,
-Like a fish swallowing bait;
-Bound like the demon Vepaciti
+I was hooked inside,\
+Like a fish swallowing bait;\
+Bound like the demon Vepaciti\
 In Mahinda’s trap.
 
-Dragging it along, I’m not freed
-From grief and lamentation.
-Who will free me from bonds in the world,
+Dragging it along, I’m not freed\
+From grief and lamentation.\
+Who will free me from bonds in the world,\
 So that I may know awakening?
 
-What ascetic or holy man
-Points to the perishable?
-Whose teaching do I accept
+What ascetic or holy man\
+Points to the perishable?\
+Whose teaching do I accept\
 To wash away old age and death?
 
-Tied up with uncertainty and doubt,
-Secured by the power of pride,
-Rigid as a mind overcome by anger;
+Tied up with uncertainty and doubt,\
+Secured by the power of pride,\
+Rigid as a mind overcome by anger;\
 The arrow of covetousness,
 
-Propelled by the bow of craving,
-Is stuck in my twice-fifteen ribs—
-See how it stands in my breast,
+Propelled by the bow of craving,\
+Is stuck in my twice-fifteen ribs—\
+See how it stands in my breast,\
 Breaking my strong heart.
 
-Speculative views are not abandoned,
-They are sharpened by memories and intentions;
-And pierced by this I tremble,
+Speculative views are not abandoned,\
+They are sharpened by memories and intentions;\
+And pierced by this I tremble,\
 Like a leaf blown by wind.
 
-Arising inside me,
-My selfishness is quickly tormented,
-Where the body always goes
+Arising inside me,\
+My selfishness is quickly tormented,\
+Where the body always goes\
 With its six sense-fields of contact.
 
-I don’t see a healer
-Who could pull out my dart of doubt,
-Without a lance
+I don’t see a healer\
+Who could pull out my dart of doubt,\
+Without a lance\
 Or some other blade.
 
-Without knife or wound,
-Who will pull out this dart,
-That is stuck inside me,
+Without knife or wound,\
+Who will pull out this dart,\
+That is stuck inside me,\
 Without harming any part of my body?
 
-He really would be the Lord of the Dhamma,
-The best one to cure the damage of poison;
-When I had fallen into deep waters,
+He really would be the Lord of the Dhamma,\
+The best one to cure the damage of poison;\
+When I had fallen into deep waters,\
 He would give me his hand and bring me to the shore.
 
-I’ve plunged into a lake,
-And I can’t wash off the mud and dirt,
-It’s full of fraud, jealousy, pride,
+I’ve plunged into a lake,\
+And I can’t wash off the mud and dirt,\
+It’s full of fraud, jealousy, pride,\
 And dullness and drowsiness.
 
-Like a thunder-cloud of restlessness,
-Like a rain-cloud of fetters;
-Intentions based on lust are winds
+Like a thunder-cloud of restlessness,\
+Like a rain-cloud of fetters;\
+Intentions based on lust are winds\
 That sweep along a person with bad views.
 
-The streams flow everywhere;
-A weed springs up and remains;
-Who will block the streams?
+The streams flow everywhere;\
+A weed springs up and remains;\
+Who will block the streams?\
 Who will cut the weed?”
 
-“Venerable sir, build a dam
-To block the streams;
-Don’t let your mind-made streams
+“Venerable sir, build a dam\
+To block the streams;\
+Don’t let your mind-made streams\
 Cut you down suddenly like a tree.”
 
-That is how the teacher whose weapon is wisdom,
-The sage surrounded by the Saṅgha,
-Was my shelter when I was full of fear,
+That is how the teacher whose weapon is wisdom,\
+The sage surrounded by the Saṅgha,\
+Was my shelter when I was full of fear,\
 Seeking the far shore from the near.
 
-As I was being swept away,
-He gave me a strong, simple ladder,
-Made of the heartwood of Dhamma,
+As I was being swept away,\
+He gave me a strong, simple ladder,\
+Made of the heartwood of Dhamma,\
 And he said to me: “Do not fear.”
 
-I climbed the tower
-Of the establishment of mindfulness
-And looked back down,
-At people delighting in identity,
+I climbed the tower\
+Of the establishment of mindfulness\
+And looked back down,\
+At people delighting in identity,\
 Which in the past I’d obsessed over.
 
-When I saw the path,
-As I was embarking on the ship,
-Without fixating on the self,
+When I saw the path,\
+As I was embarking on the ship,\
+Without fixating on the self,\
 I saw the supreme landing-place.
 
-The dart that arises in oneself,
-And that which is caused
-By attachment to future lives;
-He taught the supreme path
+The dart that arises in oneself,\
+And that which is caused\
+By attachment to future lives;\
+He taught the supreme path\
 For the stopping of these.
 
-For a long time it had lain within me;
-For a long time it was fixed in me:
-The Buddha cast off the knot,
+For a long time it had lain within me;\
+For a long time it was fixed in me:\
+The Buddha cast off the knot,\
 Curing the poison’s damage.
 
-## 16.4 Raṭṭhapāla
+## [16.4 Raṭṭhapāla](../thag16.4/)
 
-See this fancy puppet,
-A heap of sores, a composite body,
-Diseased, obsessed over,
+See this fancy puppet,\
+A heap of sores, a composite body,\
+Diseased, obsessed over,\
 Having no lasting stability.
 
-See this fancy shape,
-With its gems and earrings;
-It is bones wrapped with skin,
+See this fancy shape,\
+With its gems and earrings;\
+It is bones wrapped with skin,\
 Made pretty by its clothes.
 
-Rouged feet
-And powdered face
-Is enough to delude a fool,
+Rouged feet\
+And powdered face\
+Is enough to delude a fool,\
 But not a seeker of the far shore.
 
-Hair in eight braids
-And eyeliner,
-Is enough to delude a fool,
+Hair in eight braids\
+And eyeliner,\
+Is enough to delude a fool,\
 But not a seeker of the far shore.
 
-Like a newly decorated makeup box,
-The disgusting body all adorned
-Is enough to delude a fool,
+Like a newly decorated makeup box,\
+The disgusting body all adorned\
+Is enough to delude a fool,\
 But not a seeker of the far shore.
 
-The hunter laid his trap,
-But the deer didn’t get caught in the snare;
-Having eaten the bait we go,
+The hunter laid his trap,\
+But the deer didn’t get caught in the snare;\
+Having eaten the bait we go,\
 Leaving the deer-trapper to lament.
 
-The hunter’s trap is broken,
-And the deer didn’t get caught in the snare;
-Having eaten the bait we go,
+The hunter’s trap is broken,\
+And the deer didn’t get caught in the snare;\
+Having eaten the bait we go,\
 Leaving the deer-trapper to lament.
 
-I see rich people in the world,
-Who, because of delusion,
-Don’t give away the wealth they have gained.
-Greedily, they hoard their riches,
+I see rich people in the world,\
+Who, because of delusion,\
+Don’t give away the wealth they have gained.\
+Greedily, they hoard their riches,\
 Yearning for ever more sensual pleasures.
 
-A king who conquered the earth by force,
-Ruling the land from sea to sea,
-Unsatisfied with the near shore of the ocean,
+A king who conquered the earth by force,\
+Ruling the land from sea to sea,\
+Unsatisfied with the near shore of the ocean,\
 Would still yearn for the further shore.
 
-The king and most other people
-Reach death while not free from craving.
-As if lacking, they abandon the body;
-For sensual pleasures offer
+The king and most other people\
+Reach death while not free from craving.\
+As if lacking, they abandon the body;\
+For sensual pleasures offer\
 No satisfaction in this world.
 
-Relatives lament, their hair let loose,
-Saying “Ah! Alas! They’re not immortal!”
-They take out the body wrapped in a shroud,
+Relatives lament, their hair let loose,\
+Saying “Ah! Alas! They’re not immortal!”\
+They take out the body wrapped in a shroud,\
 Heap up a pyre, and burn it.
 
-It is poked with stakes while being burnt,
-Wearing a single cloth, all wealth abandoned.
-Neither kinsman nor friends nor companions
+It is poked with stakes while being burnt,\
+Wearing a single cloth, all wealth abandoned.\
+Neither kinsman nor friends nor companions\
 Can help you when you are dying.
 
-Heirs take the riches,
-But beings fare on in accord with their deeds.
-Riches don’t follow you when you die;
+Heirs take the riches,\
+But beings fare on in accord with their deeds.\
+Riches don’t follow you when you die;\
 Nor do children, wife, wealth, nor kingdom.
 
-Longevity isn’t gained by riches,
-Nor does wealth banish old age;
-For the wise have said that this life is short,
+Longevity isn’t gained by riches,\
+Nor does wealth banish old age;\
+For the wise have said that this life is short,\
 It is not eternal, its nature is decay.
 
-The rich and the poor feel its touch;
-The fool and the wise feel it too;
-But the fool lies as if struck down by their own folly,
+The rich and the poor feel its touch;\
+The fool and the wise feel it too;\
+But the fool lies as if struck down by their own folly,\
 While the wise don’t tremble at the touch.
 
-Therefore wisdom is definitely better than wealth,
-Since by wisdom
-You can attain perfection in this life;
-But if you stay unperfected,
-Then because of delusion,
+Therefore wisdom is definitely better than wealth,\
+Since by wisdom\
+You can attain perfection in this life;\
+But if you stay unperfected,\
+Then because of delusion,\
 You’ll do evil deeds in life after life.
 
-One person enters a womb and the world beyond,
-Transmigrating from one life to the next;
-While someone of little wisdom, placing faith in them,
+One person enters a womb and the world beyond,\
+Transmigrating from one life to the next;\
+While someone of little wisdom, placing faith in them,\
 Also enters a womb and the world beyond.
 
-Just as a bandit caught at the entrance to a house
-Is punished due to their own bad deeds;
-So after passing away, in the world beyond
+Just as a bandit caught at the entrance to a house\
+Is punished due to their own bad deeds;\
+So after passing away, in the world beyond\
 People are punished due to their own bad deeds.
 
-Sensual pleasures are diverse, sweet, delightful,
-But their variety of forms stress the mind;
-Seeing danger in the kinds of sensual pleasure,
+Sensual pleasures are diverse, sweet, delightful,\
+But their variety of forms stress the mind;\
+Seeing danger in the kinds of sensual pleasure,\
 I went forth, O King.
 
-As fruit falls from a tree, so people fall,
-Young and old, when the body breaks up.
-Seeing this, too, I went forth, O King;
+As fruit falls from a tree, so people fall,\
+Young and old, when the body breaks up.\
+Seeing this, too, I went forth, O King;\
 Without doubt, the ascetic life is better.
 
-Endowed with faith, I went forth,
-Entering the conqueror’s teaching.
-My going forth wasn’t wasted;
+Endowed with faith, I went forth,\
+Entering the conqueror’s teaching.\
+My going forth wasn’t wasted;\
 I eat food free of debt.
 
-I saw sensual pleasures as burning,
-Gold as a cutting blade,
-Conception in a womb as suffering,
+I saw sensual pleasures as burning,\
+Gold as a cutting blade,\
+Conception in a womb as suffering,\
 And the hells as very fearful.
 
-Knowing this danger,
-I was struck with awe.
-I was stabbed, and then I became peaceful;
+Knowing this danger,\
+I was struck with awe.\
+I was stabbed, and then I became peaceful;\
 I’ve attained the end of defilements.
 
-I’ve attended on the teacher
-And fulfilled the Buddha’s instructions.
-The heavy burden is laid down,
-I’ve undone the attachment to being reborn
+I’ve attended on the teacher\
+And fulfilled the Buddha’s instructions.\
+The heavy burden is laid down,\
+I’ve undone the attachment to being reborn\
 In any state of existence.
 
-I’ve attained the goal
-For the sake of which I went forth
-From home life into homelessness—
+I’ve attained the goal\
+For the sake of which I went forth\
+From home life into homelessness—\
 The ending of all fetters.
 
-## 16.5 Mālukyaputta
-When seeing a sight,
-Mindfulness becomes confused,
-If attention is focussed on the pleasant aspect.
-Experiencing it with a mind full of desire,
+## [16.5 Mālukyaputta](../thag16.5/)
+
+When seeing a sight,\
+Mindfulness becomes confused,\
+If attention is focussed on the pleasant aspect.\
+Experiencing it with a mind full of desire,\
 One remains clinging to it.
 
-Many feelings grow
-Arising from sights.
-The mind is damaged
-By covetousness and cruelty.
-Heaping up suffering like this,
+Many feelings grow\
+Arising from sights.\
+The mind is damaged\
+By covetousness and cruelty.\
+Heaping up suffering like this,\
 Is said to be far from nibbāna.
 
-When hearing a sound,
-Mindfulness becomes confused,
-If attention is focussed on the pleasant aspect.
-Experiencing it with a mind full of desire,
+When hearing a sound,\
+Mindfulness becomes confused,\
+If attention is focussed on the pleasant aspect.\
+Experiencing it with a mind full of desire,\
 One remains clinging to it.
 
-Many feelings grow
-Arising from sounds.
-The mind is damaged
-By covetousness and cruelty.
-Heaping up suffering like this,
+Many feelings grow\
+Arising from sounds.\
+The mind is damaged\
+By covetousness and cruelty.\
+Heaping up suffering like this,\
 Is said to be far from nibbāna.
 
-When smelling a smell,
-Mindfulness becomes confused,
-If attention is focussed on the pleasant aspect.
-Experiencing it with a mind full of desire,
+When smelling a smell,\
+Mindfulness becomes confused,\
+If attention is focussed on the pleasant aspect.\
+Experiencing it with a mind full of desire,\
 One remains clinging to it.
 
-Many feelings grow
-Arising from smells.
-The mind is damaged
-By covetousness and cruelty.
-Heaping up suffering like this,
+Many feelings grow\
+Arising from smells.\
+The mind is damaged\
+By covetousness and cruelty.\
+Heaping up suffering like this,\
 Is said to be far from nibbāna.
 
-When savouring a taste,
-Mindfulness becomes confused,
-If attention is focussed on the pleasant aspect.
-Experiencing it with a mind full of desire,
+When savouring a taste,\
+Mindfulness becomes confused,\
+If attention is focussed on the pleasant aspect.\
+Experiencing it with a mind full of desire,\
 One remains clinging to it.
 
-Many feelings grow
-Arising from tastes.
-The mind is damaged
-By covetousness and cruelty.
-Heaping up suffering like this,
+Many feelings grow\
+Arising from tastes.\
+The mind is damaged\
+By covetousness and cruelty.\
+Heaping up suffering like this,\
 Is said to be far from nibbāna.
 
-When touching a touch,
-Mindfulness becomes confused,
-If attention is focussed on the pleasant aspect.
-Experiencing it with a mind full of desire,
+When touching a touch,\
+Mindfulness becomes confused,\
+If attention is focussed on the pleasant aspect.\
+Experiencing it with a mind full of desire,\
 One remains clinging to it.
 
-Many feelings grow
-Arising from touches.
-The mind is damaged
-By covetousness and cruelty.
-Heaping up suffering like this,
+Many feelings grow\
+Arising from touches.\
+The mind is damaged\
+By covetousness and cruelty.\
+Heaping up suffering like this,\
 Is said to be far from nibbāna.
 
-When knowing a mental phenomenon,
-Mindfulness becomes confused,
-If attention is focussed on the pleasant aspect.
-Experiencing it with a mind full of desire,
+When knowing a mental phenomenon,\
+Mindfulness becomes confused,\
+If attention is focussed on the pleasant aspect.\
+Experiencing it with a mind full of desire,\
 One remains clinging to it.
 
-Many feelings grow
-Arising from mental phenomena.
-The mind is damaged
-By covetousness and cruelty.
-Heaping up suffering like this,
+Many feelings grow\
+Arising from mental phenomena.\
+The mind is damaged\
+By covetousness and cruelty.\
+Heaping up suffering like this,\
 Is said to be far from nibbāna.
 
-Seeing a sight with mindfulness,
-There is no desire for sights.
-Experiencing it with a mind free of desire,
+Seeing a sight with mindfulness,\
+There is no desire for sights.\
+Experiencing it with a mind free of desire,\
 One doesn’t remain clinging to it.
 
-As it is for someone who lives mindfully,
-When repeatedly seeing a sight,
-Feeling is ended, not added to.
-Reducing suffering like this,
+As it is for someone who lives mindfully,\
+When repeatedly seeing a sight,\
+Feeling is ended, not added to.\
+Reducing suffering like this,\
 Is said to be in the presence of nibbāna.
 
-Hearing a sound with mindfulness,
-There is no desire for sounds.
-Experiencing it with a mind free of desire,
+Hearing a sound with mindfulness,\
+There is no desire for sounds.\
+Experiencing it with a mind free of desire,\
 One doesn’t remain clinging to it.
 
-As it is for someone who lives mindfully,
-When repeatedly hearing a sound,
-Feeling is ended, not added to.
-Reducing suffering like this,
+As it is for someone who lives mindfully,\
+When repeatedly hearing a sound,\
+Feeling is ended, not added to.\
+Reducing suffering like this,\
 Is said to be in the presence of nibbāna.
 
-Smelling a smell with mindfulness,
-There is no desire for smells.
-Experiencing it with a mind free of desire,
+Smelling a smell with mindfulness,\
+There is no desire for smells.\
+Experiencing it with a mind free of desire,\
 One doesn’t remain clinging to it.
 
-As it is for someone who lives mindfully,
-When repeatedly smelling a smell,
-Feeling is ended, not added to.
-Reducing suffering like this,
+As it is for someone who lives mindfully,\
+When repeatedly smelling a smell,\
+Feeling is ended, not added to.\
+Reducing suffering like this,\
 Is said to be in the presence of nibbāna.
 
-Savouring a taste with mindfulness,
-There is no desire for tastes.
-Experiencing it with a mind free of desire,
+Savouring a taste with mindfulness,\
+There is no desire for tastes.\
+Experiencing it with a mind free of desire,\
 One doesn’t remain clinging to it.
 
-As it is for someone who lives mindfully,
-When repeatedly savouring a taste,
-Feeling is ended, not added to.
-Reducing suffering like this,
+As it is for someone who lives mindfully,\
+When repeatedly savouring a taste,\
+Feeling is ended, not added to.\
+Reducing suffering like this,\
 Is said to be in the presence of nibbāna.
 
-Touching a touch with mindfulness,
-There is no desire for touches.
-Experiencing it with a mind free of desire,
+Touching a touch with mindfulness,\
+There is no desire for touches.\
+Experiencing it with a mind free of desire,\
 One doesn’t remain clinging to it.
 
-As it is for someone who lives mindfully,
-When repeatedly touching a touch,
-Feeling is ended, not added to.
-Reducing suffering like this,
+As it is for someone who lives mindfully,\
+When repeatedly touching a touch,\
+Feeling is ended, not added to.\
+Reducing suffering like this,\
 Is said to be in the presence of nibbāna.
 
-Knowing a mental phenomenon with mindfulness,
-There is no desire for mental phenomena.
-Experiencing it with a mind free of desire,
+Knowing a mental phenomenon with mindfulness,\
+There is no desire for mental phenomena.\
+Experiencing it with a mind free of desire,\
 One doesn’t remain clinging to it.
 
-As it is for someone who lives mindfully,
-When repeatedly knowing a mental phenomenon,
-Feeling is ended, not added to.
-Reducing suffering like this,
+As it is for someone who lives mindfully,\
+When repeatedly knowing a mental phenomenon,\
+Feeling is ended, not added to.\
+Reducing suffering like this,\
 Is said to be in the presence of nibbāna.
 
-## 16.6 Sela
+## [16.6 Sela](../thag16.6/)
 
 “Your body is perfect, you are radiant,
 Handsome, lovely to behold,
@@ -747,7 +750,7 @@ Stand with hands in añjalī:
 Put out your feet, great hero,
 Let these beings of power venerate the teacher.”
 
-## 16.7 Kāḷigodhāputtabhaddiya
+## [16.7 Kāḷigodhāputtabhaddiya](../thag16.7/)
 
 I rode on an elephant’s neck,
 Wearing delicate clothes.
@@ -872,7 +875,7 @@ Developing mindfulness and understanding,
 Gradually I attained
 The end of all fetters.
 
-## 16.8 Aṅgulimāla
+## [16.8 Aṅgulimāla](../thag16.8/)
 
 “Ascetic, you’re walking,
 But you say ‘I’m standing still’;
@@ -1010,7 +1013,7 @@ The heavy burden is laid down,
 I’ve undone the attachment
 To being reborn in any state of existence.”
 
-## 16.9 Anuruddha
+## [16.9 Anuruddha](../thag16.9/)
 
 Leaving my mother and father behind,
 As well as sisters, kinsmen, and brothers;
@@ -1158,7 +1161,7 @@ At the end of life,
 Beneath a thicket of bamboos,
 I’ll realise nibbāna without defilements.
 
-## 16.10 Pārāpariya
+## [16.10 Pārāpariya](../thag16.10/)
 
 While the ascetic practiced jhāna,
 Seated in seclusion, unified,
@@ -1307,3 +1310,5 @@ That is what the ascetic, whose faculties
 Were fully developed, said in the sāla tree grove.
 The holy man, the sage, realised nibbāna:
 Ending more rebirth into any state of existence.
+
+## Notes

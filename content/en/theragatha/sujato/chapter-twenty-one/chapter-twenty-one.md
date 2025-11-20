@@ -2,17 +2,18 @@
 title: "Chapter Twenty-One"
 id: "chapter-twenty-one"
 chapter: 21
+slug: "chapter-twenty-one"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-twenty-one"
 weight: 21
+bookHidden: false
 ---
 
 # Chapter Twenty-One
 
-## 21.1 Vaṅgīsa
+## [21.1 Vaṅgīsa](../thag21.1/)
 
 “Now that I’ve gone forth\
 From the home life into homelessness,\
@@ -389,3 +390,5 @@ God of gods, best of men, I bow to you;\
 And to your son,\
 Who follows your example, a great hero\
 An elephant, true son of an elephant.”
+
+## Notes

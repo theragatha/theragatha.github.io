@@ -12,7 +12,7 @@ weight: 3
 bookHidden: true
 ---
 
-## 17.3 Ānanda  
+# 17.3 Ānanda  
 
 “A wise person would not make friends  
 With a slanderous or hostile person,  

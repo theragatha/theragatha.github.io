@@ -2,17 +2,18 @@
 title: "Chapter Fifteen"
 id: "chapter-fifteen"
 chapter: 15
+slug: "chapter-fifteen"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-fifteen"
 weight: 15
+bookHidden: false
 ---
 
 # Chapter Fifteen
 
-## 15.1 Aññāsikoṇḍañña  
+## [15.1 Aññāsikoṇḍañña](../thag15.1/)
 
 “My confidence grew  
 As I heard the Dhamma, so full of flavor.  
@@ -95,9 +96,9 @@ In any state of existence.
 I’ve attained the goal  
 For the sake of which I went forth  
 From home life into homelessness—  
-What use do I have for students?  
+What use do I have for students?
 
-## 15.2 Udāyi  
+## [15.2 Udāyi](../thag15.2/)
 
 An person who has become  
 Awakened as a human being,  
@@ -178,4 +179,6 @@ What the elephant taught the elephant.
 Free of desire, free of hatred,  
 Free of delusion, without defilements,  
 The elephant, abandoning their body,  
-Realises nibbāna without defilements.  
+Realises nibbāna without defilements.
+
+## Notes

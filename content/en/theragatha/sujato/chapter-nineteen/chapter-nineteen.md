@@ -2,17 +2,18 @@
 title: "Chapter Nineteen"
 id: "chapter-nineteen"
 chapter: 19
+slug: "chapter-nineteen"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-nineteen"
 weight: 19
+bookHidden: false
 ---
 
 # Chapter Nineteen
 
-## 19.1 Tāḷapuṭa
+## [19.1 Tāḷapuṭa](../thag19.1/)
 
 Oh, when will I stay in a mountain cave,\
 Alone, with no companion,\
@@ -334,3 +335,5 @@ Under your will and command,\
 Whatever pleasure they experience,\
 They are ignorant and fall under Māra’s control;\
 Loving life, they’re your disciples, mind.
+
+## Notes

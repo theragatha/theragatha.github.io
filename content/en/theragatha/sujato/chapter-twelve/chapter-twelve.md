@@ -2,17 +2,18 @@
 title: "Chapter Twelve"
 id: "chapter-twelve"
 chapter: 12
+slug: "chapter-twelve"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-twelve"
 weight: 12
+bookHidden: false
 ---
 
 # Chapter Twelve
 
-# 12.1 Sīlava  
+## [12.1 Sīlava](../thag12.1/)
 
 One should train just in virtue,  
 For in this world, when virtue is  
@@ -72,10 +73,9 @@ Because they are endowed with virtues.
 Virtue is best in this life,  
 But a person with understanding is supreme  
 Among humans and gods,  
-Conquering with virtue and understanding.  
+Conquering with virtue and understanding.
 
-
-## 12.2 Sunīta  
+## [12.2 Sunīta](../thag12.2/)
 
 I was born in a low-class family,  
 Poor, with little to eat.  
@@ -137,4 +137,6 @@ And said the following:
 “By austerity and by the holy life,  
 By restraint and by taming:  
 By this one is a holy man,  
-This is the supreme holiness.”  
+This is the supreme holiness.”
+
+## Notes

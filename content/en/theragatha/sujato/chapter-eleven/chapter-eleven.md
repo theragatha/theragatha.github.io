@@ -2,17 +2,18 @@
 title: "Chapter Eleven"
 id: "chapter-eleven"
 chapter: 11
+slug: "chapter-eleven"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-eleven"
 weight: 11
+bookHidden: false
 ---
 
 # Chapter Eleven
 
-## 11.1 Saṅkicca  
+## [11.1 Saṅkicca](../thag11.1/)
 
 “Like an ujjuhāna-bird in the rainy season,  
 Child, is there benefit for you in the grove?  
@@ -69,4 +70,6 @@ Like a worker waiting for their wages.
 I don’t long for death;  
 I don’t long for life;  
 I await my time,  
-Aware and mindful.”  
+Aware and mindful.”
+
+## Notes

@@ -2,17 +2,18 @@
 title: "Chapter Seventeen"
 id: "chapter-seventeen"
 chapter: 17
+slug: "chapter-seventeen"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-seventeen"
 weight: 17
+bookHidden: false
 ---
 
 # Chapter Seventeen
 
-## 17.1 Phussa  
+## [17.1 Phussa](../thag17.1/)
 
 Seeing many who inspire confidence,  
 Personally developed and well-restrained,  
@@ -172,9 +173,9 @@ And always strong in exertion.
 Seeing heedlessness as fearful,  
 And heedfulness as security,  
 Develop the eight-fold path,  
-Realising the deathless state.”  
+Realising the deathless state.”
 
-## 17.2 Sāriputta  
+## [17.2 Sāriputta](../thag17.2/)
 
 “A mindful person is like one of good conduct,  
 Or like one who is peaceful;  
@@ -374,7 +375,7 @@ This is my advice.
 Come, now I’ll realise nibbāna,  
 I am liberated in every way.”
 
-## 17.3 Ānanda  
+## [17.3 Ānanda](../thag17.3/)
 
 “A wise person would not make friends  
 With a slanderous or hostile person,  

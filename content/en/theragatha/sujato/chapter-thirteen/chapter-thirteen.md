@@ -2,17 +2,18 @@
 title: "Chapter Thirteen"
 id: "chapter-thirteen"
 chapter: 13
+slug: "chapter-thirteen"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-thirteen"
 weight: 13
+bookHidden: false
 ---
 
 # Chapter Thirteen
 
-## 13.1 Soṇakoḷivisa  
+## [13.1 Soṇakoḷivisa](../thag13.1/)
 
 He who was special in the kingdom,  
 The attendant to the king of Aṅga,  
@@ -82,4 +83,6 @@ Smells, touches, all of these,
 As well as pleasant and unpleasant phenomena,  
 Don’t shake one who is poised,  
 Whose mind is firm and unfettered,  
-Contemplating vanishing.  
+Contemplating vanishing.
+
+## Notes

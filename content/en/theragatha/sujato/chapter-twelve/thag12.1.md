@@ -12,8 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 12.1 Sīlava  
-
+# 12.1 Sīlava  
 
 One should train just in virtue,  
 For in this world, when virtue is  

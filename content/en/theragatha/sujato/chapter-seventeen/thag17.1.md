@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 17.1 Phussa  
+# 17.1 Phussa  
 
 Seeing many who inspire confidence,  
 Personally developed and well-restrained,  

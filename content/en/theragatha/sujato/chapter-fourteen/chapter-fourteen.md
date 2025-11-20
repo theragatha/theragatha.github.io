@@ -2,17 +2,18 @@
 title: "Chapter Fourteen"
 id: "chapter-fourteen"
 chapter: 14
+slug: "chapter-fourteen"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-fourteen"
 weight: 14
+bookHidden: false
 ---
 
 # Chapter Fourteen
 
-## 14.1 Khadiravaniyarevata  
+## [14.1 Khadiravaniyarevata](../thag14.1/)
 
 Since I’ve gone forth  
 From home life into homelessness,  
@@ -84,9 +85,9 @@ The ending of all fetters.
 Strive on with heedfulness:  
 This is my advice.  
 Come, I’ll realise nibbāna—  
-I’m liberated in every way.  
+I’m liberated in every way.
 
-## 14.2 Godatta  
+## [14.2 Godatta](../thag14.2/)
 
 Just as a fine thoroughbred,  
 Yoked to a carriage, endures the load,  
@@ -159,4 +160,6 @@ For them nothing is beloved or unloved.
 Having developed the factors of awakening,  
 The spiritual faculties, and the powers,  
 I’ve attained ultimate peace:  
-Nibbāna without defilements.  
+Nibbāna without defilements.
+
+## Notes

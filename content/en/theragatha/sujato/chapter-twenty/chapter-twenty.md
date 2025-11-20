@@ -2,17 +2,18 @@
 title: "Chapter Twenty"
 id: "chapter-twenty"
 chapter: 20
+slug: "chapter-twenty"
 edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-slug: "chapter-twenty"
 weight: 20
+bookHidden: false
 ---
 
 # Chapter Twenty
 
-## 20.1 Mahāmoggallāna
+## [20.1 Mahāmoggallāna](../thag20.1/)
 
 “Living in the wilderness, eating only alms-food,\
 Happy with whatever scraps fall into the alms-bowl,\
@@ -374,3 +375,5 @@ That is how, in the Bhesekaḷā grove\
 The monk rebuked Māra.\
 That spirit, downcast,\
 Disappeared right there!”
+
+## Notes
