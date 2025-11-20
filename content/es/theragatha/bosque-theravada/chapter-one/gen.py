@@ -1,6 +1,6 @@
 import os
 
-chapter_number = "17"
+chapter_number = "1"
 
 def gen(verse_number):
         new_front_matter = f"""---
@@ -9,16 +9,16 @@ id: "thag{chapter_number}.{verse_number}"
 chapter: {chapter_number}
 verse: verse_number
 slug: "thag{chapter_number}.{verse_number}"
-edition: "Dhammatalks.org"
+edition: "bosquetheravada.org"
 collection: "Theragāthā"
-pali_source: "Dhammatalks.org"
-translator: "Ṭhānissaro Bhikkhu"
+pali_source: ""
+translator: "Bosque Theravāda"
 weight: {verse_number}
 bookHidden: true
 ---
 """
 
-        new_content = new_front_matter + "\n# " + chapter_number + "." + verse_number + "\n\n## Notes"
+        new_content = new_front_matter + "\n# " + chapter_number + "." + verse_number + "\n\n<!-- ## Notes -->"
 
         # Write the new file (e.g., thag1.4.md)
         output_filename = f"thag{chapter_number}.{verse_number}.md"

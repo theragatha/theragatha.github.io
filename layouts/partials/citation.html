@@ -22,7 +22,14 @@
       </div>
     </div>
   {{- else if in $path "/thanissaro/" -}}
-    {{- $defaultCitation := "*Translation © Thanissara Bhikkhu, from [Access to Insight](https://www.accesstoinsight.org/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*" -}}
+    {{- $defaultCitation := "*Translation © Thanissara Bhikkhu, from [dhammatalks.org](https://www.dhammatalks.org/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*" -}}
+    <div class="page-citation" style="margin-top:0.75rem; font-size:0.95em; color:var(--muted)">
+      <div class="citation-text">
+        {{ $defaultCitation | markdownify }}
+      </div>
+    </div>
+  {{- else if in $path "/bosque-theravada/" -}}
+    {{- $defaultCitation := "*Traducción © Bosque Theravada, de [Bosque Theravada](https://bosquetheravada.org/), con licencia bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*" -}}
     <div class="page-citation" style="margin-top:0.75rem; font-size:0.95em; color:var(--muted)">
       <div class="citation-text">
         {{ $defaultCitation | markdownify }}

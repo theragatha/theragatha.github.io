@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/es/theragatha/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/theragatha/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/theragatha/"
-                />
-  </url><url>
     <loc>http://localhost:1313/recursos/</loc>
     <xhtml:link
                 rel="alternate"
@@ -62,6 +50,18 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/es/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/es/theragatha/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/theragatha/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/theragatha/"
                 />
   </url>
 </urlset>

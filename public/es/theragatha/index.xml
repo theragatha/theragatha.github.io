@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Theragāthā</title>
+    <title>Theragathas on Theragāthā</title>
     <link>http://localhost:1313/es/theragatha/</link>
-    <description>Recent content on Theragāthā</description>
+    <description>Recent content in Theragathas on Theragāthā</description>
     <generator>Hugo</generator>
     <language>es</language>
     <atom:link href="http://localhost:1313/es/theragatha/index.xml" rel="self" type="application/rss+xml" />
