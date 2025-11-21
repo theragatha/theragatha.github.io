@@ -7,7 +7,7 @@ def gen(verse_number):
 title: "{chapter_number}.{verse_number}"
 id: "thag{chapter_number}.{verse_number}"
 chapter: {chapter_number}
-verse: verse_number
+verse: {verse_number}
 slug: "thag{chapter_number}.{verse_number}"
 edition: "bosquetheravada.org"
 collection: "Theragāthā"
@@ -18,7 +18,7 @@ bookHidden: true
 ---
 """
 
-        new_content = new_front_matter + "\n# " + chapter_number + "." + verse_number + "\n\n<!-- ## Notes -->"
+        new_content = new_front_matter + "\n# " + chapter_number + "." + verse_number + "\n\n<!-- ## Notas -->"
 
         # Write the new file (e.g., thag1.4.md)
         output_filename = f"thag{chapter_number}.{verse_number}.md"
