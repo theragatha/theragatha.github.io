@@ -1,5 +1,5 @@
 ---
-title: "Verse 1.5"
+title: "1.5 Dabba"
 id: "thag1.5"
 chapter: 1
 verse: 5

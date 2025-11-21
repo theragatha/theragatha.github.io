@@ -1,8 +1,8 @@
 ---
-title: "1.1"
+title: "1.1 Subhūti"
 id: "thag1.1"
 chapter: 1
-verse: verse_number
+verse: 1
 slug: "thag1.1"
 edition: "bosquetheravada.org"
 collection: "Theragāthā"

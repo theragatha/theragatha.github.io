@@ -1,5 +1,5 @@
 ---
-title: "Verse 1.7"
+title: "1.7 Bhalliya"
 id: "thag1.7"
 chapter: 1
 verse: 7

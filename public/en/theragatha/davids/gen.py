@@ -9,10 +9,10 @@ id: "thag{chapter_number}.{verse_number}"
 chapter: {chapter_number}
 verse: verse_number
 slug: "thag{chapter_number}.{verse_number}"
-edition: "Dhammatalks.org"
+edition: "Pāli Text Society"
 collection: "Theragāthā"
-pali_source: "Dhammatalks.org"
-translator: "Ṭhānissaro Bhikkhu"
+pali_source: "Pāli Text Society"
+translator: "Mrs. C.A.F. Rhys Davids"
 weight: {verse_number}
 bookHidden: true
 ---

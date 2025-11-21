@@ -1,5 +1,5 @@
 ---
-title: "Verse 1.9"
+title: "1.9 Pilindavaccha"
 id: "thag1.9"
 chapter: 1
 verse: 9
