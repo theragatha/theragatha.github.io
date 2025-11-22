@@ -2,7 +2,7 @@ import os
 
 def gen(verse_number):
         new_front_matter = f"""---
-title: "Verse {verse_number}"
+title: "1.{verse_number}"
 id: "thag1.{verse_number}"
 chapter: 1
 verse: verse_number
