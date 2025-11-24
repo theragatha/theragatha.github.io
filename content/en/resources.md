@@ -13,11 +13,12 @@ weight: 10
 
 ## Translations
 
-- <a href="https://suttacentral.net/tha/en/sujato" target="_blank" rel="noopener noreferrer">Bhikkhu Sujato’s Translation (Web Edition)</a>
+- <a href="https://suttacentral.net/tha/en/sujato" target="_blank" rel="noopener noreferrer">Bhikkhu Sujato’s Translation (Online Edition)</a>
 - <a href="https://ftp.budaedu.org/ebooks/pdf/EN385.pdf" target="blank" rel="noopener noreferrer">Bhikkhu Sujato’s Translation (PDF Edition)</a>
 - <a href="https://accesstoinsight.org/tipitaka/kn/thag/index.html" target="_blank" rel="noopener noreferrer">Access to Insight</a>
 - <a href="https://dn790002.ca.archive.org/0/items/psalmsofearlybud01davi/psalmsofearlybud01davi.pdf" target="blank" rel="noopener noreferrer">Mrs. Rhys David's Translation of the Therīgāthā</a>
-- <a href="https://ia600908.us.archive.org/16/items/psalmsofearlybud02davi/psalmsofearlybud02davi.pdf">Mrs. Rhys David's Translation of the Theragāthā</a>
+- <a href="https://obo.genaud.net/dhamma-vinaya/pts/kd/thag/thag.001.rhyc.pts.htm">Mrs. Rhys David's Translation of the Theragāthā (Online Edition)</a>
+- <a href="https://ia600908.us.archive.org/16/items/psalmsofearlybud02davi/psalmsofearlybud02davi.pdf">Mrs. Rhys David's Translation of the Theragāthā (PDF Edition)</a>
 - <a href="https://www.hup.harvard.edu/books/9780674427730" target="_blank" rel="noopener noreferrer">Charle's Hallisey's Translation of the Therīgāthā</a>
 - <a href="https://api.learnbuddhism.org/files/internal/Bhikkhu-Mahinda-Therigatha-Edition-2.pdf" target="_blank" rel="noopener noreferrer">The 2nd Edition of Bhikkhu Mahinda's Translation of the Theragāthā</a>
 - <a href="https://ia802909.us.archive.org/13/items/theragathaelderversesnormank.r.palitextsociety_173_I/Thera%20Gatha%20%28Elder%20Verses%29%20%20Norman%20K.R.%20Pali%20Text%20Society.pdf" target="_blank" rel="noopener noreferrer">K.R. Norman's Translation of the Theragāthā</a>
