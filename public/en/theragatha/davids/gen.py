@@ -18,10 +18,10 @@ bookHidden: true
 ---
 """
 
-        new_content = new_front_matter + "\n# " + chapter_number + "." + verse_number + "\n\n## Notes"
+        new_content = new_front_matter + "\n# " + chapter_number + "." + verse_number + "\n\n<!-- ## Commentary -->\n\n<!-- ## Verse -->\n\n<!-- ## Attribution -->\n\n<!-- ## Notes -->"
 
         # Write the new file (e.g., thag1.4.md)
-        output_filename = f"thag{chapter_number}.{verse_number}.md"
+        output_filename = f"thag{chapter_number}.{verse_number}-commentary.md"
         with open(output_filename, "w", encoding="utf-8") as out:
             out.write(new_content)
         print(f"Wrote {output_filename}")
