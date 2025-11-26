@@ -5,7 +5,7 @@ chapter: 1
 slug: "chapter-one"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"
-pali_source: "Dhammatalks.org"
+pali_source: ""
 translator: "Ṭhānissaro Bhikkhu"
 weight: 1
 bookHidden: false
