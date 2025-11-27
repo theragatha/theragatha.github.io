@@ -62,23 +62,23 @@ unsnared.
 ## [4.8 Rāhula](../thag4.8/)
 
 In both ways\
-consummate,[^1]\
+consummate,\
 I’m known as Rāhula\
 the Fortunate:\
-because     I’m the son of the Buddha,\
-because     I’ve the eye that sees Dhammas,\
-because     my effluents are ended,\
-because     I’ve no further becoming.\
+because I’m the son of the Buddha,\
+because I’ve the eye that sees Dhammas,\
+because my effluents are ended,\
+because I’ve no further becoming.\
 I’m deserving of offerings,\
 a worthy one\
-a three-knowledge man,[^2]\
+a three-knowledge man,\
 one with sight\
 of the deathless.\
 Those\
-blinded       by sensuality\
-covered       by the net,\
-veiled       by the veil of craving,\
-bound       by the Kinsman of the heedless,[^3]\
+blinded by sensuality\
+covered by the net,\
+veiled by the veil of craving,\
+bound by the Kinsman of the heedless,\
 are like fish in the mouth of a trap.\
 Throwing that sensuality aside,\
 cutting through Māra’s bond,\
@@ -103,8 +103,8 @@ Dhamma, to a good destination.\
 So you should engender desire\
 for acts of Dhamma,\
 rejoicing\
-in the One     Well-Gone,\
-the one      who is Such.\
+in the One Well-Gone,\
+the one who is Such.\
 Standing firm in the Dhamma,\
 of the foremost\
 One Well-Gone,\
@@ -112,8 +112,8 @@ his disciples are guided\
 —enlightened—\
 to the foremost\
 refuge supreme.\
-Burst       is the root of the boil;\
-the net of craving     uprooted.\
+Burst is the root of the boil;\
+the net of craving uprooted.\
 He, having ended his wandering-on,\
 has no stain—\
 like the moon\

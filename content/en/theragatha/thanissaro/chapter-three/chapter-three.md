@@ -5,7 +5,7 @@ chapter: 3
 slug: "chapter-three"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"
-pali_source: ""
+pali_source: 
 translator: "Ṭhānissaro Bhikkhu"
 weight: 3
 bookHidden: true
@@ -15,86 +15,86 @@ bookHidden: true
 
 ## [3.5 Mātaṅgaputta](../thag3.5/)
 
-It’s too cold,  
-too hot,  
-too late in the evening—  
-people who say this,  
-shirking their work:  
-The moment passes them by.  
-Whoever regards cold & heat  
-as no more than grass,  
-doing his manly duties,  
-won’t fall away  
-from ease.  
-With my chest  
-I push through wild grasses—  
-spear-grass,  
-ribbon-grass,  
-rushes—  
-cultivating a heart  
+It’s too cold,
+too hot,
+too late in the evening—
+people who say this,
+shirking their work:
+The moment passes them by.
+Whoever regards cold & heat
+as no more than grass,
+doing his manly duties,
+won’t fall away
+from ease.
+With my chest
+I push through wild grasses—
+spear-grass,
+ribbon-grass,
+rushes—
+cultivating a heart
 bent on seclusion.
 
 ## [3.8 Yasoja](../thag3.8/)
 
-His limbs knotted  
-like a kālā plant,  
-his body lean  
-& lined with veins,  
-knowing moderation  
-in food & drink:  
-the man of undaunted heart.  
-Touched by gnats  
-& horseflies  
-in the wilds,  
-the great wood,  
-like an elephant  
-at the head of a battle:  
-He, mindful,  
-should stay there,  
-endure.  
-One alone is like Brahmā,  
-two, like devas,  
-three, like a village,  
-more than that:  
+His limbs knotted
+like a kālā plant,
+his body lean
+& lined with veins,
+knowing moderation
+in food & drink:
+the man of undaunted heart.
+Touched by gnats
+& horseflies
+in the wilds,
+the great wood,
+like an elephant
+at the head of a battle:
+He, mindful,
+should stay there,
+endure.
+One alone is like Brahmā,
+two, like devas,
+three, like a village,
+more than that:
 a hullabaloo.
 
 ## [3.9 Satimattiya](../thag3.9/)
 
-Before, you had faith.  
-Today you don’t.  
-What is yours  
-is just for you.  
-I’ve done nothing wrong.  
-For I’ve seen that faith is inconstant,  
-wavering.  
-Even they who are passionate  
-lose their passion.  
-Why should a sage waste away over that?  
-A sage’s meal is cooked  
-little by little, in this family and that.  
-I will go for alms.  
+Before, you had faith.
+Today you don’t.
+What is yours
+is just for you.
+I’ve done nothing wrong.
+For I’ve seen that faith is inconstant,
+wavering.
+Even they who are passionate
+lose their passion.
+Why should a sage waste away over that?
+A sage’s meal is cooked
+little by little, in this family and that.
+I will go for alms.
 I have the strength of my legs.
 
 ## [3.13 Abhibhūta](../thag3.13/)
 
-Listen, kinsmen, all of you,  
-as many as are assembled here.  
-I will teach you the Dhamma:  
-Painful is birth,  
-again & again.  
-Rouse yourselves.  
-Go forth.  
-Apply yourselves  
-to the Awakened One’s bidding.  
-Scatter the army of Death  
-as an elephant would  
-a shed made of reeds.  
-He who,  
-in this Dhamma & Vinaya,  
-stays heedful,  
-abandoning birth,  
-the wandering-on,  
-will put an end  
+Listen, kinsmen, all of you,
+as many as are assembled here.
+I will teach you the Dhamma:
+Painful is birth,
+again & again.
+Rouse yourselves.
+Go forth.
+Apply yourselves
+to the Awakened One’s bidding.
+Scatter the army of Death
+as an elephant would
+a shed made of reeds.
+He who,
+in this Dhamma & Vinaya,
+stays heedful,
+abandoning birth,
+the wandering-on,
+will put an end
 to suffering & stress.
 
 ## [3.14 Gotama](../thag3.14/)
