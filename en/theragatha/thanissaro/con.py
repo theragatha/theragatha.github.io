@@ -1,8 +1,9 @@
 import re
 from pathlib import Path
 
-chapter_number = "4"
-chapter_number_word = "Four"
+chapter_numbers = {"1": "One", "2": "Two", "3": "Three", "4": "Four", "5": "Five", "6": "Six", "7": "Seven", "8": "Eight","9": "Nine", "10": "Ten", "11": "Eleven", "12": "Twelve", "13": "Thirteen", "14": "Fourteen", "15": "Fifteen", "16": "Sixteen", "17": "Seventeen", "18": "Eighteen", "19": "Nineteen", "20": "Twenty", "21": "Twenty-One"}
+chapter_number = "11"
+chapter_number_word = "Eleven"
 
 def extract_verse_data(file_path: Path):
     """Extract verse number, title, poem body and front matter from a thag file.
@@ -43,6 +44,13 @@ def extract_verse_data(file_path: Path):
     lines = verse_block.splitlines()
     poem_lines = lines[1:] if len(lines) > 1 else []
     poem = "\n".join(poem_lines).strip()
+
+    # remove footnote markers like [^1] and any inline footnote definitions
+    poem = re.sub(r'\[\^[^\]]+\]', '', poem)
+    poem = re.sub(r'(?m)^\s*\[\^[^\]]+\]:.*\n?', '', poem)
+    # collapse multiple spaces and trim line ends
+    poem = re.sub(r' {2,}', ' ', poem)
+    poem = '\n'.join(line.rstrip() for line in poem.splitlines()).strip()
 
     return {
         "num": verse_num,
@@ -133,4 +141,9 @@ def create_consolidated_file(chapter_number, chapter_number_word):
     print(f"Wrote consolidated file: {output_path}")
 
 if __name__ == "__main__":
-    create_consolidated_file(chapter_number, chapter_number_word)
+    i = 1
+    for key in chapter_numbers:
+        if i > 7:
+            return
+        create_consolidated_file(key, chapter_numbers[key])
+        i += 1
