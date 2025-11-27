@@ -34,7 +34,7 @@ aversion,\
 ignorance\
 don’t delight there,\
 have cut the cord,\
-unsnared.\
+unsnared.
 
 ## Notes
 

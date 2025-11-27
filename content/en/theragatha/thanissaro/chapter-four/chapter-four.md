@@ -8,7 +8,7 @@ collection: "Theragāthā"
 pali_source: 
 translator: "Ṭhānissaro Bhikkhu"
 weight: 4
-bookHidden: false
+bookHidden: true
 ---
 
 # Chapter Four
@@ -33,7 +33,7 @@ See the Dhamma’s true rightness!\
 The three knowledges\
 have been attained;\
 the Buddha’s bidding,\
-done.\
+done.
 
 ## [4.4 Nandaka](../thag4.4/)
 
@@ -57,7 +57,7 @@ aversion,\
 ignorance\
 don’t delight there,\
 have cut the cord,\
-unsnared.\
+unsnared.
 
 ## [4.8 Rāhula](../thag4.8/)
 

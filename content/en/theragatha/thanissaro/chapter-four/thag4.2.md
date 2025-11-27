@@ -32,6 +32,6 @@ See the Dhamma’s true rightness!\
 The three knowledges\
 have been attained;\
 the Buddha’s bidding,\
-done.\
+done.
 
 ## Notes

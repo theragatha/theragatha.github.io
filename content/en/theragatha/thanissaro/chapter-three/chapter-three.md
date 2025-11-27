@@ -8,7 +8,7 @@ collection: "Theragāthā"
 pali_source: ""
 translator: "Ṭhānissaro Bhikkhu"
 weight: 3
-bookHidden: false
+bookHidden: true
 ---
 
 # Chapter Three
