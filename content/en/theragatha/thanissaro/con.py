@@ -141,9 +141,5 @@ def create_consolidated_file(chapter_number, chapter_number_word):
     print(f"Wrote consolidated file: {output_path}")
 
 if __name__ == "__main__":
-    i = 1
     for key in chapter_numbers:
-        if i > 7:
-            return
         create_consolidated_file(key, chapter_numbers[key])
-        i += 1
