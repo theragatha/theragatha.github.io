@@ -5,7 +5,7 @@ url: "theragatha/"
 weight: 1
 ---
 
-# Theragāthā: The Verses of the Senior Monks
+# Theragāthā
 
 ## [Chapter One](theragatha/sujato/chapter-one/chapter-one/)
 
