@@ -17,7 +17,7 @@ bookHidden: true
 “Sammappadhānasampanno,
 Satipaṭṭhānagocaro;
 Vimuttikusumasañchanno,
-Parinibbissatyanāsavo”ti.
+Parinibbissatyanāsavo”ti.[^1]
 
 ## Attribution
 
@@ -37,3 +37,5 @@ Uttiyo ca mahāpañño,
 thero devasabhopi cāti.
 
 ## Notes
+
+[^1]: Variant: Parinibbissatyanāsavo”ti → parinibbāyissatyanāsavoti (sya1ed, sya2ed);
