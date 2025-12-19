@@ -7,7 +7,7 @@ slug: "thag1.1"
 edition: ""
 collection: "Theragāthā"
 pali_source: "suttacentral"
-translator: "AI-Assisted"
+translator: "AI Assisted"
 weight: 1
 bookHidden: true
 ---

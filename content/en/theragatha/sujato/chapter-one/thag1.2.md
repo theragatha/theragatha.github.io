@@ -13,6 +13,7 @@ bookHidden: true
 ---
 
 # 1.2 Mahākoṭṭhika  
+
 Calm and quiet,  
 Wise in counsel and steady;  
 Shaking off bad qualities,  
