@@ -60,4 +60,4 @@ Non-English Editions:
 ## Ideas
 
 1. Audio for each verse
-2. Change theme
+2. Change theme 
