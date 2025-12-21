@@ -14,11 +14,11 @@ bookHidden: true
 
 # 1.88 Ajjuna
 
-Able was I
-to raise myself from water
-to dry land.[^1]
-Swept along by the great flood,
-I penetrated
+Able was I\
+to raise myself from water\
+to dry land.[^1]\
+Swept along by the great flood,\
+I penetrated\
 the truths.[^2]
 
 ## Notes
