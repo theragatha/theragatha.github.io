@@ -2,7 +2,7 @@
 title: "16.4 Raṭṭhapāla"
 id: "thag16.4"
 chapter: 16
-verse: verse_number
+verse: 4
 slug: "thag16.4"
 edition: "SuttaCentral"
 collection: "Theragāthā"

@@ -2,7 +2,7 @@
 title: "9.1 Bhūta"
 id: "thag9.1"
 chapter: 9
-verse: verse_number
+verse: 1
 slug: "thag9.1"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

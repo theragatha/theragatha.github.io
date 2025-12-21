@@ -2,7 +2,7 @@
 title: "15.2 Udāyin"
 id: "thag15.2"
 chapter: 15
-verse: verse_number
+verse: 2
 slug: "thag15.2"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

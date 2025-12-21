@@ -2,7 +2,7 @@
 title: "5.10 Yasadatta"
 id: "thag5.10"
 chapter: 5
-verse: verse_number
+verse: 10
 slug: "thag5.10"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

@@ -13,6 +13,7 @@
 General
 
 1. Links to Sinhala, Burmese, and Thai editions
+2. Add raw verse number, e.g., 237, to frontmatter
 
 English Translations:
 1. Upload David's Theragāthā
@@ -25,7 +26,12 @@ Spanish Translations:
 
 English Editions:
 1. Chaṭṭha Saṅgāyana edition via suttacentral.net
+- Pali chapter names as opposed to English: "chapter-one" -> "ekanipata"
+- Correct "verse_number" in chapter 1
+- Add "\" after vagga conclusions beginning "Tassuddānaṁ"
 2. PTS edition via GRETIL
+3. Correct front matter verse titles in Ṭhānissaro
+- Correct Pali source in front matter
 
 Non-English Editions:
 1. Sinhala edition

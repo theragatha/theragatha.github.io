@@ -2,7 +2,7 @@
 title: "16.6"
 id: "thag16.6"
 chapter: 16
-verse: verse_number
+verse: 6
 slug: "thag16.6"
 edition: "SuttaCentral"
 collection: "Theragāthā"

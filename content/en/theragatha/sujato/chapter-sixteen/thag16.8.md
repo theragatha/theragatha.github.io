@@ -2,7 +2,7 @@
 title: "16.8 Aṅgulimāla"
 id: "thag16.8"
 chapter: 16
-verse: verse_number
+verse: 8
 slug: "thag16.8"
 edition: "SuttaCentral"
 collection: "Theragāthā"

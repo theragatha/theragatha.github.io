@@ -2,7 +2,7 @@
 title: "4.2 Bhagu"
 id: "thag4.2"
 chapter: 4
-verse: verse_number
+verse: 2
 slug: "thag4.2"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

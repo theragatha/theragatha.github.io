@@ -2,7 +2,7 @@
 title: "Verse 6"
 id: "thag1.6"
 chapter: 1
-verse: verse_number
+verse: 6
 slug: "thag1.6"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

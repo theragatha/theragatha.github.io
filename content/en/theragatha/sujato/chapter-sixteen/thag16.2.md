@@ -2,7 +2,7 @@
 title: "16.2 Pārāpariya"
 id: "thag16.2"
 chapter: 16
-verse: verse_number
+verse: 2
 slug: "thag16.2"
 edition: "SuttaCentral"
 collection: "Theragāthā"

@@ -2,7 +2,7 @@
 title: "5.1 Rājadatta"
 id: "thag5.1"
 chapter: 5
-verse: verse_number
+verse: 1
 slug: "thag5.1"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

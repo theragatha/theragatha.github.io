@@ -2,7 +2,7 @@
 title: "Verse 13"
 id: "thag1.13"
 chapter: 1
-verse: verse_number
+verse: 13
 slug: "thag1.13"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

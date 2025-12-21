@@ -2,7 +2,7 @@
 title: "5.8 Vakkali"
 id: "thag5.8"
 chapter: 5
-verse: verse_number
+verse: 8
 slug: "thag5.8"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

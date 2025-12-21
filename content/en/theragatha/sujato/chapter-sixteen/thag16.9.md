@@ -2,7 +2,7 @@
 title: "16.9 Anuruddha"
 id: "thag16.9"
 chapter: 16
-verse: verse_number
+verse: 9
 slug: "thag16.9"
 edition: "SuttaCentral"
 collection: "Theragāthā"

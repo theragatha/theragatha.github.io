@@ -2,7 +2,7 @@
 title: "14.2 Godatta"
 id: "thag14.2"
 chapter: 14
-verse: verse_number
+verse: 2
 slug: "thag14.2"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

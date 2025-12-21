@@ -2,7 +2,7 @@
 title: "18.1 Mahā Kassapa"
 id: "thag18.1"
 chapter: 18
-verse: verse_number
+verse: 1
 slug: "thag18.1"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

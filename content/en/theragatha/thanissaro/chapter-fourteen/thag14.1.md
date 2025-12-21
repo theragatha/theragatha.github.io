@@ -2,7 +2,7 @@
 title: "14.1 Revata’s Farewell"
 id: "thag14.1"
 chapter: 14
-verse: verse_number
+verse: 1
 slug: "thag14.1"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

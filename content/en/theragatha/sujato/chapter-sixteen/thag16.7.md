@@ -2,7 +2,7 @@
 title: "16.7 Kāḷigodhāputtabhaddiya"
 id: "thag16.7"
 chapter: 16
-verse: verse_number
+verse: 7
 slug: "thag16.7"
 edition: "SuttaCentral"
 collection: "Theragāthā"

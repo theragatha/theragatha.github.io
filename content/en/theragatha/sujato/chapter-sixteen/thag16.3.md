@@ -2,7 +2,7 @@
 title: "16.3 Telakāni"
 id: "thag16.3"
 chapter: 16
-verse: verse_number
+verse: 3
 slug: "thag16.3"
 edition: "SuttaCentral"
 collection: "Theragāthā"

@@ -2,7 +2,7 @@
 title: "Verse 1"
 id: "thag1.1"
 chapter: 1
-verse: verse_number
+verse: 1
 slug: "thag1.1"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

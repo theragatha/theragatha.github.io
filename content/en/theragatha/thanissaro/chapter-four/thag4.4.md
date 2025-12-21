@@ -2,7 +2,7 @@
 title: "4.4 Nandaka"
 id: "thag4.4"
 chapter: 4
-verse: verse_number
+verse: 4
 slug: "thag4.4"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

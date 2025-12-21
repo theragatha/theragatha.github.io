@@ -2,7 +2,7 @@
 title: "16.5 Mālukyaputta"
 id: "thag16.5"
 chapter: 16
-verse: verse_number
+verse: 5
 slug: "thag16.5"
 edition: "SuttaCentral"
 collection: "Theragāthā"

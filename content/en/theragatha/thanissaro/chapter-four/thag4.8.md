@@ -2,7 +2,7 @@
 title: "4.8 Rāhula"
 id: "thag4.8"
 chapter: 4
-verse: verse_number
+verse: 8
 slug: "thag4.8"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

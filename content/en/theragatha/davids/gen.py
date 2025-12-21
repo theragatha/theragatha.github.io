@@ -7,7 +7,7 @@ def gen(verse_number):
 title: "{chapter_number}.{verse_number}"
 id: "thag{chapter_number}.{verse_number}"
 chapter: {chapter_number}
-verse: verse_number
+verse: {verse_number}
 slug: "thag{chapter_number}.{verse_number}"
 edition: "Pāli Text Society"
 collection: "Theragāthā"

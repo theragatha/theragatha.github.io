@@ -2,7 +2,7 @@
 title: "4.10 Dhammika"
 id: "thag4.10"
 chapter: 4
-verse: verse_number
+verse: 10
 slug: "thag4.10"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"

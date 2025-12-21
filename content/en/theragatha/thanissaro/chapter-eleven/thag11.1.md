@@ -2,7 +2,7 @@
 title: "11.1 Saṅkicca"
 id: "thag11.1"
 chapter: 11
-verse: verse_number
+verse: 1
 slug: "thag11.1"
 edition: "Dhammatalks.org"
 collection: "Theragāthā"
