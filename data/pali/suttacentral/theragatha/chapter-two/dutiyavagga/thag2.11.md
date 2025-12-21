@@ -1,5 +1,5 @@
 ---
-title: "2.11"
+title: "2.11 Mahācunda"
 id: "thag2.11"
 chapter: 2
 verse: 11
@@ -12,8 +12,20 @@ weight: 11
 bookHidden: true
 ---
 
-# 2.11
+# 2.11 Mahācunda
+
+“Sussūsā sutavaddhanī,\
+sutaṁ paññāya vaddhanaṁ;\
+Paññāya atthaṁ jānāti,\
+ñāto attho sukhāvaho.
+
+Sevetha pantāni senāsanāni,\
+Careyya saṁyojanavippamokkhaṁ;\
+Sace ratiṁ nādhigaccheyya tattha,\s
+Saṅghe vase rakkhitatto satimā”ti.
 
 ## Attribution
+
+… Mahācundo thero ….
 
 ## Notes
