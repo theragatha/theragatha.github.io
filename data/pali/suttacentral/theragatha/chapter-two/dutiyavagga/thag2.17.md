@@ -1,5 +1,5 @@
 ---
-title: "2.17"
+title: "2.17 Tissa"
 id: "thag2.17"
 chapter: 2
 verse: 17
@@ -12,8 +12,20 @@ weight: 17
 bookHidden: true
 ---
 
-# 2.17
+# 2.17 Tissa
+
+“Bahū sapatte labhati,\
+muṇḍo saṅghāṭipāruto;\
+Lābhī annassa pānassa,\
+vatthassa sayanassa ca.
+
+Etamādīnavaṁ ñatvā,\
+sakkāresu mahabbhayaṁ;\
+Appalābho anavassuto,\
+sato bhikkhu paribbaje”ti.
 
 ## Attribution
+
+… Tisso thero ….
 
 ## Notes

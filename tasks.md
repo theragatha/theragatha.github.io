@@ -20,6 +20,7 @@ English Translations:
 2. Inquire about Bhikkhu Mahinda's translations
 3. Inquire about KR Norman's translations
 4. Other ATI translations
+- Add citations for Olendzki, etc.
 
 Spanish Translations:
 1. AI Assisted translation
