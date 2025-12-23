@@ -1,5 +1,5 @@
 ---
-title: "2.23"
+title: "2.23 Sobhita"
 id: "thag2.23"
 chapter: 2
 verse: 23
@@ -12,8 +12,20 @@ weight: 23
 bookHidden: true
 ---
 
-# 2.23
+# 2.23 Sobhita
+
+“Satimā paññavā bhikkhu,\
+āraddhabalavīriyo;\
+Pañca kappasatānāhaṁ,\
+ekarattiṁ anussariṁ.
+
+Cattāro satipaṭṭhāne,\
+satta aṭṭha ca bhāvayaṁ;\
+Pañca kappasatānāhaṁ,\
+ekarattiṁ anussarin”ti.
 
 ## Attribution
+
+… Sobhito thero ….
 
 ## Notes

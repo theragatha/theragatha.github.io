@@ -1,5 +1,5 @@
 ---
-title: "2.26"
+title: "2.26 Puṇṇamāsa"
 id: "thag2.26"
 chapter: 2
 verse: 26
@@ -12,8 +12,20 @@ weight: 26
 bookHidden: true
 ---
 
-# 2.26
+# 2.26 Puṇṇamāsa
+
+“Pañca nīvaraṇe hitvā,\
+yogakkhemassa pattiyā;\
+Dhammādāsaṁ gahetvāna,\
+ñāṇadassanamattano.
+
+Paccavekkhiṁ imaṁ kāyaṁ,\
+sabbaṁ santarabāhiraṁ;\
+Ajjhattañca bahiddhā ca,\
+tuccho kāyo adissathā”ti.
 
 ## Attribution
+
+… Puṇṇamāso thero ….
 
 ## Notes

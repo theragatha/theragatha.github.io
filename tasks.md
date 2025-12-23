@@ -49,6 +49,7 @@ English Translations:
 
 English Editions:
 1. Chaṭṭha Saṅgāyana edition via suttacentral.net
+- Check sidenotes for verses with a number 0(mod10)
 2. PTS edition via GRETIL
 
 Non-English Editions:

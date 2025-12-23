@@ -1,5 +1,5 @@
 ---
-title: "2.28"
+title: "2.28 Bharata"
 id: "thag2.28"
 chapter: 2
 verse: 28
@@ -12,8 +12,20 @@ weight: 28
 bookHidden: true
 ---
 
-# 2.28
+# 2.28 Bharata
+
+“Ehi nandaka gacchāma,\
+upajjhāyassa santikaṁ;\
+Sīhanādaṁ nadissāma,\
+buddhaseṭṭhassa sammukhā.
+
+Yāya no anukampāya,\
+amhe pabbājayī muni;\
+So no attho anuppatto,\
+sabbasaṁyojanakkhayo”ti.
 
 ## Attribution
+
+… Bharato thero ….
 
 ## Notes
