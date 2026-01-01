@@ -18,7 +18,7 @@ bookHidden: true
 ---
 """
 
-        new_content = new_front_matter + "\n# " + chapter_number + "." + verse_number + "\n\n<!-- ## Commentary -->\n\n<!-- ## Verse -->\n\n<!-- ## Attribution -->\n\n<!-- ## Notes -->"
+        new_content = new_front_matter + "\n# " + chapter_number + "." + verse_number + "\n\n## Commentary\n\n## Verse\n\n## Attribution\n\n## Notes"
 
         # Write the new file (e.g., thag1.4.md)
         output_filename = f"thag{chapter_number}.{verse_number}-commentary.md"
@@ -26,5 +26,8 @@ bookHidden: true
             out.write(new_content)
         print(f"Wrote {output_filename}")
 
-vnum = input("Enter the verse number: ")
-gen(vnum)
+for i in range(11,21):
+        gen(str(i))
+
+# vnum = input("Enter the verse number: ")
+# gen(vnum)
