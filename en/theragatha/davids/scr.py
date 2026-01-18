@@ -28,7 +28,7 @@ bookHidden: true
         new_content = new_front_matter + "\n" +  f"## {chapter_number}.{verse_number} {monk_name}\n\n" + verses_content
 
         # Create commentary folder if it doesn't exist
-        output_dir = Path("commentary")
+        output_dir = Path("chapter-one/commentary")
         output_dir.mkdir(exist_ok=True)
 
         # Write the new file (e.g., commentary/thag1.4-commentary.md)
@@ -37,7 +37,9 @@ bookHidden: true
             out.write(new_content_c)
 
         # Write the verses only file
-        output_filename = f"thag{chapter_number}.{verse_number}.md"
+        output_dir = Path("chapter-one")
+        output_dir.mkdir(exist_ok=True)
+        output_filename = output_dir / f"thag{chapter_number}.{verse_number}.md"
         with open(output_filename, "w", encoding="utf-8") as out:
             out.write(new_content)
         
@@ -226,7 +228,7 @@ def url_exists(url):
 def bulk():
     url_1 = "https://obo.genaud.net/dhamma-vinaya/pts/kd/thag/thag."
     url_2 = ".rhyc.pts.htm"
-    for i in range(1,5):
+    for i in range(1,121):
         num = f"{i:03}"
         url = url_1 + num + url_2
         if url_exists(url):
