@@ -2,10 +2,15 @@ import re
 import requests
 from bs4 import BeautifulSoup
 from bs4 import NavigableString
+from pathlib import Path
 
 def gen(chapter_number, verse_number, URL):
+        
+        #new_content = new_front_matter + "\n# " + chapter_number + "." + verse_number + "\n\n## Commentary\n\n## Verse\n\n## Attribution\n\n## Notes"
+        extracted_content, verses_content, monk_name = extract(chapter_number, verse_number, URL)
+
         new_front_matter = f"""---
-title: "{chapter_number}.{verse_number}"
+title: "{chapter_number}.{verse_number} {monk_name}"
 id: "thag{chapter_number}.{verse_number}"
 chapter: {chapter_number}
 verse: {verse_number}
@@ -19,15 +24,23 @@ bookHidden: true
 ---
 """
         
-        #new_content = new_front_matter + "\n# " + chapter_number + "." + verse_number + "\n\n## Commentary\n\n## Verse\n\n## Attribution\n\n## Notes"
-        new_content = new_front_matter + "\n" + extract(chapter_number, verse_number, URL)
+        new_content_c = new_front_matter + "\n" + extracted_content
+        new_content = new_front_matter + "\n" +  f"## {chapter_number}.{verse_number} {monk_name}\n\n" + verses_content
 
-        # Write the new file (e.g., thag1.4.md)
-        output_filename = f"thag{chapter_number}.{verse_number}-commentary.md"
+        # Create commentary folder if it doesn't exist
+        output_dir = Path("commentary")
+        output_dir.mkdir(exist_ok=True)
+
+        # Write the new file (e.g., commentary/thag1.4-commentary.md)
+        output_filename = output_dir / f"thag{chapter_number}.{verse_number}-commentary.md"
+        with open(output_filename, "w", encoding="utf-8") as out:
+            out.write(new_content_c)
+
+        # Write the verses only file
+        output_filename = f"thag{chapter_number}.{verse_number}.md"
         with open(output_filename, "w", encoding="utf-8") as out:
             out.write(new_content)
-        print(f"Wrote {output_filename}")
-
+        
 def rewrite_inline_footnotes(soup):
     """
     Convert <span class="f1">[1]</span> → ^1
@@ -70,7 +83,7 @@ def collect_attribution_from_last_verse(last_verse_p):
     <p>&nbsp;</p>
     """
     parts = []
-
+ 
     for sib in last_verse_p.next_siblings:
         if not isinstance(sib, Tag):
             continue
@@ -101,22 +114,19 @@ def extract(chapter_number, verse_number,URL):
     # soup = BeautifulSoup(response.text, "html.parser")
 
     # Extract monk name
-    monk_name = soup.find('h1').get_text(strip=True)[1:]  # Adjust tag if necessary
-    #print("Monk Name:", monk_name)
 
-    test = soup.find('h1')
-    # Get all the text, split at <br>
-    parts = test.decode_contents().split("<br/>")
-    print(parts[1].get_text(strip=True  ))
-
-    # Everything after <br> is the monk's name
-    monk_t = parts[1].strip() if len(parts) > 1 else ""
-
+    monk_name = soup.find('h1').decode_contents().split("<br/>")[1].strip()[:-4]
 
     # Extract commentary
     start = soup.find("p", class_="f2 ctr")
     assert start is not None, "Could not find commentary start"
     commentary = extract_commentary(start)
+    
+    # Remove "Public Domain" and subsequent linebreak if present
+    if commentary.startswith("Public Domain\n\n"):
+        commentary = commentary[len("Public Domain\n\n"):]
+    elif commentary.startswith("Public Domain"):
+        commentary = commentary[len("Public Domain"):].lstrip()
 
     # Extract verses
     verses_raw = soup.find_all(class_="f4 in2")
@@ -141,8 +151,7 @@ def extract(chapter_number, verse_number,URL):
         current_verse.append(p.get_text(strip=True))
         last_verse_p = p
         
-    attribution = collect_attribution_from_last_verse(last_verse_p)
-    #print("Attribution:", attribution)
+    attribution = collect_attribution_from_last_verse(last_verse_p) if last_verse_p else ""
 
     # Extract notes
     notes = soup.find_all(class_="lgqt")
@@ -150,9 +159,14 @@ def extract(chapter_number, verse_number,URL):
     # Reformat notes
     reformatting_notes = []
     for note in notes:
-        text = note.get_text(strip=True)
+        text = note.get_text(separator=" ", strip=True)
         if text.startswith("["):
-            text = "[" + text[1:3] + ": " + text[3:].strip()  # Ensure proper formatting
+            # Extract the footnote number (e.g., "[1]" → "1")
+            number = text[1:text.find("]")].strip()
+            # Get the footnote content after the closing bracket
+            content = text[text.find("]") + 1:].strip()
+            # Format as markdown footnote: [^1]: content
+            text = f"[^{number}]: {content}"
         note.replace_with(text)
         reformatting_notes.append(text)
 
@@ -163,44 +177,62 @@ def extract(chapter_number, verse_number,URL):
     with open("scraped_content.md", "w", encoding="utf-8") as f:
        
         # Monk Name
-        f.write(f"# {monk_name}\n\n")
+        # f.write(f"# {monk_name}\n\n")
         extracted_text += f"# {monk_name}\n\n"
 
         # Commentary
-        f.write("## Commentary\n\n")
-        f.write(commentary + "\n\n")
+        # f.write("## Commentary\n\n")
+        # f.write(commentary + "\n\n")
         extracted_text += "## Commentary\n\n" + commentary + "\n\n"
 
         # Verses
-        f.write("## Verses\n\n")
-        for element in verses:
-            f.write(element + "\n\n")
+        # f.write("## Verses\n\n")
+        # for element in verses:
+            # f.write(element + "\n\n")
         extracted_text += "## Verses\n\n" + "\n\n".join(verses) + "\n\n"
 
         # Attribution
-        f.write("## Attribution\n\n")
+        # f.write("## Attribution\n\n")
         attribution_lines = attribution.split("\n\n")
-        for i in range(len(attribution_lines)-1):
-            f.write(attribution_lines[i] + "\\\n")
-        f.write(attribution_lines[-1] + "\n\n")
-        f.write("\n\n")
+        # for i in range(len(attribution_lines)-1):
+            # f.write(attribution_lines[i] + "\\\n")
+        # f.write(attribution_lines[-1] + "\n\n")
+        # f.write("\n\n")
         extracted_text += "## Attribution\n\n" + attribution + "\n\n"
 
         # Notes
-        f.write("## Notes\n\n")
-        for element in reformatting_notes:
-            f.write(element + "\n\n")
+        # f.write("## Notes\n\n")
+        # for element in reformatting_notes:
+            # f.write(element + "\n\n")
         extracted_text += "## Notes\n\n" + "\n\n".join(reformatting_notes) + "\n\n"
+    return extracted_text, re.sub(r'\[.*?\]', "", "\n\n".join(verses)).strip() + "\n\n", monk_name
 
-    return extracted_text
-
+def url_exists(url):
+    """
+    Checks if a URL exists and is reachable using a HEAD request.
+    """
+    try:
+        # Send a HEAD request and allow redirects (important for sites like Google)
+        response = requests.head(url, allow_redirects=True, timeout=5)
+        # Check if status code is in the 2xx (success) or 3xx (redirection handled) range
+        return 200 <= response.status_code < 400
+    except requests.exceptions.ConnectionError:
+        # Handles cases like DNS errors, refused connections, etc.
+        return False
+    except requests.exceptions.RequestException:
+        # Handles any other potential errors during the request
+        return False
+    
 def bulk():
     url_1 = "https://obo.genaud.net/dhamma-vinaya/pts/kd/thag/thag."
     url_2 = ".rhyc.pts.htm"
-    for i in range(1,10):
+    for i in range(1,5):
         num = f"{i:03}"
         url = url_1 + num + url_2
-        gen("1", i, url)
+        if url_exists(url):
+            gen("1", i, url)
+
+
 
 bulk()
 
