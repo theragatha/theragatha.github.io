@@ -3,7 +3,7 @@ title: "1.82 Kassapa"
 id: "thag1.82"
 chapter: 1
 verse: 82
-slug: "thag1.82"
+slug: "thag1.82-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

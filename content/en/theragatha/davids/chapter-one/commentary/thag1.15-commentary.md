@@ -3,7 +3,7 @@ title: "1.15 Kuṇḍa-Dhāna</a>"
 id: "thag1.15"
 chapter: 1
 verse: 15
-slug: "thag1.15"
+slug: "thag1.15-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

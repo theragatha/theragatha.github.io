@@ -3,7 +3,7 @@ title: "1.29 Hā"
 id: "thag1.29"
 chapter: 1
 verse: 29
-slug: "thag1.29"
+slug: "thag1.29-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

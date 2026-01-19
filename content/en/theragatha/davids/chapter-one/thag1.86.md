@@ -12,7 +12,7 @@ weight: 86
 bookHidden: true
 ---
 
-## 1.86 Nāgita
+# 1.86 Nāgita
 
 Outside our Order many others be, who teach\
 A path never, like this one, to Nibbāna leading.\

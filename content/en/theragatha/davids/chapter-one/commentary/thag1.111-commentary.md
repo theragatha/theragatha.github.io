@@ -3,7 +3,7 @@ title: "1.111 Jenta"
 id: "thag1.111"
 chapter: 1
 verse: 111
-slug: "thag1.111"
+slug: "thag1.111-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

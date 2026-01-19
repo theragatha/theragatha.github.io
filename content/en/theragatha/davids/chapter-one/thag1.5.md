@@ -12,7 +12,7 @@ weight: 5
 bookHidden: true
 ---
 
-## 1.5 Dabba
+# 1.5 Dabba
 
 Once hard to tame, by taming tamed is now\
 Dabba, from doubts released, content, serene.\

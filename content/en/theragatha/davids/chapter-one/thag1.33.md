@@ -12,7 +12,7 @@ weight: 33
 bookHidden: true
 ---
 
-## 1.33 Sopāka
+# 1.33 Sopāka
 
 E'en as she would be very good\
 Towards her only child, her well-beloved son,\

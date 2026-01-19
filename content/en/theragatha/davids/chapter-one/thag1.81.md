@@ -12,7 +12,7 @@ weight: 81
 bookHidden: true
 ---
 
-## 1.81 Samitigutta
+# 1.81 Samitigutta
 
 Whatso of evil wrought in bygone days,\
 In former births by me, just here and now,\

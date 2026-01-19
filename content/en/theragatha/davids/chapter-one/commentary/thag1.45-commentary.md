@@ -3,7 +3,7 @@ title: "1.45 Ramaṇīyavihārin"
 id: "thag1.45"
 chapter: 1
 verse: 45
-slug: "thag1.45"
+slug: "thag1.45-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

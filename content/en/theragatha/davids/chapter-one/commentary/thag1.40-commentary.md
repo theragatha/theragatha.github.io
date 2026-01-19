@@ -3,7 +3,7 @@ title: "1.40 Vaḍḍhamāna"
 id: "thag1.40"
 chapter: 1
 verse: 40
-slug: "thag1.40"
+slug: "thag1.40-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

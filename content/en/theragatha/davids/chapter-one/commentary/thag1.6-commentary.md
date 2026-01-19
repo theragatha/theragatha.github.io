@@ -3,7 +3,7 @@ title: "1.6 Sīta-Vaniya"
 id: "thag1.6"
 chapter: 1
 verse: 6
-slug: "thag1.6"
+slug: "thag1.6-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

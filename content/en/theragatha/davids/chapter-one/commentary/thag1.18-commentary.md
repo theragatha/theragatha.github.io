@@ -3,7 +3,7 @@ title: "1.18 Singāla-Pitar</a>"
 id: "thag1.18"
 chapter: 1
 verse: 18
-slug: "thag1.18"
+slug: "thag1.18-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

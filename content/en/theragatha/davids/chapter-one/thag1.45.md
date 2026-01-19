@@ -12,7 +12,7 @@ weight: 45
 bookHidden: true
 ---
 
-## 1.45 Ramaṇīyavihārin
+# 1.45 Ramaṇīyavihārin
 
 E'en though he trip and fall, the mettled brute\
 Of noble breed will steadfast stand once more.\

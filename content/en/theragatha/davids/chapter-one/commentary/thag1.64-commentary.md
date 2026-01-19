@@ -3,7 +3,7 @@ title: "1.64 Vimala-Kondañña"
 id: "thag1.64"
 chapter: 1
 verse: 64
-slug: "thag1.64"
+slug: "thag1.64-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

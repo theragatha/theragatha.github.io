@@ -12,7 +12,7 @@ weight: 20
 bookHidden: true
 ---
 
-## 1.20 Ajita
+# 1.20 Ajita
 
 All unafraid of death, nor fain to live,\
 I shall lay down this compound frame anon,\

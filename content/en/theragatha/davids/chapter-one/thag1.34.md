@@ -12,7 +12,7 @@ weight: 34
 bookHidden: true
 ---
 
-## 1.34 Posiya
+# 1.34 Posiya
 
 Best when not near, both now and evermore,\
 Are such as these for him who understands.\

@@ -3,7 +3,7 @@ title: "1.9 Pilinda-Vaccha"
 id: "thag1.9"
 chapter: 1
 verse: 9
-slug: "thag1.9"
+slug: "thag1.9-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

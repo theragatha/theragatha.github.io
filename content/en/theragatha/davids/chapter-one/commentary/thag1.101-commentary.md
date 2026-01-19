@@ -3,7 +3,7 @@ title: "1.101 Belaṭṭhakāni"
 id: "thag1.101"
 chapter: 1
 verse: 101
-slug: "thag1.101"
+slug: "thag1.101-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

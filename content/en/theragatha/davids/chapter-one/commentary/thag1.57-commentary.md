@@ -3,7 +3,7 @@ title: "1.57 Kuṭivihārin (2)"
 id: "thag1.57"
 chapter: 1
 verse: 57
-slug: "thag1.57"
+slug: "thag1.57-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

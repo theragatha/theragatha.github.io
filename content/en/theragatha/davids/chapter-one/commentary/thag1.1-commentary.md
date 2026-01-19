@@ -3,7 +3,7 @@ title: "1.1 Subhūti"
 id: "thag1.1"
 chapter: 1
 verse: 1
-slug: "thag1.1"
+slug: "thag1.1-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

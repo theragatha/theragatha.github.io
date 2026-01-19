@@ -12,7 +12,7 @@ weight: 100
 bookHidden: true
 ---
 
-## 1.100 Devasabha (2)</a>
+# 1.100 Devasabha (2)</a>
 
 Whoso supreme endeavour doth put forth,\
 Whose range is in the fourfold heedfulness,\

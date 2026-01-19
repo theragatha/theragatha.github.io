@@ -3,7 +3,7 @@ title: "1.13 Vanavaccha"
 id: "thag1.13"
 chapter: 1
 verse: 13
-slug: "thag1.13"
+slug: "thag1.13-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

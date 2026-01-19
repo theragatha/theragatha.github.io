@@ -3,7 +3,7 @@ title: "1.76 Piyañjaha"
 id: "thag1.76"
 chapter: 1
 verse: 76
-slug: "thag1.76"
+slug: "thag1.76-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

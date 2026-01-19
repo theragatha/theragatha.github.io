@@ -12,7 +12,7 @@ weight: 27
 bookHidden: true
 ---
 
-## 1.27 Lomasakangiya
+# 1.27 Lomasakangiya
 
 Dabba and Kusa grass and pricking stems\
 And all that hurts in brush and underwood\

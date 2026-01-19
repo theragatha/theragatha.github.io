@@ -3,7 +3,7 @@ title: "1.120 Isidatta"
 id: "thag1.120"
 chapter: 1
 verse: 120
-slug: "thag1.120"
+slug: "thag1.120-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

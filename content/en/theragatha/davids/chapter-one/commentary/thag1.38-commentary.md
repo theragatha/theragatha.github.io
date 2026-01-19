@@ -3,7 +3,7 @@ title: "1.38 Gavampati"
 id: "thag1.38"
 chapter: 1
 verse: 38
-slug: "thag1.38"
+slug: "thag1.38-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

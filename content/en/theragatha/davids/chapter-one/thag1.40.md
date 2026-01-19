@@ -12,7 +12,7 @@ weight: 40
 bookHidden: true
 ---
 
-## 1.40 Vaḍḍhamāna
+# 1.40 Vaḍḍhamāna
 
 As one downsmitten by impending sword,\
 As one whose hair and turban are aflame,\

@@ -12,7 +12,7 @@ weight: 39
 bookHidden: true
 ---
 
-## 1.39 Tissa
+# 1.39 Tissa
 
 As one downsmitten by impending sword,\
 As one whose hair and turban are aflame,\

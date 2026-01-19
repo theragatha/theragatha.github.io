@@ -3,7 +3,7 @@ title: "1.65 Ukkhepakata-Va"
 id: "thag1.65"
 chapter: 1
 verse: 65
-slug: "thag1.65"
+slug: "thag1.65-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

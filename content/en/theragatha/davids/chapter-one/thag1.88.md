@@ -12,7 +12,7 @@ weight: 88
 bookHidden: true
 ---
 
-## 1.88 Ajjuna
+# 1.88 Ajjuna
 
 0 wonder that I found the power to draw\
 Myself forth from the waters on dry land.\

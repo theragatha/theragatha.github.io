@@ -12,7 +12,7 @@ weight: 16
 bookHidden: true
 ---
 
-## 1.16 Belaṭṭhasīsa
+# 1.16 Belaṭṭhasīsa
 
 E'en as the high-bred steer with crested buck\
 Lightly the plough adown the furrow turns,\

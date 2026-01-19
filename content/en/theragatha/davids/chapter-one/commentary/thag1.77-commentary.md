@@ -3,7 +3,7 @@ title: "1.77 Hatthāroha-Putta"
 id: "thag1.77"
 chapter: 1
 verse: 77
-slug: "thag1.77"
+slug: "thag1.77-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

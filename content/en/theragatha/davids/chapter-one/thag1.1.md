@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.1 Subhūti
+# 1.1 Subhūti
 
 Well-roofed and pleasant is my little hut,\
 And screened from winds - Rain at thy will, thou god!\

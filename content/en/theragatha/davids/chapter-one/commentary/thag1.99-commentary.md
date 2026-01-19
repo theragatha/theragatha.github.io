@@ -3,7 +3,7 @@ title: "1.99 Uttiya"
 id: "thag1.99"
 chapter: 1
 verse: 99
-slug: "thag1.99"
+slug: "thag1.99-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

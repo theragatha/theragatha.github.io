@@ -12,7 +12,7 @@ weight: 87
 bookHidden: true
 ---
 
-## 1.87 Paviṭṭha
+# 1.87 Paviṭṭha
 
 The factors of the self are throughly seen;\
 All bases of new being broken down.\

@@ -12,7 +12,7 @@ weight: 58
 bookHidden: true
 ---
 
-## 1.58 Ramaṇīyakuṭika
+# 1.58 Ramaṇīyakuṭika
 
 Delightful is my little hut, the gift\
 Most fair of faithful, pious folk.\

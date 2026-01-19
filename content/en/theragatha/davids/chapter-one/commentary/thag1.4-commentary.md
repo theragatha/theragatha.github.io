@@ -3,7 +3,7 @@ title: "1.4 Puṇṇa of the Mantānis"
 id: "thag1.4"
 chapter: 1
 verse: 4
-slug: "thag1.4"
+slug: "thag1.4-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

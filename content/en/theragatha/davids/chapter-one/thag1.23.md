@@ -12,7 +12,7 @@ weight: 23
 bookHidden: true
 ---
 
-## 1.23 Gosāla
+# 1.23 Gosāla
 
 Lo! I who in the bamboo thicket dined\
 Off rice and honey, who now comprehend,\

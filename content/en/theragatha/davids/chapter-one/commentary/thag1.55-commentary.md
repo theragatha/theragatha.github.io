@@ -3,7 +3,7 @@ title: "1.55 Añjana-vaniya</a>"
 id: "thag1.55"
 chapter: 1
 verse: 55
-slug: "thag1.55"
+slug: "thag1.55-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

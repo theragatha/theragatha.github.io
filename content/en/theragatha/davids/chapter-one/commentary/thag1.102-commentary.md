@@ -3,7 +3,7 @@ title: "1.102 Setuccha"
 id: "thag1.102"
 chapter: 1
 verse: 102
-slug: "thag1.102"
+slug: "thag1.102-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

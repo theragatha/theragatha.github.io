@@ -3,7 +3,7 @@ title: "1.117 "
 id: "thag1.117"
 chapter: 1
 verse: 117
-slug: "thag1.117"
+slug: "thag1.117-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

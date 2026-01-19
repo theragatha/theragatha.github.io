@@ -12,7 +12,7 @@ weight: 46
 bookHidden: true
 ---
 
-## 1.46 Samiddhi
+# 1.46 Samiddhi
 
 In trust and hope forth from my home I came\
 Into the homeless life. And there in me\

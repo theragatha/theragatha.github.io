@@ -12,7 +12,7 @@ weight: 120
 bookHidden: true
 ---
 
-## 1.120 Isidatta
+# 1.120 Isidatta
 
 The factors of my life well understood\
 Stand yet a little while with severed root.\

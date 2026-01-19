@@ -12,7 +12,7 @@ weight: 15
 bookHidden: true
 ---
 
-## 1.15 Kuṇḍa-Dhāna</a>
+# 1.15 Kuṇḍa-Dhāna</a>
 
 Five cut thou off; Five leave behind, and Five beyond all cultivate!\
 He who the Fivefold Bond transcends - a Brother\

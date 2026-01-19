@@ -3,7 +3,7 @@ title: "1.11 Gavaccha the Less"
 id: "thag1.11"
 chapter: 1
 verse: 11
-slug: "thag1.11"
+slug: "thag1.11-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

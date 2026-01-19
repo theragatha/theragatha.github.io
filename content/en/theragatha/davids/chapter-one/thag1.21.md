@@ -12,7 +12,7 @@ weight: 21
 bookHidden: true
 ---
 
-## 1.21 Nigrodha
+# 1.21 Nigrodha
 
 No fear have I of fearsome things, for He,\
 Our Master, knoweth well th' ambrosial lore.\

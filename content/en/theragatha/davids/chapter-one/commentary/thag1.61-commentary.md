@@ -3,7 +3,7 @@ title: "1.61 V"
 id: "thag1.61"
 chapter: 1
 verse: 61
-slug: "thag1.61"
+slug: "thag1.61-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

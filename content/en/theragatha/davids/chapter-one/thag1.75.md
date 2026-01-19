@@ -12,7 +12,7 @@ weight: 75
 bookHidden: true
 ---
 
-## 1.75 Susārada
+# 1.75 Susārada
 
 O goodly is the sight of cultured minds!\
 Doubt is cut off, and wisdom grows apace.\

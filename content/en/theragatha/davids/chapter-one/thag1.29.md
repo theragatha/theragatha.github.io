@@ -12,7 +12,7 @@ weight: 29
 bookHidden: true
 ---
 
-## 1.29 Hā
+# 1.29 Hā
 
 Now bend aloft thyself; e'en as his bolt\
 The fletcher, so do thou, O Hārita,\

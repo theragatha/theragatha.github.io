@@ -3,7 +3,7 @@ title: "1.44 Sānu"
 id: "thag1.44"
 chapter: 1
 verse: 44
-slug: "thag1.44"
+slug: "thag1.44-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

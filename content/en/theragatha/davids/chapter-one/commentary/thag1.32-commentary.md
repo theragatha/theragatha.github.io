@@ -3,7 +3,7 @@ title: "1.32 Suppiya"
 id: "thag1.32"
 chapter: 1
 verse: 32
-slug: "thag1.32"
+slug: "thag1.32-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

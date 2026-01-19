@@ -3,7 +3,7 @@ title: "1.63 Pakkha (The Cripple)"
 id: "thag1.63"
 chapter: 1
 verse: 63
-slug: "thag1.63"
+slug: "thag1.63-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

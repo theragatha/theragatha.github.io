@@ -3,7 +3,7 @@ title: "1.95 Cakkhupāla"
 id: "thag1.95"
 chapter: 1
 verse: 95
-slug: "thag1.95"
+slug: "thag1.95-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

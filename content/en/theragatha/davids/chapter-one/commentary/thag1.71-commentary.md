@@ -3,7 +3,7 @@ title: "1.71 Vaccha"
 id: "thag1.71"
 chapter: 1
 verse: 71
-slug: "thag1.71"
+slug: "thag1.71-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

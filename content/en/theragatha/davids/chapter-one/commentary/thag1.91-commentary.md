@@ -3,7 +3,7 @@ title: "1.91 Paripuṇṇaka"
 id: "thag1.91"
 chapter: 1
 verse: 91
-slug: "thag1.91"
+slug: "thag1.91-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

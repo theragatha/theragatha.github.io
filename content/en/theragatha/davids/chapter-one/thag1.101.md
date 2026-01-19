@@ -12,7 +12,7 @@ weight: 101
 bookHidden: true
 ---
 
-## 1.101 Belaṭṭhakāni
+# 1.101 Belaṭṭhakāni
 
 Though layman's life be left, yet if the task\
 Remain undone, the mouth harsh furrows plough,\

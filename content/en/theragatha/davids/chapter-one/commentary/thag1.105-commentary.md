@@ -3,7 +3,7 @@ title: "1.105 Malitavambha"
 id: "thag1.105"
 chapter: 1
 verse: 105
-slug: "thag1.105"
+slug: "thag1.105-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

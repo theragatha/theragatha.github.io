@@ -3,7 +3,7 @@ title: "1.36 Kumā's Son"
 id: "thag1.36"
 chapter: 1
 verse: 36
-slug: "thag1.36"
+slug: "thag1.36-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

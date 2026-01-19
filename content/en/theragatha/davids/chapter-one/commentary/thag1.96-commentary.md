@@ -3,7 +3,7 @@ title: "1.96 Khaṇḍasumana"
 id: "thag1.96"
 chapter: 1
 verse: 96
-slug: "thag1.96"
+slug: "thag1.96-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

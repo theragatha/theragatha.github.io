@@ -12,7 +12,7 @@ weight: 12
 bookHidden: true
 ---
 
-## 1.12 Gavaccha Major
+# 1.12 Gavaccha Major
 
 In wisdom strong, guided by virtue's rule, intent,\
 To concentration's rapture given, yet vigilant;\

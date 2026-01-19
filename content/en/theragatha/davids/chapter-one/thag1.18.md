@@ -12,7 +12,7 @@ weight: 18
 bookHidden: true
 ---
 
-## 1.18 Singāla-Pitar</a>
+# 1.18 Singāla-Pitar</a>
 
 Lo! in the forest of Bhesakalā\
 A brother dwells, heir of the Buddha's grace,\

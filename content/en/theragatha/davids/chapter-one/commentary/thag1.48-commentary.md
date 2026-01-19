@@ -3,7 +3,7 @@ title: "1.48 Sañjaya"
 id: "thag1.48"
 chapter: 1
 verse: 48
-slug: "thag1.48"
+slug: "thag1.48-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

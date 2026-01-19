@@ -12,7 +12,7 @@ weight: 115
 bookHidden: true
 ---
 
-## 1.115 Mahanāma
+# 1.115 Mahanāma
 
 Lo thou! how to a wretched end art come\
 By this steep crag, this famous Hunter's Hill,\

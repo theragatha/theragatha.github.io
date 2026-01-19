@@ -12,7 +12,7 @@ weight: 94
 bookHidden: true
 ---
 
-## 1.94 Mettaji
+# 1.94 Mettaji
 
 All glory to the Exalted One,\
 Our splendid Lord, the Sākiyas' son!\

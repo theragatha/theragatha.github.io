@@ -3,7 +3,7 @@ title: "1.90 Sāmidatta"
 id: "thag1.90"
 chapter: 1
 verse: 90
-slug: "thag1.90"
+slug: "thag1.90-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

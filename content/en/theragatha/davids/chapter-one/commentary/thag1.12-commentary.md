@@ -3,7 +3,7 @@ title: "1.12 Gavaccha Major"
 id: "thag1.12"
 chapter: 1
 verse: 12
-slug: "thag1.12"
+slug: "thag1.12-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

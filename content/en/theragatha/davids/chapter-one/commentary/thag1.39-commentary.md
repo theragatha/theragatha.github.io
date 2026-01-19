@@ -3,7 +3,7 @@ title: "1.39 Tissa"
 id: "thag1.39"
 chapter: 1
 verse: 39
-slug: "thag1.39"
+slug: "thag1.39-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

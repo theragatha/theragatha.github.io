@@ -3,7 +3,7 @@ title: "1.7 Bhalliya"
 id: "thag1.7"
 chapter: 1
 verse: 7
-slug: "thag1.7"
+slug: "thag1.7-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

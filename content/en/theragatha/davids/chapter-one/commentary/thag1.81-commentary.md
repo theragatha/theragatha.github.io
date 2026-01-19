@@ -3,7 +3,7 @@ title: "1.81 Samitigutta"
 id: "thag1.81"
 chapter: 1
 verse: 81
-slug: "thag1.81"
+slug: "thag1.81-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

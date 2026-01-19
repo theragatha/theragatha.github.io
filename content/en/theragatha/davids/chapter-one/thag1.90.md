@@ -12,7 +12,7 @@ weight: 90
 bookHidden: true
 ---
 
-## 1.90 Sāmidatta
+# 1.90 Sāmidatta
 
 The factors of my life well understood\
 Stand yet a little while with severed root.\

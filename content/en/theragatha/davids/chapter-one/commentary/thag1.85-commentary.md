@@ -3,7 +3,7 @@ title: "1.85 Sunāga"
 id: "thag1.85"
 chapter: 1
 verse: 85
-slug: "thag1.85"
+slug: "thag1.85-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

@@ -3,7 +3,7 @@ title: "1.24 Suga"
 id: "thag1.24"
 chapter: 1
 verse: 24
-slug: "thag1.24"
+slug: "thag1.24-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

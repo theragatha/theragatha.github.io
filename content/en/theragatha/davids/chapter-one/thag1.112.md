@@ -12,7 +12,7 @@ weight: 112
 bookHidden: true
 ---
 
-## 1.112 Vacchag
+# 1.112 Vacchag
 
 The Threefold Lore is mine, and I excel\
 In Jhāna-ecstasy, adept in calm\

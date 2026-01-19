@@ -12,7 +12,7 @@ weight: 4
 bookHidden: true
 ---
 
-## 1.4 Puṇṇa of the Mantānis
+# 1.4 Puṇṇa of the Mantānis
 
 Aye with the good consort, with them\
 Who know, who understand, who see the Good.\

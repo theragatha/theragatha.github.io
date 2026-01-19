@@ -12,7 +12,7 @@ weight: 119
 bookHidden: true
 ---
 
-## 1.119 Vajji-putta (2)
+# 1.119 Vajji-putta (2)
 
 Come thou and plunge in leafy lair of trees,\
 Suffer Nibbāna in thy heart to sink!\

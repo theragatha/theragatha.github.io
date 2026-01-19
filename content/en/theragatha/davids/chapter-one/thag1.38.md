@@ -12,7 +12,7 @@ weight: 38
 bookHidden: true
 ---
 
-## 1.38 Gavampati
+# 1.38 Gavampati
 
 Who by his might reared up the Sarabhū,\
 Who standeth self-reliant and unmoved,\

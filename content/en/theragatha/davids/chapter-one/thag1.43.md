@@ -12,7 +12,7 @@ weight: 43
 bookHidden: true
 ---
 
-## 1.43 Sumaṅgala
+# 1.43 Sumaṅgala
 
 Well rid, well rid, O excellently rid\
 Am I from these three crooked tasks and tools,\

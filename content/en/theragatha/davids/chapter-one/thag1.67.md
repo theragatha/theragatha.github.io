@@ -12,7 +12,7 @@ weight: 67
 bookHidden: true
 ---
 
-## 1.67 Ekadhamma Sava
+# 1.67 Ekadhamma Sava
 
 Impermanent indeed are all component things
 

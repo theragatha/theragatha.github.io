@@ -3,7 +3,7 @@ title: "1.86 Nāgita"
 id: "thag1.86"
 chapter: 1
 verse: 86
-slug: "thag1.86"
+slug: "thag1.86-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

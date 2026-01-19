@@ -3,7 +3,7 @@ title: "1.87 Paviṭṭha"
 id: "thag1.87"
 chapter: 1
 verse: 87
-slug: "thag1.87"
+slug: "thag1.87-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

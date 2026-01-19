@@ -3,7 +3,7 @@ title: "1.58 Ramaṇīyakuṭika"
 id: "thag1.58"
 chapter: 1
 verse: 58
-slug: "thag1.58"
+slug: "thag1.58-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

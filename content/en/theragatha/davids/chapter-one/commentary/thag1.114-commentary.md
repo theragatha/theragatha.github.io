@@ -3,7 +3,7 @@ title: "1.114 Adhimutta</a>"
 id: "thag1.114"
 chapter: 1
 verse: 114
-slug: "thag1.114"
+slug: "thag1.114-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

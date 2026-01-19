@@ -3,7 +3,7 @@ title: "1.84 Nīta"
 id: "thag1.84"
 chapter: 1
 verse: 84
-slug: "thag1.84"
+slug: "thag1.84-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

@@ -3,7 +3,7 @@ title: "1.88 Ajjuna"
 id: "thag1.88"
 chapter: 1
 verse: 88
-slug: "thag1.88"
+slug: "thag1.88-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

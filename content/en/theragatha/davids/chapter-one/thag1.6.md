@@ -12,7 +12,7 @@ weight: 6
 bookHidden: true
 ---
 
-## 1.6 Sīta-Vaniya
+# 1.6 Sīta-Vaniya
 
 There is a brother who to Cool Wood gone doth dwell\
 Alone, content, in meditative ecstasy,\

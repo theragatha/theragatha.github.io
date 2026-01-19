@@ -3,7 +3,7 @@ title: "1.89 Devasabha</a>"
 id: "thag1.89"
 chapter: 1
 verse: 89
-slug: "thag1.89"
+slug: "thag1.89-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

@@ -12,7 +12,7 @@ weight: 95
 bookHidden: true
 ---
 
-## 1.95 Cakkhupāla
+# 1.95 Cakkhupāla
 
 All blind am I and perished are mine eyes\
 And through the jungle's wilderness I fare.\

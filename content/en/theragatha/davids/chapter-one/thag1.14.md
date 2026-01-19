@@ -12,7 +12,7 @@ weight: 14
 bookHidden: true
 ---
 
-## 1.14 Sīvaka
+# 1.14 Sīvaka
 
 The teacher spake me thus: 'Sīvaka, hence\
 Let's go!' Here in the town my body dwells;\

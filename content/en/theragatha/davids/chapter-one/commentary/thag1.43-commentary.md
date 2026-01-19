@@ -3,7 +3,7 @@ title: "1.43 Sumaṅgala"
 id: "thag1.43"
 chapter: 1
 verse: 43
-slug: "thag1.43"
+slug: "thag1.43-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

@@ -3,7 +3,7 @@ title: "1.47 Ujjaya"
 id: "thag1.47"
 chapter: 1
 verse: 47
-slug: "thag1.47"
+slug: "thag1.47-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

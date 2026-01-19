@@ -12,7 +12,7 @@ weight: 47
 bookHidden: true
 ---
 
-## 1.47 Ujjaya
+# 1.47 Ujjaya
 
 Buddha the Wake, the Hero hail! all hail!\
 Thou who from every bond art wholly free!\

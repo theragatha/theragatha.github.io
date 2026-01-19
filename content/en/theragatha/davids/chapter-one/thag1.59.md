@@ -12,7 +12,7 @@ weight: 59
 bookHidden: true
 ---
 
-## 1.59 Kosalavihārin
+# 1.59 Kosalavihārin
 
 Strong in my faith I left the world. Now here\
 Within the woods a hut is made for me;\

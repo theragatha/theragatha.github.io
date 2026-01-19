@@ -12,7 +12,7 @@ weight: 48
 bookHidden: true
 ---
 
-## 1.48 Sañjaya
+# 1.48 Sañjaya
 
 Since I went forth from home to homeless life,\
 Ne'er have I harboured conscious wish or plan\

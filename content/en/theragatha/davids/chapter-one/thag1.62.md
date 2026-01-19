@@ -12,7 +12,7 @@ weight: 62
 bookHidden: true
 ---
 
-## 1.62 Vajji-putta
+# 1.62 Vajji-putta
 
 Each by himself we in the forest dwell,\
 Like logs rejected by the woodman's craft.\

@@ -12,7 +12,7 @@ weight: 78
 bookHidden: true
 ---
 
-## 1.78 Meṇḍasīra
+# 1.78 Meṇḍasīra
 
 Full many a round of rebirth have I run\
 Nor found a clue. Lo! now from me who sore\

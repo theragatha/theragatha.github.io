@@ -3,7 +3,7 @@ title: "1.66 Meg"
 id: "thag1.66"
 chapter: 1
 verse: 66
-slug: "thag1.66"
+slug: "thag1.66-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

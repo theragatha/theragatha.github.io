@@ -12,7 +12,7 @@ weight: 25
 bookHidden: true
 ---
 
-## 1.25 Nan
+# 1.25 Nan
 
 To him whose thought is ever newly born\
 From splendour of the Path, and eke hath touched\

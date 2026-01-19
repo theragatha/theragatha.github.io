@@ -12,7 +12,7 @@ weight: 10
 bookHidden: true
 ---
 
-## 1.10 Puṇṇamāsa
+# 1.10 Puṇṇamāsa
 
 All longings as to this or other life\
 Have I put far from me, as one who hath\

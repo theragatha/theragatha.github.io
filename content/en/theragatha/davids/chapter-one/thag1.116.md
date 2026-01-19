@@ -12,7 +12,7 @@ weight: 116
 bookHidden: true
 ---
 
-## 1.116 Pāpāpariya
+# 1.116 Pāpāpariya
 
 Avoiding truck with contact's sixfold field,\
 Guarding the gates of sense, master of self,\

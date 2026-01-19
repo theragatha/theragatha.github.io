@@ -3,7 +3,7 @@ title: "1.80 Ugga"
 id: "thag1.80"
 chapter: 1
 verse: 80
-slug: "thag1.80"
+slug: "thag1.80-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

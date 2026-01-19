@@ -3,7 +3,7 @@ title: "1.46 Samiddhi"
 id: "thag1.46"
 chapter: 1
 verse: 46
-slug: "thag1.46"
+slug: "thag1.46-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

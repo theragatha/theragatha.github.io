@@ -3,7 +3,7 @@ title: "1.60 Sī"
 id: "thag1.60"
 chapter: 1
 verse: 60
-slug: "thag1.60"
+slug: "thag1.60-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

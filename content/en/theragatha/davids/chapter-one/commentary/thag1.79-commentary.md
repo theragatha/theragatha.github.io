@@ -3,7 +3,7 @@ title: "1.79 Rakkhita"
 id: "thag1.79"
 chapter: 1
 verse: 79
-slug: "thag1.79"
+slug: "thag1.79-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

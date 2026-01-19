@@ -12,7 +12,7 @@ weight: 3
 bookHidden: true
 ---
 
-## 1.3 Kankhā-Revata
+# 1.3 Kankhā-Revata
 
 Behold how great the wisdom is of Them\
 Who Thus-have-come! As fire at midnight hour,\

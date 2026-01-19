@@ -3,7 +3,7 @@ title: "1.92 Vijaya"
 id: "thag1.92"
 chapter: 1
 verse: 92
-slug: "thag1.92"
+slug: "thag1.92-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

@@ -3,7 +3,7 @@ title: "1.104 Khitaka"
 id: "thag1.104"
 chapter: 1
 verse: 104
-slug: "thag1.104"
+slug: "thag1.104-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

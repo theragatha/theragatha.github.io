@@ -3,7 +3,7 @@ title: "1.5 Dabba"
 id: "thag1.5"
 chapter: 1
 verse: 5
-slug: "thag1.5"
+slug: "thag1.5-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

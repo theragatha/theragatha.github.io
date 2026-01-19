@@ -3,7 +3,7 @@ title: "1.37 The Comrade of Kumā's Son"
 id: "thag1.37"
 chapter: 1
 verse: 37
-slug: "thag1.37"
+slug: "thag1.37-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

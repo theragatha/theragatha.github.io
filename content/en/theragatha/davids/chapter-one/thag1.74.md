@@ -12,7 +12,7 @@ weight: 74
 bookHidden: true
 ---
 
-## 1.74 Suyāmana
+# 1.74 Suyāmana
 
 With sensuous desires, with enmity,\
 With sloth of mind and torpor of the flesh\

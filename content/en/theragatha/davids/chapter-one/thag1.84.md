@@ -12,7 +12,7 @@ weight: 84
 bookHidden: true
 ---
 
-## 1.84 Nīta
+# 1.84 Nīta
 
 Thou all the night to slumber given o'er,\
 Who lov'st the day 'mid chattering crowds to spend: -\

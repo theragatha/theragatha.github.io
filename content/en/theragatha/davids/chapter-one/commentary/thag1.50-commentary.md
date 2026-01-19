@@ -3,7 +3,7 @@ title: "1.50 Vimala"
 id: "thag1.50"
 chapter: 1
 verse: 50
-slug: "thag1.50"
+slug: "thag1.50-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

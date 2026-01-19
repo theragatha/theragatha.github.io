@@ -3,7 +3,7 @@ title: "1.33 Sopāka"
 id: "thag1.33"
 chapter: 1
 verse: 33
-slug: "thag1.33"
+slug: "thag1.33-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

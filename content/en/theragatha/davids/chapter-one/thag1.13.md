@@ -12,7 +12,7 @@ weight: 13
 bookHidden: true
 ---
 
-## 1.13 Vanavaccha
+# 1.13 Vanavaccha
 
 Crags with the hue of heaven's blue clouds,\
 Where lies enbosomed many a shining tarn\

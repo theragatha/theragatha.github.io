@@ -3,7 +3,7 @@ title: "1.97 Tissa"
 id: "thag1.97"
 chapter: 1
 verse: 97
-slug: "thag1.97"
+slug: "thag1.97-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

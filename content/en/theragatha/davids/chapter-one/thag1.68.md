@@ -12,7 +12,7 @@ weight: 68
 bookHidden: true
 ---
 
-## 1.68 Ekudāniya
+# 1.68 Ekudāniya
 
 He who doth dwell on highest plane of thought, etc.
 

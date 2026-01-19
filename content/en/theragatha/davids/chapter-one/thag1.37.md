@@ -12,7 +12,7 @@ weight: 37
 bookHidden: true
 ---
 
-## 1.37 The Comrade of Kumā's Son
+# 1.37 The Comrade of Kumā's Son
 
 To divers regions back and forth they fare\
 Heedless of heart upon their rounds, and balk\

@@ -3,7 +3,7 @@ title: "1.8 Vīra"
 id: "thag1.8"
 chapter: 1
 verse: 8
-slug: "thag1.8"
+slug: "thag1.8-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

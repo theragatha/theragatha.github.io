@@ -3,7 +3,7 @@ title: "1.59 Kosalavihārin"
 id: "thag1.59"
 chapter: 1
 verse: 59
-slug: "thag1.59"
+slug: "thag1.59-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

@@ -3,7 +3,7 @@ title: "1.69 Channa"
 id: "thag1.69"
 chapter: 1
 verse: 69
-slug: "thag1.69"
+slug: "thag1.69-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

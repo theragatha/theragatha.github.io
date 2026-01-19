@@ -12,7 +12,7 @@ weight: 96
 bookHidden: true
 ---
 
-## 1.96 Khaṇḍasumana
+# 1.96 Khaṇḍasumana
 
 One flower in pious offering brought\
 Did win me years on years of pleasant life\

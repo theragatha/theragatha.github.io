@@ -3,7 +3,7 @@ title: "1.78 Meṇḍasīra"
 id: "thag1.78"
 chapter: 1
 verse: 78
-slug: "thag1.78"
+slug: "thag1.78-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

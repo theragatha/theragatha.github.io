@@ -12,7 +12,7 @@ weight: 41
 bookHidden: true
 ---
 
-## 1.41 Sirivaḍḍha
+# 1.41 Sirivaḍḍha
 
 The lightnings flash e'en in the rocky cave,\
 Smiting Vebhāra's crest and Paṇḍava,\

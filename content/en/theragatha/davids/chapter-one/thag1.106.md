@@ -12,7 +12,7 @@ weight: 106
 bookHidden: true
 ---
 
-## 1.106 Suhemanta
+# 1.106 Suhemanta
 
 A hundred tokens show, a hundred marks\
 Betray wherein the hidden meaning lies.\

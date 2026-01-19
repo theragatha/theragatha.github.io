@@ -12,7 +12,7 @@ weight: 31
 bookHidden: true
 ---
 
-## 1.31 Gahvaratīriya
+# 1.31 Gahvaratīriya
 
 In the great forest, in the mighty woods,\
 Touched though I be by gadfly and by gnat,\

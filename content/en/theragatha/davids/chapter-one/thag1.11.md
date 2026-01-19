@@ -12,7 +12,7 @@ weight: 11
 bookHidden: true
 ---
 
-## 1.11 Gavaccha the Less
+# 1.11 Gavaccha the Less
 
 Abundantly this brother doth rejoice,\
 For the blest truths the Buddha hath revealed\

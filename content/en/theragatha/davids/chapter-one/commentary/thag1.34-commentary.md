@@ -3,7 +3,7 @@ title: "1.34 Posiya"
 id: "thag1.34"
 chapter: 1
 verse: 34
-slug: "thag1.34"
+slug: "thag1.34-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

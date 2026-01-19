@@ -12,7 +12,7 @@ weight: 104
 bookHidden: true
 ---
 
-## 1.104 Khitaka
+# 1.104 Khitaka
 
 Buoyant in sooth my body, every pulse\
 Throbbing in wondrous bliss and ecstasy.\

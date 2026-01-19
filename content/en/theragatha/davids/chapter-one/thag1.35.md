@@ -12,7 +12,7 @@ weight: 35
 bookHidden: true
 ---
 
-## 1.35 Sāmaññakāni
+# 1.35 Sāmaññakāni
 
 Happiness he who seeks may win an he practise the seeking -\
 Honour he gaineth beside, and growth of renown shall befall him -\

@@ -3,7 +3,7 @@ title: "1.26 Ab"
 id: "thag1.26"
 chapter: 1
 verse: 26
-slug: "thag1.26"
+slug: "thag1.26-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

@@ -3,7 +3,7 @@ title: "1.21 Nigrodha"
 id: "thag1.21"
 chapter: 1
 verse: 21
-slug: "thag1.21"
+slug: "thag1.21-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

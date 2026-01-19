@@ -3,7 +3,7 @@ title: "1.23 Gosāla"
 id: "thag1.23"
 chapter: 1
 verse: 23
-slug: "thag1.23"
+slug: "thag1.23-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

@@ -12,7 +12,7 @@ weight: 98
 bookHidden: true
 ---
 
-## 1.98 Abhaya (2)
+# 1.98 Abhaya (2)
 
 Sight of fair shape bewildering self-control,\
 If one but heed the image sweet and dear,\

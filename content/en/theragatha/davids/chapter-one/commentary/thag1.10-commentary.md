@@ -3,7 +3,7 @@ title: "1.10 Puṇṇamāsa"
 id: "thag1.10"
 chapter: 1
 verse: 10
-slug: "thag1.10"
+slug: "thag1.10-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

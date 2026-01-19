@@ -3,7 +3,7 @@ title: "1.14 Sīvaka"
 id: "thag1.14"
 chapter: 1
 verse: 14
-slug: "thag1.14"
+slug: "thag1.14-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

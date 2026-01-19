@@ -3,7 +3,7 @@ title: "1.119 Vajji-putta (2)"
 id: "thag1.119"
 chapter: 1
 verse: 119
-slug: "thag1.119"
+slug: "thag1.119-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

@@ -3,7 +3,7 @@ title: "1.83 Sīha"
 id: "thag1.83"
 chapter: 1
 verse: 83
-slug: "thag1.83"
+slug: "thag1.83-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

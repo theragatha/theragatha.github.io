@@ -3,7 +3,7 @@ title: "1.20 Ajita"
 id: "thag1.20"
 chapter: 1
 verse: 20
-slug: "thag1.20"
+slug: "thag1.20-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

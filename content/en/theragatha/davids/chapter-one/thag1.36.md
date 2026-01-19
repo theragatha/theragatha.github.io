@@ -12,7 +12,7 @@ weight: 36
 bookHidden: true
 ---
 
-## 1.36 Kumā's Son
+# 1.36 Kumā's Son
 
 O goodly are the things our ears now hear!\
 O goodly is the life we here may lead!\

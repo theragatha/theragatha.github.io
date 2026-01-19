@@ -3,7 +3,7 @@ title: "1.73 Māṇava"
 id: "thag1.73"
 chapter: 1
 verse: 73
-slug: "thag1.73"
+slug: "thag1.73-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

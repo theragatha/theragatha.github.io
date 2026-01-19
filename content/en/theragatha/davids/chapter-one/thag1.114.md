@@ -12,7 +12,7 @@ weight: 114
 bookHidden: true
 ---
 
-## 1.114 Adhimutta</a>
+# 1.114 Adhimutta</a>
 
 If ye to this gross body give such heed,\
 Greedy its pleasures to enjoy, the while\

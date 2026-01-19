@@ -12,7 +12,7 @@ weight: 8
 bookHidden: true
 ---
 
-## 1.8 Vīra
+# 1.8 Vīra
 
 Once hard to tame, by taming now is tamed\
 Vira, from doubts released, content, serene;\

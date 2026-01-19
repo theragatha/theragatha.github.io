@@ -12,7 +12,7 @@ weight: 70
 bookHidden: true
 ---
 
-## 1.70 Puṇṇa
+# 1.70 Puṇṇa
 
 Only virtue here is highest; but the wise man is supreme.\
 He who wisdom hath and virtue,\

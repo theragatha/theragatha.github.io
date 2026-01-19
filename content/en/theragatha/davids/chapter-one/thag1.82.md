@@ -12,7 +12,7 @@ weight: 82
 bookHidden: true
 ---
 
-## 1.82 Kassapa
+# 1.82 Kassapa
 
 To any place where alms are easy got,\
 Where'er 'tis safe and free from peril, there\

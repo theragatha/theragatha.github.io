@@ -3,7 +3,7 @@ title: "1.49 Rāmaṇeyyaka"
 id: "thag1.49"
 chapter: 1
 verse: 49
-slug: "thag1.49"
+slug: "thag1.49-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

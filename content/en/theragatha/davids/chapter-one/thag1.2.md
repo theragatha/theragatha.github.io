@@ -12,7 +12,7 @@ weight: 2
 bookHidden: true
 ---
 
-## 1.2 Koṭṭhita the Great
+# 1.2 Koṭṭhita the Great
 
 Whoso, serene and calm, dead to the world,\
 Can utter wisdom's runes, with wit unswelled.\

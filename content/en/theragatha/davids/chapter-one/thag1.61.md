@@ -12,7 +12,7 @@ weight: 61
 bookHidden: true
 ---
 
-## 1.61 V
+# 1.61 V
 
 He who doth see can see another seer,\
 Him too who hath no eyes wherewith to see,\

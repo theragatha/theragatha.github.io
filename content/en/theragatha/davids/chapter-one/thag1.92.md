@@ -12,7 +12,7 @@ weight: 92
 bookHidden: true
 ---
 
-## 1.92 Vijaya
+# 1.92 Vijaya
 
 In whom the intoxicants are dried up;\
 Whose happiness dependeth not on food;\

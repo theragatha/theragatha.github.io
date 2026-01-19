@@ -3,7 +3,7 @@ title: "1.56 Kuṭivihārin</a>"
 id: "thag1.56"
 chapter: 1
 verse: 56
-slug: "thag1.56"
+slug: "thag1.56-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

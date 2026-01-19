@@ -3,7 +3,7 @@ title: "1.35 Sāmaññakāni"
 id: "thag1.35"
 chapter: 1
 verse: 35
-slug: "thag1.35"
+slug: "thag1.35-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

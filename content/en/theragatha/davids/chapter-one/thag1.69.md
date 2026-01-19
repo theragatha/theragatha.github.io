@@ -12,7 +12,7 @@ weight: 69
 bookHidden: true
 ---
 
-## 1.69 Channa
+# 1.69 Channa
 
 I heard the Truth which that Great One had taught,\
 And felt its mighty virtues, known by Him\

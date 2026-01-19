@@ -3,7 +3,7 @@ title: "1.112 Vacchag"
 id: "thag1.112"
 chapter: 1
 verse: 112
-slug: "thag1.112"
+slug: "thag1.112-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

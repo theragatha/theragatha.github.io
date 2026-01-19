@@ -3,7 +3,7 @@ title: "1.68 Ekudāniya"
 id: "thag1.68"
 chapter: 1
 verse: 68
-slug: "thag1.68"
+slug: "thag1.68-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

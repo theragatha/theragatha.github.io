@@ -3,7 +3,7 @@ title: "1.72 Ātuma"
 id: "thag1.72"
 chapter: 1
 verse: 72
-slug: "thag1.72"
+slug: "thag1.72-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

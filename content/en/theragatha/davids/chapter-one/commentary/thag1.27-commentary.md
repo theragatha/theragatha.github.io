@@ -3,7 +3,7 @@ title: "1.27 Lomasakangiya"
 id: "thag1.27"
 chapter: 1
 verse: 27
-slug: "thag1.27"
+slug: "thag1.27-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

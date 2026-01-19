@@ -12,7 +12,7 @@ weight: 77
 bookHidden: true
 ---
 
-## 1.77 Hatthāroha-Putta
+# 1.77 Hatthāroha-Putta
 
 Once roamed this heart a field, a wanderer\
 Wherever will, or whim, or pleasure led.\

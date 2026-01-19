@@ -12,7 +12,7 @@ weight: 65
 bookHidden: true
 ---
 
-## 1.65 Ukkhepakata-Va
+# 1.65 Ukkhepakata-Va
 
 That heaped wealth by Vaccha's toil thrown up\
 By steady increment these many years,\

@@ -3,7 +3,7 @@ title: "1.93 Eraka"
 id: "thag1.93"
 chapter: 1
 verse: 93
-slug: "thag1.93"
+slug: "thag1.93-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

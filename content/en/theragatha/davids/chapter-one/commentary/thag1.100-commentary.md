@@ -3,7 +3,7 @@ title: "1.100 Devasabha (2)</a>"
 id: "thag1.100"
 chapter: 1
 verse: 100
-slug: "thag1.100"
+slug: "thag1.100-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

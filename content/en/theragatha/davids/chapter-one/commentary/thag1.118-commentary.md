@@ -3,7 +3,7 @@ title: "1.118 Kim"
 id: "thag1.118"
 chapter: 1
 verse: 118
-slug: "thag1.118"
+slug: "thag1.118-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

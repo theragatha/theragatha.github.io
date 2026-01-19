@@ -3,7 +3,7 @@ title: "1.31 Gahvaratīriya"
 id: "thag1.31"
 chapter: 1
 verse: 31
-slug: "thag1.31"
+slug: "thag1.31-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

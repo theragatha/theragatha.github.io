@@ -3,7 +3,7 @@ title: "1.98 Abhaya (2)"
 id: "thag1.98"
 chapter: 1
 verse: 98
-slug: "thag1.98"
+slug: "thag1.98-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

@@ -3,7 +3,7 @@ title: "1.62 Vajji-putta"
 id: "thag1.62"
 chapter: 1
 verse: 62
-slug: "thag1.62"
+slug: "thag1.62-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

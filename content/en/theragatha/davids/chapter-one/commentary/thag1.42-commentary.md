@@ -3,7 +3,7 @@ title: "1.42 Khadira-Vaniya"
 id: "thag1.42"
 chapter: 1
 verse: 42
-slug: "thag1.42"
+slug: "thag1.42-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

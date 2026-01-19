@@ -12,7 +12,7 @@ weight: 66
 bookHidden: true
 ---
 
-## 1.66 Meg
+# 1.66 Meg
 
 He, the great Hero, counselled me, whose mind\
 Hath all transcended that our minds may know.\

@@ -12,7 +12,7 @@ weight: 105
 bookHidden: true
 ---
 
-## 1.105 Malitavambha
+# 1.105 Malitavambha
 
 Where I am straitened let me never dwell,\
 Let me go thence, if life too pleasant prove.\

@@ -3,7 +3,7 @@ title: "1.67 Ekadhamma Sava"
 id: "thag1.67"
 chapter: 1
 verse: 67
-slug: "thag1.67"
+slug: "thag1.67-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

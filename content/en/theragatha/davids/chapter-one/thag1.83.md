@@ -12,7 +12,7 @@ weight: 83
 bookHidden: true
 ---
 
-## 1.83 Sīha
+# 1.83 Sīha
 
 O Siha! persevere in earnestness;\
 By night and day abide unfaltering.\

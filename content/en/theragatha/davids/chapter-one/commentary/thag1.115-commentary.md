@@ -3,7 +3,7 @@ title: "1.115 Mahanāma"
 id: "thag1.115"
 chapter: 1
 verse: 115
-slug: "thag1.115"
+slug: "thag1.115-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

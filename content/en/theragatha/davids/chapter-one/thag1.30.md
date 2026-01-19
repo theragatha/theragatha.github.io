@@ -12,7 +12,7 @@ weight: 30
 bookHidden: true
 ---
 
-## 1.30 Uttiya
+# 1.30 Uttiya
 
 Since sickness hath befallen me, O now\
 Let there arise in me true mindfulness.\

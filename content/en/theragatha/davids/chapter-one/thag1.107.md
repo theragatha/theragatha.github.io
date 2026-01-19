@@ -12,7 +12,7 @@ weight: 107
 bookHidden: true
 ---
 
-## 1.107 Dhammāsava
+# 1.107 Dhammāsava
 
 I pondered well, then sought the life that lay\
 Beyond the walls and bonds of household life.\

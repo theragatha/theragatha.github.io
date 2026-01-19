@@ -12,7 +12,7 @@ weight: 72
 bookHidden: true
 ---
 
-## 1.72 Ātuma
+# 1.72 Ātuma
 
 As the new bamboo-stem, even when grown\
 To its full knotted height, can scarce emerge,\

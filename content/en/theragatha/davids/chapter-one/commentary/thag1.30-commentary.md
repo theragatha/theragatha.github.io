@@ -3,7 +3,7 @@ title: "1.30 Uttiya"
 id: "thag1.30"
 chapter: 1
 verse: 30
-slug: "thag1.30"
+slug: "thag1.30-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

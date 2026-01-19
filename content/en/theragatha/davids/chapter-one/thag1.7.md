@@ -12,7 +12,7 @@ weight: 7
 bookHidden: true
 ---
 
-## 1.7 Bhalliya
+# 1.7 Bhalliya
 
 Whoso hath chased away the Death-king and his host,\
 E'en as a mighty flood the causeway of frail reeds,\

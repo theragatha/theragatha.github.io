@@ -12,7 +12,7 @@ weight: 113
 bookHidden: true
 ---
 
-## 1.113 Vanavaccha (2)
+# 1.113 Vanavaccha (2)
 
 Crags where clear waters lie, a rocky world,\
 Haunted by black-faced apes and timid deer,\

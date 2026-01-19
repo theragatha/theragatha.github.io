@@ -3,7 +3,7 @@ title: "1.103 Bandhura"
 id: "thag1.103"
 chapter: 1
 verse: 103
-slug: "thag1.103"
+slug: "thag1.103-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

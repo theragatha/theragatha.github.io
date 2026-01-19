@@ -12,7 +12,7 @@ weight: 73
 bookHidden: true
 ---
 
-## 1.73 Māṇava
+# 1.73 Māṇava
 
 I saw an aged one, and one afflicted with disease,\
 And then I saw one dead, with all his span of life consumed.\

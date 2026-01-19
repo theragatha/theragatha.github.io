@@ -3,7 +3,7 @@ title: "1.110 Usabha"
 id: "thag1.110"
 chapter: 1
 verse: 110
-slug: "thag1.110"
+slug: "thag1.110-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

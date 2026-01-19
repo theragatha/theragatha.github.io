@@ -3,7 +3,7 @@ title: "1.94 Mettaji"
 id: "thag1.94"
 chapter: 1
 verse: 94
-slug: "thag1.94"
+slug: "thag1.94-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

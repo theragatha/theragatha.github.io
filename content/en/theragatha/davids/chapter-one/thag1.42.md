@@ -12,7 +12,7 @@ weight: 42
 bookHidden: true
 ---
 
-## 1.42 Khadira-Vaniya
+# 1.42 Khadira-Vaniya
 
 Come, Cāla, and you, Upacāla too,\
 Sīsūpacāla also, take good heed,\

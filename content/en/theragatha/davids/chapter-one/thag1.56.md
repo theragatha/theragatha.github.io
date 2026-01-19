@@ -12,7 +12,7 @@ weight: 56
 bookHidden: true
 ---
 
-## 1.56 Kuṭivihārin</a>
+# 1.56 Kuṭivihārin</a>
 
 Who's in my little hut? A brother 'tis,\
 Who in thy little hut, all passions tamed,\

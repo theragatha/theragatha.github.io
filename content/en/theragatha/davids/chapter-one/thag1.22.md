@@ -12,7 +12,7 @@ weight: 22
 bookHidden: true
 ---
 
-## 1.22 Cittaka
+# 1.22 Cittaka
 
 Peacocks of sapphire neck and comely crest\
 Calling, calling in Kāraṇviaa woods;\

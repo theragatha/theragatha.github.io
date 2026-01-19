@@ -12,7 +12,7 @@ weight: 97
 bookHidden: true
 ---
 
-## 1.97 Tissa
+# 1.97 Tissa
 
 Renouncing costly vessels wrought in bronze,\
 In gold, I grasped this earthen bowl.\

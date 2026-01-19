@@ -3,7 +3,7 @@ title: "1.16 Belaṭṭhasīsa"
 id: "thag1.16"
 chapter: 1
 verse: 16
-slug: "thag1.16"
+slug: "thag1.16-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

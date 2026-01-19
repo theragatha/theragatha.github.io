@@ -3,7 +3,7 @@ title: "1.2 Koṭṭhita the Great"
 id: "thag1.2"
 chapter: 1
 verse: 2
-slug: "thag1.2"
+slug: "thag1.2-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

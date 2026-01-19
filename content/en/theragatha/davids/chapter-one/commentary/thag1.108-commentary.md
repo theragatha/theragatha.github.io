@@ -3,7 +3,7 @@ title: "1.108 Dhammāsava's Father"
 id: "thag1.108"
 chapter: 1
 verse: 108
-slug: "thag1.108"
+slug: "thag1.108-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

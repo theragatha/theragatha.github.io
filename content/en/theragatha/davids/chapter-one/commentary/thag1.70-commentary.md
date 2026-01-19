@@ -3,7 +3,7 @@ title: "1.70 Puṇṇa"
 id: "thag1.70"
 chapter: 1
 verse: 70
-slug: "thag1.70"
+slug: "thag1.70-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

@@ -3,7 +3,7 @@ title: "1.17 Da"
 id: "thag1.17"
 chapter: 1
 verse: 17
-slug: "thag1.17"
+slug: "thag1.17-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

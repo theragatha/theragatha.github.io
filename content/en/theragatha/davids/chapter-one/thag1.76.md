@@ -12,7 +12,7 @@ weight: 76
 bookHidden: true
 ---
 
-## 1.76 Piyañjaha
+# 1.76 Piyañjaha
 
 Where men are arrogant, see thou lie low.\
 Where they are low in mind, lift up the heart.\

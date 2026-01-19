@@ -12,7 +12,7 @@ weight: 71
 bookHidden: true
 ---
 
-## 1.71 Vaccha
+# 1.71 Vaccha
 
 Is there a man who can the truth discern\
 Tho' it be very subtle and refined,\

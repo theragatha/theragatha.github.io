@@ -12,7 +12,7 @@ weight: 32
 bookHidden: true
 ---
 
-## 1.32 Suppiya
+# 1.32 Suppiya
 
 0 would that I who hourly waste, might change\
 For that which ne'er decays - who ever burn,\

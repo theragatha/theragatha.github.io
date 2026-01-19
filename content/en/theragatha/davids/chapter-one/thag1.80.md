@@ -12,7 +12,7 @@ weight: 80
 bookHidden: true
 ---
 
-## 1.80 Ugga
+# 1.80 Ugga
 
 All action wrought by me and bringing birth,\
 Whether 'twas of great potency or small,\

@@ -3,7 +3,7 @@ title: "1.109 Saṅgha-Rakkhita"
 id: "thag1.109"
 chapter: 1
 verse: 109
-slug: "thag1.109"
+slug: "thag1.109-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

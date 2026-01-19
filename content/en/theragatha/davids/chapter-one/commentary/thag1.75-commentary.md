@@ -3,7 +3,7 @@ title: "1.75 Susārada"
 id: "thag1.75"
 chapter: 1
 verse: 75
-slug: "thag1.75"
+slug: "thag1.75-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

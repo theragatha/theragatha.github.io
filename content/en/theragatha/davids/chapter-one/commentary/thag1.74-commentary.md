@@ -3,7 +3,7 @@ title: "1.74 Suyāmana"
 id: "thag1.74"
 chapter: 1
 verse: 74
-slug: "thag1.74"
+slug: "thag1.74-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

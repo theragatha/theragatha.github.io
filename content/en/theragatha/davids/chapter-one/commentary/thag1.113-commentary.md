@@ -3,7 +3,7 @@ title: "1.113 Vanavaccha (2)"
 id: "thag1.113"
 chapter: 1
 verse: 113
-slug: "thag1.113"
+slug: "thag1.113-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

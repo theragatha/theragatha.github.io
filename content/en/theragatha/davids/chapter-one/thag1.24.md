@@ -12,7 +12,7 @@ weight: 24
 bookHidden: true
 ---
 
-## 1.24 Suga
+# 1.24 Suga
 
 Scarce have the rains gone by since I went forth,\
 Yet see the seemly order of the Norm!\

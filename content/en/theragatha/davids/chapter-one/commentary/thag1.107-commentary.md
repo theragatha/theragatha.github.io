@@ -3,7 +3,7 @@ title: "1.107 Dhammāsava"
 id: "thag1.107"
 chapter: 1
 verse: 107
-slug: "thag1.107"
+slug: "thag1.107-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

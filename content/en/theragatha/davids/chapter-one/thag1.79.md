@@ -12,7 +12,7 @@ weight: 79
 bookHidden: true
 ---
 
-## 1.79 Rakkhita
+# 1.79 Rakkhita
 
 All passion have I put away, and all\
 Ill will for ever have I rooted out;\

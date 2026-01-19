@@ -3,7 +3,7 @@ title: "1.3 Kankhā-Revata"
 id: "thag1.3"
 chapter: 1
 verse: 3
-slug: "thag1.3"
+slug: "thag1.3-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"

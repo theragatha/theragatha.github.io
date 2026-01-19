@@ -3,7 +3,7 @@ title: "1.116 Pāpāpariya"
 id: "thag1.116"
 chapter: 1
 verse: 116
-slug: "thag1.116"
+slug: "thag1.116-commentary"
 edition: "Pāli Text Society"
 collection: "Theragāthā"
 pali_source: "Pāli Text Society"
