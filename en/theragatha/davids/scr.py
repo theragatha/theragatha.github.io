@@ -6,10 +6,25 @@ from pathlib import Path
 
 def gen(chapter_number, verse_number, URL):
         
-        #new_content = new_front_matter + "\n# " + chapter_number + "." + verse_number + "\n\n## Commentary\n\n## Verse\n\n## Attribution\n\n## Notes"
-        extracted_content, verses_content, monk_name = extract(chapter_number, verse_number, URL)
+    #new_content = new_front_matter + "\n# " + chapter_number + "." + verse_number + "\n\n## Commentary\n\n## Verse\n\n## Attribution\n\n## Notes"
+    extracted_content, verses_content, monk_name = extract(chapter_number, verse_number, URL)
 
-        new_front_matter = f"""---
+    new_front_matter_c = f"""---
+title: "{chapter_number}.{verse_number} {monk_name}"
+id: "thag{chapter_number}.{verse_number}"
+chapter: {chapter_number}
+verse: {verse_number}
+slug: "thag{chapter_number}.{verse_number}-commentary"
+edition: "Pāli Text Society"
+collection: "Theragāthā"
+pali_source: "Pāli Text Society"
+translator: "Mrs. C.A.F. Rhys Davids"
+weight: {verse_number}
+bookHidden: true
+---
+"""
+
+    new_front_matter = f"""---
 title: "{chapter_number}.{verse_number} {monk_name}"
 id: "thag{chapter_number}.{verse_number}"
 chapter: {chapter_number}
@@ -24,24 +39,24 @@ bookHidden: true
 ---
 """
         
-        new_content_c = new_front_matter + "\n" + extracted_content
-        new_content = new_front_matter + "\n" +  f"## {chapter_number}.{verse_number} {monk_name}\n\n" + verses_content
+    new_content_c = new_front_matter_c + "\n" + extracted_content
+    new_content = new_front_matter + "\n" +  f"# {chapter_number}.{verse_number} {monk_name}\n\n" + verses_content
 
-        # Create commentary folder if it doesn't exist
-        output_dir = Path("chapter-one/commentary")
-        output_dir.mkdir(exist_ok=True)
+    # Create commentary folder if it doesn't exist
+    output_dir = Path("chapter-one/commentary")
+    output_dir.mkdir(exist_ok=True)
 
-        # Write the new file (e.g., commentary/thag1.4-commentary.md)
-        output_filename = output_dir / f"thag{chapter_number}.{verse_number}-commentary.md"
-        with open(output_filename, "w", encoding="utf-8") as out:
-            out.write(new_content_c)
+    # Write the new file (e.g., commentary/thag1.4-commentary.md)
+    output_filename = output_dir / f"thag{chapter_number}.{verse_number}-commentary.md"
+    with open(output_filename, "w", encoding="utf-8") as out:
+        out.write(new_content_c)
 
-        # Write the verses only file
-        output_dir = Path("chapter-one")
-        output_dir.mkdir(exist_ok=True)
-        output_filename = output_dir / f"thag{chapter_number}.{verse_number}.md"
-        with open(output_filename, "w", encoding="utf-8") as out:
-            out.write(new_content)
+    # Write the verses only file
+    output_dir = Path("chapter-one")
+    output_dir.mkdir(exist_ok=True)
+    output_filename = output_dir / f"thag{chapter_number}.{verse_number}.md"
+    with open(output_filename, "w", encoding="utf-8") as out:
+        out.write(new_content)
         
 def rewrite_inline_footnotes(soup):
     """
