@@ -46,17 +46,19 @@ English Translations:
 1. Upload Sujato's Therīgāthā
 2. Inquire about Javier Aguado's edition
 3. Upload David's Therīgātha
+4. David's Theragatha
+- Convert comments to proper headings in Ch.1.1-10
 
-English Editions:
+Romananized Editions:
 1. Chaṭṭha Saṅgāyana edition via suttacentral.net
 - Check sidenotes for verses with a number 0(mod10)
 2. PTS edition via GRETIL
+3. BJT
 
-Non-English Editions:
+Non-Romanized Editions:
 1. Sinhala edition
 2. Thai edition
-3. Chaṭṭha Saṅgāyana edition (in Burmese)
-
+3. Chaṭṭha Saṅgāyana
 
 ## Ideas
 

@@ -34,11 +34,11 @@ vaggo tatiyo.
 
 Tassuddānaṁ
 
-Uttaro bhaddajitthero,
-sobhito valliyo isi;
-Vītasoko ca yo thero,
-puṇṇamāso ca nandako;
-Bharato bhāradvājo ca,
+Uttaro bhaddajitthero,\
+sobhito valliyo isi;\
+Vītasoko ca yo thero,\
+puṇṇamāso ca nandako;\
+Bharato bhāradvājo ca,\
 kaṇhadinno mahāmunīti.
 
 ## Notes
