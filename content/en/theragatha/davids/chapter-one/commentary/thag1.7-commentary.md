@@ -16,11 +16,13 @@ bookHidden: true
 
 ## Commentary
 
-He, with his elder brother Tapussa, [^1] was born in the time of our Exalted One, in the city of Pokkharavatī, as the son of a caravan-driver. As they were conducting a caravan of carts in a pleasant glade, a muddy place checked their progress. Then a tree-fairy, one of their own kin, showed himself, and said: 'Sirs, the Exalted One hath just attained enlightenment, and for seven weeks abideth fasting in the bliss of emancipation, seated at the root of the King's [13] Stead tree. [^2] Serve him with food; this will long make for your good and happiness.' They, with joyful eagerness, waited not to prepare food, but took rice-cakes and honey, and, leaving the high road, ministered to the Exalted One.
+ 
 
-Now when the Exalted One had set rolling the wheel of the Norm at Benares, [^3] he stayed in due course at Rājagaha. There Tapussa and Bhalliya waited on him and heard him teach. The former became a lay-follower, the latter left the world and mastered the six forms of abhiññā. [^4]
+He, with his elder brother Tapussa,[^1] was born in the time of our Exalted One, in the city of Pokkharavatī, as the son of a caravan-driver. As they were conducting a caravan of carts in a pleasant glade, a muddy place checked their progress. Then a tree-fairy, one of their own kin, showed himself, and said: 'Sirs, the Exalted One hath just attained enlightenment, and for seven weeks abideth fasting in the bliss of emancipation, seated at the root of the King's [13] Stead tree.[^2] Serve him with food; this will long make for your good and happiness.' They, with joyful eagerness, waited not to prepare food, but took rice-cakes and honey, and, leaving the high road, ministered to the Exalted One.
 
-One day when Mara [^5] appeared to the Brother in fearsome terrifying shape, Bhalliya, manifesting how he had passed beyond all fear, uttered a psalm to Mara's discomfiture:
+Now when the Exalted One had set rolling the wheel of the Norm at Benares,[^3] he stayed in due course at Rājagaha. There Tapussa and Bhalliya waited on him and heard him teach. The former became a lay-follower, the latter left the world and mastered the six forms of abhiññā.[^4]
+
+One day when Mara[^5] appeared to the Brother in fearsome terrifying shape, Bhalliya, manifesting how he had passed beyond all fear, uttered a psalm to Mara's discomfiture:
 
 ## Verses
 

@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was born in this Buddha-age at Savatthī, as the son of a brahmin, and leaving the world on the quest of the Ambrosial, [^1] he became a Wanderer. [^2] One day on his [35] travels he came where the Exalted One was preaching, and entered the Order. From the impurity of his moral principles he could not win the goal. And seeing other bhikkhus who had won confessing to aññā, he asked the Master for a lesson in brief. The Master answered, 'It follows that you, Uttiya, must purify the rudiments,' [^3] and he taught him them in brief. Uttiya, accepting the lesson, called up insight, but in the process he fell ill. In his anxiety he put forth every effort, and attained arahantship. Inasmuch as he won to perfect attainment in the face of such a condition, he confessed aññā, with reference to his illness:
+ 
+
+He was born in this Buddha-age at Savatthī, as the son of a brahmin, and leaving the world on the quest of the Ambrosial,[^1] he became a Wanderer.[^2] One day on his [35] travels he came where the Exalted One was preaching, and entered the Order. From the impurity of his moral principles he could not win the goal. And seeing other bhikkhus who had won confessing to aññā, he asked the Master for a lesson in brief. The Master answered, 'It follows that you, Uttiya, must purify the rudiments,'[^3] and he taught him them in brief. Uttiya, accepting the lesson, called up insight, but in the process he fell ill. In his anxiety he put forth every effort, and attained arahantship. Inasmuch as he won to perfect attainment in the face of such a condition, he confessed aññā, with reference to his illness:
 
 ## Verses
 

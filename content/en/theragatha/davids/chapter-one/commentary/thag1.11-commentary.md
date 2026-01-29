@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn as a brahmin at Kosambī, and hearing the Exalted One preach, he entered the Order. At that time the bhikkhus of Kosambī had become contentious. [^1] Then Gavaccha the Less, not taking part with either side, remained steadfast in the Exalted One's admonition, and developing insight, attained to arahantship. And seeing in the bhikkhus' quarrelsome tastes what might have been the downfall of his own good, he reflected with joy and enthusiasm on his own contrasted state, saying:
+ 
+
+Reborn as a brahmin at Kosambī, and hearing the Exalted One preach, he entered the Order. At that time the bhikkhus of Kosambī had become contentious.[^1] Then Gavaccha the Less, not taking part with either side, remained steadfast in the Exalted One's admonition, and developing insight, attained to arahantship. And seeing in the bhikkhus' quarrelsome tastes what might have been the downfall of his own good, he reflected with joy and enthusiasm on his own contrasted state, saying:
 
 ## Verses
 

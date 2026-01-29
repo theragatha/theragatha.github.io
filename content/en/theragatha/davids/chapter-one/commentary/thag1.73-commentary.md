@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 He was reborn in this Buddha-age at Sāvatthī, in the house of a brahmin grandee. For seven years he was reared within the precincts of home, and when at seven years old he was taken out on the estate, he saw an aged person, a diseased person, and a corpse for the first time. When he was told about these things, he was filled with dread, went to the Vihāra, heard the doctrine, and gained his parents' consent to enter the Order. Thereupon he won insight and arahantship.
 
 Him thus having arrived thereat the Brethren asked:

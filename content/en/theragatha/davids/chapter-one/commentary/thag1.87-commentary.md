@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 Reborn in this Buddha-age in the kingdom of Magadha, in a brahmin's family, and being naturally inclined to the life of a recluse, he became a Wanderer. His training ended, he wandered forth, and heard of Upatissa and Kolita (= Sāriputta and Moggallāna) joining the Buddha's Order. And he thought: 'That methinks must be a [83] better Order since such great sages enter it.' And he went and heard the Master, believed, and was ordained. Soon after he realized arahantship, and thus confessed aññā:
 
 ## Verses

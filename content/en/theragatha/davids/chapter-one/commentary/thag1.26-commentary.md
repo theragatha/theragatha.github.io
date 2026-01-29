@@ -1,5 +1,5 @@
 ---
-title: "1.26 Ab"
+title: "1.26 Abhaya"
 id: "thag1.26"
 chapter: 1
 verse: 26
@@ -12,11 +12,13 @@ weight: 26
 bookHidden: true
 ---
 
-# Ab
+# Abhaya
 
 ## Commentary
 
-He was reborn in this Buddha-age as the son of King Bimbisāra. The circumstances of his rebirth will be set forth later. [^1] Nāṭaputta the Jain leader taught him a dilemma to set the 'Samana Gotama,' but in the Master's reply he recognized the defeat of the Jain and the supreme enlightenment of the Exalted One. Thereafter, when the king died, Abhaya grew anxious and left the world for the Order. Through the preaching of the Sutta on the parable of the hole in the yoke, he reached the First Path; again, stirring up insight, he realized arahantship. [^2] Thereupon, glorying in that which he had won, he confessed aññā saying:
+ 
+
+He was reborn in this Buddha-age as the son of King Bimbisāra. The circumstances of his rebirth will be set forth later.[^1] Nāṭaputta the Jain leader taught him a dilemma to set the 'Samana Gotama,' but in the Master's reply he recognized the defeat of the Jain and the supreme enlightenment of the Exalted One. Thereafter, when the king died, Abhaya grew anxious and left the world for the Order. Through the preaching of the Sutta on the parable of the hole in the yoke, he reached the First Path; again, stirring up insight, he realized arahantship.[^2] Thereupon, glorying in that which he had won, he confessed aññā saying:
 
 ## Verses
 

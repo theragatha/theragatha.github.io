@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 Reborn in this Buddha-age in Kosala, at the town of Ugga, as the son of a councillor, he was named Ugga. When he had attained to years of discretion, he went to hear the Master, who had come to that town, found faith in him, entered the Order and finally won arahantship. He thereupon set forth his severance of the round of rebirth, confessing aññā in this verse:
 
 ## Verses

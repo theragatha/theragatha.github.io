@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age in the Avanti country, [^1] at the town of Veḷukaṇḍa in the family of a housefather, he was called Nanda. But his mother's name was Kuma, whence he was known as Kuma's son. He entered the Order after hearing the venerable Sāriputta preach, and studied on the slope of the frontier hills; but it was only after he had gone to hear the Exalted One that he was able so to correct his exercises, as to realize arahantship. As arahant he saw that the other bhikkhus showed excess in bodily needs, and he admonished them in the doctrine, saying:
+ 
+
+Reborn in this Buddha-age in the Avanti country,[^1] at the town of Veḷukaṇḍa in the family of a housefather, he was called Nanda. But his mother's name was Kuma, whence he was known as Kuma's son. He entered the Order after hearing the venerable Sāriputta preach, and studied on the slope of the frontier hills; but it was only after he had gone to hear the Exalted One that he was able so to correct his exercises, as to realize arahantship. As arahant he saw that the other bhikkhus showed excess in bodily needs, and he admonished them in the doctrine, saying:
 
 ## Verses
 

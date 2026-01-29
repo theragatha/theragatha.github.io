@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age at Sāvatthī, in the family of a lay-follower, after the father had left his home. The mother, naming him Sānu, brought him when he was seven years old to the bhikkhus for ordination, deeming she would thus ensure for him supreme happiness. Now Sānu, the Novice became very learned, a teacher of doctrine, and practised in the jhāna of love, being beloved by gods and men. And as we know from the Sānu-Sutta ( Saṁyutta Nikāya, i. 208) his mother, in his previous birth, was a Yakkha. [^1] Now as time went on Sānu lost his intellectual discernment and grew distraught, and longed to go a-roaming. Then his previous mother perceived this, and warned his human mother saying: 'Your son has a fancy to roam, wherefore bid him rouse himself. Tell him what the Yakkhas say:
+ 
+
+He was reborn in this Buddha-age at Sāvatthī, in the family of a lay-follower, after the father had left his home. The mother, naming him Sānu, brought him when he was seven years old to the bhikkhus for ordination, deeming she would thus ensure for him supreme happiness. Now Sānu, the Novice became very learned, a teacher of doctrine, and practised in the jhāna of love, being beloved by gods and men. And as we know from the Sānu-Sutta (Saṁyutta Nikāya, i. 208) his mother, in his previous birth, was a Yakkha.[^1] Now as time went on Sānu lost his intellectual discernment and grew distraught, and longed to go a-roaming. Then his previous mother perceived this, and warned his human mother saying: 'Your son has a fancy to roam, wherefore bid him rouse himself. Tell him what the Yakkhas say:
 
 ## Verses
 

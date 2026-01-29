@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age at Kapilavatthu, in the family of a Sākiyan rāja, and named Nāgita. When the Exalted One was staying in that place, he preached the Lump of Sweetness discourse. [^1] Thereby Nāgita was induced to enter the Order, whereupon he attained arahantship. Then, thrilled with rapture over the truth of the Master's teaching and the effective guidance of the Norm, he burst out in this psalm:
+ 
+
+He was reborn in this Buddha-age at Kapilavatthu, in the family of a Sākiyan rāja, and named Nāgita. When the Exalted One was staying in that place, he preached the Lump of Sweetness discourse.[^1] Thereby Nāgita was induced to enter the Order, whereupon he attained arahantship. Then, thrilled with rapture over the truth of the Master's teaching and the effective guidance of the Norm, he burst out in this psalm:
 
 ## Verses
 

@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age at Sāvatthī of a brahmin family, he entered the Order, but from want of mental balance could not concentrate on a given idea. [^1] Now one day going to the town for alms, he saw men conducting running water wherever they wished by digging channels. Within the town he marked out of the corner of his eye [^2] how the fletcher fixed the arrow-shaft in his lathe, and leaving with full bowl he saw the chariot-makers planing axle and tire and hub. So entering the Vihāra he dined; then during siesta he pondered on these three modes of taming things, making them his goad, and applying them to his own need of self-mastery. So striving he not long after won arahantship. And connecting those object-lessons with his own heart's taming, he confessed aññā in this verse:
+ 
+
+Reborn in this Buddha-age at Sāvatthī of a brahmin family, he entered the Order, but from want of mental balance could not concentrate on a given idea.[^1] Now one day going to the town for alms, he saw men conducting running water wherever they wished by digging channels. Within the town he marked out of the corner of his eye[^2] how the fletcher fixed the arrow-shaft in his lathe, and leaving with full bowl he saw the chariot-makers planing axle and tire and hub. So entering the Vihāra he dined; then during siesta he pondered on these three modes of taming things, making them his goad, and applying them to his own need of self-mastery. So striving he not long after won arahantship. And connecting those object-lessons with his own heart's taming, he confessed aññā in this verse:
 
 ## Verses
 

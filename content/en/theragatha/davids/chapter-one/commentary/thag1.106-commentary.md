@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age in the Border country as the son of a wealthy brahmin, he went to hear the Exalted One teach the Norm in the deer park at the town of Sankassa. [^1] Leaving the world he joined the Order, and became a reciter of the Three Piṭakas, [^2] becoming in due course possessor of sixfold abhiññā. Thereupon he thought: 'I have won all that a disciple may win. What if I were now to do a service to the brethren?' So he lectured to them and solved their difficulties. And one day he addressed them and other intelligent persons concerning himself in this verse:
+ 
+
+Reborn in this Buddha-age in the Border country as the son of a wealthy brahmin, he went to hear the Exalted One teach the Norm in the deer park at the town of Sankassa.[^1] Leaving the world he joined the Order, and became a reciter of the Three Piṭakas,[^2] becoming in due course possessor of sixfold abhiññā. Thereupon he thought: 'I have won all that a disciple may win. What if I were now to do a service to the brethren?' So he lectured to them and solved their difficulties. And one day he addressed them and other intelligent persons concerning himself in this verse:
 
 ## Verses
 

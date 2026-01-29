@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 He in this Buddha-age was reborn in an eminent brahmin's family at Sāvatthī. And on the day when Jeta Grove was presented, he saw the majesty of the Buddha and was satisfied, so that he entered the Order. When he had stirred up insight, he soon became able to exercise the six forms of supernormal thought. And pondering, in the bliss of fruition, on the advantages of the doctrine which leads us away from rebirth, he uttered this verse as the expression of aññā:
 
 ## Verses

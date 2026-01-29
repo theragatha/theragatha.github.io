@@ -1,5 +1,5 @@
 ---
-title: "1.66 Meg"
+title: "1.66 Meghiya"
 id: "thag1.66"
 chapter: 1
 verse: 66
@@ -12,11 +12,13 @@ weight: 66
 bookHidden: true
 ---
 
-# Meg
+# Meghiya
 
 ## Commentary
 
-Reborn in this Buddha-age at Kapilavatthu, in the family of a Sākiyan raja, he was named Meghiya. [^1] When grown up, he entered the Order and ministered to the Exalted One while he was residing at Calika on the River Kimikālā. And seeing a pleasant mango-wood he desired to dwell there. Twice the Exalted One refused, but at his third request, let him go. There, however, being consumed by evil thoughts as by flies, he got no concentration of mind, so he returned and told the Master. The latter said, 'When the heart, Meghiya, is not ripe for emancipation, five things conduce thereto,' and admonished him. [ ed1 ] Whereupon Meghiya attained arahantship, and announced his aññā in this verse:
+ 
+
+Reborn in this Buddha-age at Kapilavatthu, in the family of a Sākiyan raja, he was named Meghiya.[^1] When grown up, he entered the Order and ministered to the Exalted One while he was residing at Calika on the River Kimikālā. And seeing a pleasant mango-wood he desired to dwell there. Twice the Exalted One refused, but at his third request, let him go. There, however, being consumed by evil thoughts as by flies, he got no concentration of mind, so he returned and told the Master. The latter said, 'When the heart, Meghiya, is not ripe for emancipation, five things conduce thereto,' and admonished him.[ed1] Whereupon Meghiya attained arahantship, and announced his aññā in this verse:
 
 ## Verses
 

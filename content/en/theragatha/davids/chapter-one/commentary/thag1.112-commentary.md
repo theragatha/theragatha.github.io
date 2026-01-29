@@ -1,5 +1,5 @@
 ---
-title: "1.112 Vacchag"
+title: "1.112 Vacchagotta"
 id: "thag1.112"
 chapter: 1
 verse: 112
@@ -12,11 +12,13 @@ weight: 112
 bookHidden: true
 ---
 
-# Vacchag
+# Vacchagotta
 
 ## Commentary
 
-Reborn in this Buddha-age at Rājagaha as the son of a wealthy brahmin, and because there were four Theras named Vaccha, he was called Vacchagotta. [^1] Come to years of discretion, and expert in brahmin learning, he, as a seeker after emancipation, found no pith in those studies, and became a wandering recluse. As such he met and questioned the Master. Satisfied with the answers, he entered the Order, and in due course acquired sixfold abhiññā. [^2] Reflecting with joy upon his career, he uttered this psalm:
+ 
+
+Reborn in this Buddha-age at Rājagaha as the son of a wealthy brahmin, and because there were four Theras named Vaccha, he was called Vacchagotta.[^1] Come to years of discretion, and expert in brahmin learning, he, as a seeker after emancipation, found no pith in those studies, and became a wandering recluse. As such he met and questioned the Master. Satisfied with the answers, he entered the Order, and in due course acquired sixfold abhiññā.[^2] Reflecting with joy upon his career, he uttered this psalm:
 
 ## Verses
 

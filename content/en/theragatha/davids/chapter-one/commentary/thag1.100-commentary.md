@@ -1,5 +1,5 @@
 ---
-title: "1.100 Devasabha (2)</a>"
+title: "1.100 Devasabha (2)"
 id: "thag1.100"
 chapter: 1
 verse: 100
@@ -12,11 +12,13 @@ weight: 100
 bookHidden: true
 ---
 
-# Devasabha (2)</a>
+# Devasabha (2)
 
 ## Commentary
 
-Reborn in this Buddha-age at Kapilavatthu in the family of a Sākiyan rāja, he was named Devasabha. When grown up he believed when he saw the Master appeasing the quarrel between Sākiyans and Koliyans, [^2] and was established in the Refuges. Again, he went when the Master was staying at the Banyan Park, this time entering the Order. He won arahantship, and dwelling on the bliss of his emancipation, he burst forth in rapture with this psalm:
+ 
+
+Reborn in this Buddha-age at Kapilavatthu in the family of a Sākiyan rāja, he was named Devasabha. When grown up he believed when he saw the Master appeasing the quarrel between Sākiyans and Koliyans,[^2] and was established in the Refuges. Again, he went when the Master was staying at the Banyan Park, this time entering the Order. He won arahantship, and dwelling on the bliss of his emancipation, he burst forth in rapture with this psalm:
 
 ## Verses
 

@@ -1,5 +1,5 @@
 ---
-title: "1.66 Meg"
+title: "1.66 Meghiya"
 id: "thag1.66"
 chapter: 1
 verse: 66
@@ -12,7 +12,7 @@ weight: 66
 bookHidden: true
 ---
 
-# 1.66 Meg
+# 1.66 Meghiya
 
 He, the great Hero, counselled me, whose mind\
 Hath all transcended that our minds may know.\

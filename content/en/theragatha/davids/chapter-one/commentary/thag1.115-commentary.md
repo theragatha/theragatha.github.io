@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age at Sāvatthī in a brahmin family, and named Mahanāma, [^1] he heard the Exalted One teaching the Norm, and gaining faith, entered the Order. Taking an exercise, he dwelt on the hill called Nesādaka. Unable to prevent the rising up of evil thoughts and desires, he exclaimed: 'Of what worth is life to me with this corrupted mind?' And disgusted with himself he climbed a steep crag of the mountain, and made as if he would throw himself down, saying, 'I will kill him,' speaking to himself as to another and uttering this verse:
+ 
+
+Reborn in this Buddha-age at Sāvatthī in a brahmin family, and named Mahanāma,[^1] he heard the Exalted One teaching the Norm, and gaining faith, entered the Order. Taking an exercise, he dwelt on the hill called Nesādaka. Unable to prevent the rising up of evil thoughts and desires, he exclaimed: 'Of what worth is life to me with this corrupted mind?' And disgusted with himself he climbed a steep crag of the mountain, and made as if he would throw himself down, saying, 'I will kill him,' speaking to himself as to another and uttering this verse:
 
 ## Verses
 

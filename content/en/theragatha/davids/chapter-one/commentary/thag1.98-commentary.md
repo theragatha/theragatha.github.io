@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age at Sāvatthī in a brahmin family, he was called Abhaya. After he had heard the Master teach and had entered the Order, he went one day for alms into the village [^1] and saw a woman attractively dressed. This disturbed his mental composure, so that he returned to the Vihāra thinking: 'Looking on a visible object has corrupted me. I have done amiss.' Thus repudiating that consciousness, he so developed insight as to win arahantship.
+ 
+
+Reborn in this Buddha-age at Sāvatthī in a brahmin family, he was called Abhaya. After he had heard the Master teach and had entered the Order, he went one day for alms into the village[^1] and saw a woman attractively dressed. This disturbed his mental composure, so that he returned to the Vihāra thinking: 'Looking on a visible object has corrupted me. I have done amiss.' Thus repudiating that consciousness, he so developed insight as to win arahantship.
 
 Thereupon he reviewed his moral slip and his recovery in this verse:
 

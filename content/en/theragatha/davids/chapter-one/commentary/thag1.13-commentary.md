@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-In this Buddha-age he took rebirth at Kapilavatthu, in the brahmin clan of the Vaccha's. He was born in the forest, his mother being taken with travail while walking in the forest which she had yearned to see. He became one of the future Buddha's playmates in the sand. And because he loved the woods, he was known as Woodland-Vaccha. [^1] Later on, when he had entered the Order, it [18] was in the forest that he strove for and won arahantship. And it was in praise of the forest life that he uttered his psalm, replying to the brethren who asked him: 'What comfort can you get in the forest?' 'Delightful, my friends, are forest and mountain!'-
+ 
+
+In this Buddha-age he took rebirth at Kapilavatthu, in the brahmin clan of the Vaccha's. He was born in the forest, his mother being taken with travail while walking in the forest which she had yearned to see. He became one of the future Buddha's playmates in the sand. And because he loved the woods, he was known as Woodland-Vaccha.[^1] Later on, when he had entered the Order, it [18] was in the forest that he strove for and won arahantship. And it was in praise of the forest life that he uttered his psalm, replying to the brethren who asked him: 'What comfort can you get in the forest?' 'Delightful, my friends, are forest and mountain!'-
 
 ## Verses
 

@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 Reborn in this Buddha-age as the eon of Samiddbi, a brahmin of Sāvatthī, he left the world when a son was born to him, and entering the Order under the Exalted One, took the Four Truths as his exercise in meditation, and became an arabant. His former wife sought to seduce him from his faith, visiting him adorned, and with her [16] child. But the Brother, showing his utter detachment, uttered this psalm:
 
 ## Verses

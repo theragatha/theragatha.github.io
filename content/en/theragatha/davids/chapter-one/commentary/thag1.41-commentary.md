@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 He was reborn in this Buddha-age at Rājagaha, in the house of a prosperous brahmin. Previous causes induced him, when King Bimbisāra met the Master, to take orders, and he went to a certain forest near the hills Vebhāra and Paṇḍava, and there dwelt devoted to religious exercises. And there arose once a great storm, and the lightnings entered the cave. But the wind from the pregnant clouds assuaged the heat and fever oppressing the Thera, so that by the more suitable temperature his heart grew concentrated, and he was able to exercise such insight that he won arahantship. So he, with aññā as a pretext, broke forth into this utterance touching himself:
 
 ## Verses

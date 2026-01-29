@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age at Sāvatthī, as the son of an eminent person, and was named Eraka. [^1] He had beauty and charm, so that in all that he had to do he was in the most highly favoured position for doing it. His parents wedded him to a maiden suitable for beauty, virtue, years, and accomplishments. But anon, because it was his final life, he grew agitated at continued being, and sought [87] the Master. After hearing him teach the Norm, Eraka left the world. And the Master gave him an exercise, but for some days he remained mastered by evil thoughts. Then the Master, knowing the course of his thoughts, admonished him in a verse. And he, on hearing it, thought: 'Unfitly have I acted; I, fool, that I should have continued full of bad thoughts when learning from such a Master.' And in distress he devoted himself to gaining insight, and soon won arahantship. Thereupon he confessed aññā by repeating that verse:
+ 
+
+He was reborn in this Buddha-age at Sāvatthī, as the son of an eminent person, and was named Eraka.[^1] He had beauty and charm, so that in all that he had to do he was in the most highly favoured position for doing it. His parents wedded him to a maiden suitable for beauty, virtue, years, and accomplishments. But anon, because it was his final life, he grew agitated at continued being, and sought [87] the Master. After hearing him teach the Norm, Eraka left the world. And the Master gave him an exercise, but for some days he remained mastered by evil thoughts. Then the Master, knowing the course of his thoughts, admonished him in a verse. And he, on hearing it, thought: 'Unfitly have I acted; I, fool, that I should have continued full of bad thoughts when learning from such a Master.' And in distress he devoted himself to gaining insight, and soon won arahantship. Thereupon he confessed aññā by repeating that verse:
 
 ## Verses
 

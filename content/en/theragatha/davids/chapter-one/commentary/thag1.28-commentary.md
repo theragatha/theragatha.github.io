@@ -1,5 +1,5 @@
 ---
-title: "1.28 Jambugāmika's"
+title: "1.28 Jambugāmika's Son"
 id: "thag1.28"
 chapter: 1
 verse: 28
@@ -12,11 +12,13 @@ weight: 28
 bookHidden: true
 ---
 
-# Jambugāmika's
+# Jambugāmika's Son
 
 ## Commentary
 
-He was reborn in this Buddha-age at Campā as the son of a lay-adherent named Jambugāmika, [^1] and became called [33] after his father. While studying as a novice in the Order, he dwelt at Sāketa, in the Añjana Grove. [^2] Then his father, thinking, 'I wonder if my son remains devoted to his life in the Order or not?' wrote the following verse to examine him, and sent it to him:
+ 
+
+He was reborn in this Buddha-age at Campā as the son of a lay-adherent named Jambugāmika,[^1] and became called [33] after his father. While studying as a novice in the Order, he dwelt at Sāketa, in the Añjana Grove.[^2] Then his father, thinking, 'I wonder if my son remains devoted to his life in the Order or not?' wrote the following verse to examine him, and sent it to him:
 
 ## Verses
 

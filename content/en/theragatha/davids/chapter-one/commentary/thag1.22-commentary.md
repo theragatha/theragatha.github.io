@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was born in this Buddha-age at Rājagaha, as the son of a brahmin of great possessions. And when the Master was staying in the Bamboo Grove, Cittaka [^1] went to hear him, and found faith and so entered the Order. Choosing ethical conduct as his exercise, he entered a wooded spot, and there in devotional practice induced jhāna. Thereby developing insight he soon attained arahantship. Thereupon he went to salute the Master. Asked by the brethren, [27] Have you been strenuous, friend, in your forest sojourn?' be uttered his psalm, to show he had been so, and to declare aññā:
+ 
+
+He was born in this Buddha-age at Rājagaha, as the son of a brahmin of great possessions. And when the Master was staying in the Bamboo Grove, Cittaka[^1] went to hear him, and found faith and so entered the Order. Choosing ethical conduct as his exercise, he entered a wooded spot, and there in devotional practice induced jhāna. Thereby developing insight he soon attained arahantship. Thereupon he went to salute the Master. Asked by the brethren, [27] Have you been strenuous, friend, in your forest sojourn?' be uttered his psalm, to show he had been so, and to declare aññā:
 
 ## Verses
 

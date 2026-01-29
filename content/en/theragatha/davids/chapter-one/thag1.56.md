@@ -1,5 +1,5 @@
 ---
-title: "1.56 Kuṭivihārin</a>"
+title: "1.56 Kuṭivihārin"
 id: "thag1.56"
 chapter: 1
 verse: 56
@@ -12,7 +12,7 @@ weight: 56
 bookHidden: true
 ---
 
-# 1.56 Kuṭivihārin</a>
+# 1.56 Kuṭivihārin
 
 Who's in my little hut? A brother 'tis,\
 Who in thy little hut, all passions tamed,\

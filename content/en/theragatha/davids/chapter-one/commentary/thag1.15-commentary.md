@@ -1,5 +1,5 @@
 ---
-title: "1.15 Kuṇḍa-Dhāna</a>"
+title: "1.15 Kuṇḍa-Dhāna"
 id: "thag1.15"
 chapter: 1
 verse: 15
@@ -12,11 +12,13 @@ weight: 15
 bookHidden: true
 ---
 
-# Kuṇḍa-Dhāna</a>
+# Kuṇḍa-Dhāna
 
 ## Commentary
 
-In the age of our Exalted One, he was reborn at Sāvatthī as a brahmin's child, and called Dhāna. [^2] Knowing the [20] three Vedas by heart, he when advanced in years heard the Master preach, and left the world. Now King Pasenadi of Kosala becama interested in him and provided him with necessaries, so that he had not to go round for alms. But it was when the great Subhaddā invited the Master and his company to dine with her, that Kuṇḍa-Dhāna revealed his powers and attainments, as it is written in the Commentary on the Aṅguttara-Nikāya. [^3] And it was to the brethren that he recited this verse:
+ 
+
+In the age of our Exalted One, he was reborn at Sāvatthī as a brahmin's child, and called Dhāna.[^2] Knowing the [20] three Vedas by heart, he when advanced in years heard the Master preach, and left the world. Now King Pasenadi of Kosala becama interested in him and provided him with necessaries, so that he had not to go round for alms. But it was when the great Subhaddā invited the Master and his company to dine with her, that Kuṇḍa-Dhāna revealed his powers and attainments, as it is written in the Commentary on the Aṅguttara-Nikāya.[^3] And it was to the brethren that he recited this verse:
 
 ## Verses
 

@@ -16,9 +16,11 @@ bookHidden: true
 
 ## Commentary
 
-In this Buddha-age he was reborn at Sāvatthī in a brahmin's family, and before the Exalted One became a Buddha he left the world to join the ascetic Order of Kassapa of Uruvelā, and tend the sacred fire. And when Kassapa was tamed by the Buddha, [^1] he was one of the thousand ascetics who obtained arahantship on hearing the sermon on Burning. [^2]
+ 
 
-He thereafter became the tutor of the 'Treasurer of the Norm.' [^3] And one day, reflecting on the pure bliss of fruition and his own earlier discipline, in rapture he uttered a psalm:
+In this Buddha-age he was reborn at Sāvatthī in a brahmin's family, and before the Exalted One became a Buddha he left the world to join the ascetic Order of Kassapa of Uruvelā, and tend the sacred fire. And when Kassapa was tamed by the Buddha,[^1] he was one of the thousand ascetics who obtained arahantship on hearing the sermon on Burning.[^2]
+
+He thereafter became the tutor of the 'Treasurer of the Norm.'[^3] And one day, reflecting on the pure bliss of fruition and his own earlier discipline, in rapture he uttered a psalm:
 
 ## Verses
 

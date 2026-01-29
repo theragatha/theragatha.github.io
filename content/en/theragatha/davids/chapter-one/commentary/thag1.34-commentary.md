@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age at Sāvatthī, as the son of a very wealthy councillor, [^1] and the younger brother of the Thera Sangāmaji. [^2] When he was grown up he married; but when a son was born to him, he, being impelled by the order of things belonging to the last span of life, grew anxious concerning birth and the like. So he left the world and dwelt alone in the forest, exercising himself in the Four Truths. And soon after he won arahantship.
+ 
+
+He was reborn in this Buddha-age at Sāvatthī, as the son of a very wealthy councillor,[^1] and the younger brother of the Thera Sangāmaji.[^2] When he was grown up he married; but when a son was born to him, he, being impelled by the order of things belonging to the last span of life, grew anxious concerning birth and the like. So he left the world and dwelt alone in the forest, exercising himself in the Four Truths. And soon after he won arahantship.
 
 Then he went to Sāvatthī to worship the Exalted One, and came to his home. There his former wife entertained him and, unaware of his disposition, was desirous of drawing him back by her attractions. The Thera thinking 'Alas! the fool of desire has designs even on such as me,' said no word, but rose up and went away into the forest. And the bhikkhus there said to him: 'Why, friend, you are come back too quickly; have you not seen your people?' The Thera told them what had taken place, and recited a verse:
 

@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age as the son of Ambapālī, his father being King Bimbisāra. [^1] She named the child Vimala, but afterwards he was known as Vimala-Kondañña. [^2] He was convinced by the Buddha-majesty of the Exalted One at Vesālī, left the world for the Order, and attained arahantship. He declared his aññā in this verse:
+ 
+
+He was reborn in this Buddha-age as the son of Ambapālī, his father being King Bimbisāra.[^1] She named the child Vimala, but afterwards he was known as Vimala-Kondañña.[^2] He was convinced by the Buddha-majesty of the Exalted One at Vesālī, left the world for the Order, and attained arahantship. He declared his aññā in this verse:
 
 ## Verses
 

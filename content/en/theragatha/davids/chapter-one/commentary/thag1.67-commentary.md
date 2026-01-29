@@ -1,5 +1,5 @@
 ---
-title: "1.67 Ekadhamma Sava"
+title: "1.67 Ekadhamma Savanīya"
 id: "thag1.67"
 chapter: 1
 verse: 67
@@ -12,11 +12,13 @@ weight: 67
 bookHidden: true
 ---
 
-# Ekadhamma Sava
+# Ekadhamma Savanīya
 
 ## Commentary
 
-He was reborn in this Buddha-age at Setavyā, [^1] in the family of a councillor. When the Exalted One visited Setavyā, and stayed in the Singsapa Wood, he went to listen [68] to him, saluting, and sitting down at one side. The Master contemplated his inclinations, and taught him the Norm in the verse:
+ 
+
+He was reborn in this Buddha-age at Setavyā,[^1] in the family of a councillor. When the Exalted One visited Setavyā, and stayed in the Singsapa Wood, he went to listen [68] to him, saluting, and sitting down at one side. The Master contemplated his inclinations, and taught him the Norm in the verse:
 
 ## Verses
 

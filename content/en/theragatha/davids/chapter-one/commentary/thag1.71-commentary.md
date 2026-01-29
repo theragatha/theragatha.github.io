@@ -1,5 +1,5 @@
 ---
-title: "1.71 Vaccha"
+title: "1.71 Vacchapāla"
 id: "thag1.71"
 chapter: 1
 verse: 71
@@ -12,11 +12,13 @@ weight: 71
 bookHidden: true
 ---
 
-# Vaccha
+# Vacchapāla
 
 ## Commentary
 
-He was born in this Buddha-age at Rājagaha, as the son of a rich brahmin, and was named Vacchapāla (calf-herd). He saw when the Master met Bimbisāra, the selfsubmission of Uruvela-Kassapa to the Exalted One, [^1] and believing, entered the Order. In a week he had so developed insight as to have acquired sixfold abhiññā.
+ 
+
+He was born in this Buddha-age at Rājagaha, as the son of a rich brahmin, and was named Vacchapāla (calf-herd). He saw when the Master met Bimbisāra, the selfsubmission of Uruvela-Kassapa to the Exalted One,[^1] and believing, entered the Order. In a week he had so developed insight as to have acquired sixfold abhiññā.
 
 As arahant he extolled in sheer happiness his attainment of Nibbāna in this verse:
 

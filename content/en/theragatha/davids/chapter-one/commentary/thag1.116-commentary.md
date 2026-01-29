@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age in a brahmin family at Rājagaha, he became proficient in the three Vedas. And being of the Pārāpara clan, he was called the Pārāpariyan, [104] and taught mantras. [^1] He saw the wisdom and majesty of the Master at the Rājagaha Conference, and entered the Order, in due course winning arahantship. Reflecting on his career, he broke forth in joy with this psalm:
+ 
+
+Reborn in this Buddha-age in a brahmin family at Rājagaha, he became proficient in the three Vedas. And being of the Pārāpara clan, he was called the Pārāpariyan, [104] and taught mantras.[^1] He saw the wisdom and majesty of the Master at the Rājagaha Conference, and entered the Order, in due course winning arahantship. Reflecting on his career, he broke forth in joy with this psalm:
 
 ## Verses
 

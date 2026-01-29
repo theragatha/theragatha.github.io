@@ -1,5 +1,5 @@
 ---
-title: "1.24 Suga"
+title: "1.24 Sugandha"
 id: "thag1.24"
 chapter: 1
 verse: 24
@@ -12,7 +12,7 @@ weight: 24
 bookHidden: true
 ---
 
-# 1.24 Suga
+# 1.24 Sugandha
 
 Scarce have the rains gone by since I went forth,\
 Yet see the seemly order of the Norm!\

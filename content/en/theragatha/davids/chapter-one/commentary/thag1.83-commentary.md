@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age in the country of the Mallas, in the family of a rāja, he was named Sīha (Leo). Seeing the Exalted One, he was attracted by him, saluted him and sat down at one side. The Master discerned the trend of his mind and taught him the Norm, so that he believed, entered the Order, and, taking his exercise, dwelt in the forest. His thoughts were distracted by many objects and he could not concentrate. [^1] The Master saw this and, standing over him, uttered this verse:
+ 
+
+Reborn in this Buddha-age in the country of the Mallas, in the family of a rāja, he was named Sīha (Leo). Seeing the Exalted One, he was attracted by him, saluted him and sat down at one side. The Master discerned the trend of his mind and taught him the Norm, so that he believed, entered the Order, and, taking his exercise, dwelt in the forest. His thoughts were distracted by many objects and he could not concentrate.[^1] The Master saw this and, standing over him, uttered this verse:
 
 ## Verses
 

@@ -1,5 +1,5 @@
 ---
-title: "1.118 Kim"
+title: "1.118 Kimbila"
 id: "thag1.118"
 chapter: 1
 verse: 118
@@ -12,7 +12,7 @@ weight: 118
 bookHidden: true
 ---
 
-# 1.118 Kim
+# 1.118 Kimbila
 
 As bidden by some power age o'er her falls.\
 Her shape is as another, yet the same.\

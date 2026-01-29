@@ -1,5 +1,5 @@
 ---
-title: "1.67 Ekadhamma Sava"
+title: "1.67 Ekadhamma Savanīya"
 id: "thag1.67"
 chapter: 1
 verse: 67
@@ -12,7 +12,7 @@ weight: 67
 bookHidden: true
 ---
 
-# 1.67 Ekadhamma Sava
+# 1.67 Ekadhamma Savanīya
 
 Impermanent indeed are all component things
 

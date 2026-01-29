@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was born in this Buddha-age at Vesālī, in the family of a councillor, [^2] and was named Vajji-son. He saw the majesty of the Exalted One when the latter came to Vesālī, believed, entered the Order, and after his novitiate dwelt in a wood near Vesālī. Now a festival took place at Vesālī, and there was dancing, singing and reciting, all the people happily enjoying the festival. And the sound thereof distracted the bhikkhu, so that he quitted his solitude, gave up his exercise, and showed forth his disgust in this verse:
+ 
+
+He was born in this Buddha-age at Vesālī, in the family of a councillor,[^2] and was named Vajji-son. He saw the majesty of the Exalted One when the latter came to Vesālī, believed, entered the Order, and after his novitiate dwelt in a wood near Vesālī. Now a festival took place at Vesālī, and there was dancing, singing and reciting, all the people happily enjoying the festival. And the sound thereof distracted the bhikkhu, so that he quitted his solitude, gave up his exercise, and showed forth his disgust in this verse:
 
 ## Verses
 

@@ -1,5 +1,5 @@
 ---
-title: "1.65 Ukkhepakata-Va"
+title: "1.65 Ukkhepakata-Vaccha"
 id: "thag1.65"
 chapter: 1
 verse: 65
@@ -12,13 +12,13 @@ weight: 65
 bookHidden: true
 ---
 
-# Ukkhepakata-Va
+# Ukkhepakata-Vaccha
 
 ## Commentary
 
 [66]
 
-He was born in this Buddha-age at Sāvatthī, as the son of a brahmin of the Vaccha family. He heard the Master preach, entered the Order, and went to dwell at a village settlement in Kosala. Through the bhikkhus who came there from time to time he mastered the doctrine, although he did not know how to distinguish what was Vinaya, what Suttanta, and what Abhidhamma. This too, however, he learnt from questioning Sāriputta, so that, whereas other bhikkhus were versed in Vinaya, or in some other part of doctrine, he had learnt the Piṭakas by heart, even before the Council, when they were recited. [^1] And soon after attaining this proficiency, he won arahantship. Thereafter he became a teacher, and one day, addressing himself as another person, he uttered this verse:
+He was born in this Buddha-age at Sāvatthī, as the son of a brahmin of the Vaccha family. He heard the Master preach, entered the Order, and went to dwell at a village settlement in Kosala. Through the bhikkhus who came there from time to time he mastered the doctrine, although he did not know how to distinguish what was Vinaya, what Suttanta, and what Abhidhamma. This too, however, he learnt from questioning Sāriputta, so that, whereas other bhikkhus were versed in Vinaya, or in some other part of doctrine, he had learnt the Piṭakas by heart, even before the Council, when they were recited.[^1] And soon after attaining this proficiency, he won arahantship. Thereafter he became a teacher, and one day, addressing himself as another person, he uttered this verse:
 
 ## Verses
 

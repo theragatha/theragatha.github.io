@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age in the kingdom of Magadha as the son of a brahmin, he was named Mettaji. [^1] Grown up, he saw the evil of worldly desire, and became an ascetic dwelling in the forest. Hearing of the Buddha's advent, and impelled by antecedent causes, he sought the Master and asked him concerning his progress and regress. The answer given convinced him that he should enter the Order, [88] whereupon he won arahantship. And in this verse he extolled the Master:
+ 
+
+Reborn in this Buddha-age in the kingdom of Magadha as the son of a brahmin, he was named Mettaji.[^1] Grown up, he saw the evil of worldly desire, and became an ascetic dwelling in the forest. Hearing of the Buddha's advent, and impelled by antecedent causes, he sought the Master and asked him concerning his progress and regress. The answer given convinced him that he should enter the Order, [88] whereupon he won arahantship. And in this verse he extolled the Master:
 
 ## Verses
 

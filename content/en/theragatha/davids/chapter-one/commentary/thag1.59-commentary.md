@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 His story resembles that of the Añjana-Woodlander, with this difference: after his novitiate, he dwelt in the forest by a village in the kingdom of Kosala, near the dwelling of a lay adherent. The latter, seeing him camped under a [60] tree, made a little hut and gave it him. There the Thera attained arahantship. Then filled with rapture at his emancipation, he uttered this psalm:
 
 ## Verses

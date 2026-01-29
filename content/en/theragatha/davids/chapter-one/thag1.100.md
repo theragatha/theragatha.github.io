@@ -1,5 +1,5 @@
 ---
-title: "1.100 Devasabha (2)</a>"
+title: "1.100 Devasabha (2)"
 id: "thag1.100"
 chapter: 1
 verse: 100
@@ -12,7 +12,7 @@ weight: 100
 bookHidden: true
 ---
 
-# 1.100 Devasabha (2)</a>
+# 1.100 Devasabha (2)
 
 Whoso supreme endeavour doth put forth,\
 Whose range is in the fourfold heedfulness,\

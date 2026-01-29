@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age in the township of Devadaha, in the family of a Sākiyan noble (rāja), he was named Rakkhita (Guarded). He was one of those five hundred young nobles who, as having renounced the world, were given by the Sākiyan and Koliyan rājas as escort to the Exalted One. The latter had converted these youths by the lesson of the Kuṇāla-jātaka [^1] - a lesson against the danger of sensuality. And connecting this lesson with his exercises, he developed insight and attained arahantship. Thereafter, reflecting on his own renunciation of the corruptions, [^2] he uttered his verse confessing aññā:
+ 
+
+Reborn in this Buddha-age in the township of Devadaha, in the family of a Sākiyan noble (rāja), he was named Rakkhita (Guarded). He was one of those five hundred young nobles who, as having renounced the world, were given by the Sākiyan and Koliyan rājas as escort to the Exalted One. The latter had converted these youths by the lesson of the Kuṇāla-jātaka[^1] - a lesson against the danger of sensuality. And connecting this lesson with his exercises, he developed insight and attained arahantship. Thereafter, reflecting on his own renunciation of the corruptions,[^2] he uttered his verse confessing aññā:
 
 ## Verses
 

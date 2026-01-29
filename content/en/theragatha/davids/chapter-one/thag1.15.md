@@ -1,5 +1,5 @@
 ---
-title: "1.15 Kuṇḍa-Dhāna</a>"
+title: "1.15 Kuṇḍa-Dhāna"
 id: "thag1.15"
 chapter: 1
 verse: 15
@@ -12,7 +12,7 @@ weight: 15
 bookHidden: true
 ---
 
-# 1.15 Kuṇḍa-Dhāna</a>
+# 1.15 Kuṇḍa-Dhāna
 
 Five cut thou off; Five leave behind, and Five beyond all cultivate!\
 He who the Fivefold Bond transcends - a Brother\

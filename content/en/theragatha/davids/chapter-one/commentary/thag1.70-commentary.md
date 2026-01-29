@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha age in the Sunāparanta country, at the port of Suppāraka, [^1] in the family of a burgess, he was named Puṇṇa. Arrived at years of discretion, he went with a great caravan of merchandise to Sāvatthī, when the [71] Exalted One happened to be there. And he went to hear the Master at the Vihāra with the local lay-followers. There he believed, and left the world. And for a time he won favour among the teachers and preceptors by his skill in dialectic. Then one day he went to the Master, and asked for a lesson, so that he, hearing propositions pairwise, might therewith go to dwell in Sunāparanta. To him the Exalted One uttered a 'Lion's Roar' of a lesson, to wit: 'Now there are objects, Puṇṇa, cognizable by the eye, etc.' [^2] So Puṇṇa departed, and studying concentration and insight, acquired the three forms of higher cognition.
+ 
+
+Reborn in this Buddha age in the Sunāparanta country, at the port of Suppāraka,[^1] in the family of a burgess, he was named Puṇṇa. Arrived at years of discretion, he went with a great caravan of merchandise to Sāvatthī, when the [71] Exalted One happened to be there. And he went to hear the Master at the Vihāra with the local lay-followers. There he believed, and left the world. And for a time he won favour among the teachers and preceptors by his skill in dialectic. Then one day he went to the Master, and asked for a lesson, so that he, hearing propositions pairwise, might therewith go to dwell in Sunāparanta. To him the Exalted One uttered a 'Lion's Roar' of a lesson, to wit: 'Now there are objects, Puṇṇa, cognizable by the eye, etc.'[^2] So Puṇṇa departed, and studying concentration and insight, acquired the three forms of higher cognition.
 
 When he won arahantship he won over many people to the faith, even 500 lay-brethren and as many lay-sisters.
 

@@ -1,5 +1,5 @@
 ---
-title: "1.114 Adhimutta</a>"
+title: "1.114 Adhimutta"
 id: "thag1.114"
 chapter: 1
 verse: 114
@@ -12,7 +12,7 @@ weight: 114
 bookHidden: true
 ---
 
-# 1.114 Adhimutta</a>
+# 1.114 Adhimutta
 
 If ye to this gross body give such heed,\
 Greedy its pleasures to enjoy, the while\

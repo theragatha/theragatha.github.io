@@ -1,5 +1,5 @@
 ---
-title: "1.18 Singāla-Pitar</a>"
+title: "1.18 Singāla-Pitar"
 id: "thag1.18"
 chapter: 1
 verse: 18
@@ -12,7 +12,7 @@ weight: 18
 bookHidden: true
 ---
 
-# 1.18 Singāla-Pitar</a>
+# 1.18 Singāla-Pitar
 
 Lo! in the forest of Bhesakalā\
 A brother dwells, heir of the Buddha's grace,\

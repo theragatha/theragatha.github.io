@@ -16,11 +16,13 @@ bookHidden: true
 
 ## Commentary
 
-He came to birth in the family of a clansman of the Mallas, [^2] at Anupiyā. As a child of seven, he saw the Master when the latter visited his country and home, and was so attracted that he asked his grandmother, his mother having died at his birth, [^3] if he might leave the world under the Master. She brought him to the Master, who bade a bhikkhu ordain him. And the boy, being one in whom past causes and an aspiration were taking effect, realized the Four Paths in succession, in the very act of having his curls cut off.
+ 
 
-[11] And when the Master left the Mallas' country for Rājagaha, Dabba, meditating alone, and desirous of devoting his body to the service of the Order, considered that he might both apportion night's lodging and direct to meals. The Master sanctioned his doing so, and his success herein, and his supernormal power herein, lighting the brethren to their lodgings with his shining finger, is told in the Pali narrative. [^4]
+He came to birth in the family of a clansman of the Mallas,[^2] at Anupiyā. As a child of seven, he saw the Master when the latter visited his country and home, and was so attracted that he asked his grandmother, his mother having died at his birth,[^3] if he might leave the world under the Master. She brought him to the Master, who bade a bhikkhu ordain him. And the boy, being one in whom past causes and an aspiration were taking effect, realized the Four Paths in succession, in the very act of having his curls cut off.
 
-But it was after the baseless calumny, [^5] wherewith the bhikkhas who followed Mettiya and Bhummajaka sought to ruin him, had been condemned by the Order, that the Brother, conscious of his virtuous compassion for others, uttered this verse:
+[11]  And when the Master left the Mallas' country for Rājagaha, Dabba, meditating alone, and desirous of devoting his body to the service of the Order, considered that he might both apportion night's lodging and direct to meals. The Master sanctioned his doing so, and his success herein, and his supernormal power herein, lighting the brethren to their lodgings with his shining finger, is told in the Pali narrative.[^4]
+
+But it was after the baseless calumny,[^5] wherewith the bhikkhas who followed Mettiya and Bhummajaka sought to ruin him, had been condemned by the Order, that the Brother, conscious of his virtuous compassion for others, uttered this verse:
 
 ## Verses
 

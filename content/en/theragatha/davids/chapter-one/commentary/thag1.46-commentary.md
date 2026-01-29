@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age at Rājagaha, , in a clansman's family. [^1] From the time he was born the wealth of his family increased, and he himself, handsome and virtuous, became known as Samiddhi (Prospero). He saw the power of the Buddha when the latter was met by Bimbisāra, [^2] won faith in him, and left the world, abiding devoted to meditation. When the Exalted One was staying at the Tapoda Park, [^3] Samiddhi one day was musing in exquisite joy on his good fortune as a bhikkhu. Then Māra the Evil One, unable to bear it, made a fearful noise near him, as if the very earth were splitting. The Thera told this to the Exalted One. The latter bade him persist where he was and think no more about it. He obeyed, and soon after won arahantship. Māra, unaware of it, once more created a fearful noise. But the Thera felt no fear: 'Undaunted by all such Māras, not once have I turned a hair!' And confessing aññā, he uttered this verse:
+ 
+
+He was reborn in this Buddha-age at Rājagaha,, in a clansman's family.[^1] From the time he was born the wealth of his family increased, and he himself, handsome and virtuous, became known as Samiddhi (Prospero). He saw the power of the Buddha when the latter was met by Bimbisāra,[^2] won faith in him, and left the world, abiding devoted to meditation. When the Exalted One was staying at the Tapoda Park,[^3] Samiddhi one day was musing in exquisite joy on his good fortune as a bhikkhu. Then Māra the Evil One, unable to bear it, made a fearful noise near him, as if the very earth were splitting. The Thera told this to the Exalted One. The latter bade him persist where he was and think no more about it. He obeyed, and soon after won arahantship. Māra, unaware of it, once more created a fearful noise. But the Thera felt no fear: 'Undaunted by all such Māras, not once have I turned a hair!' And confessing aññā, he uttered this verse:
 
 ## Verses
 

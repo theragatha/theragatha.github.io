@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 Reborn in this Buddha-age in a wealthy family at Sāvatthī, he found faith, and entering the Order took an exercise, and joined another bhikkhu, both dwelling in the forest. Not far from where they abode, a doe in the thicket had [99] given birth to a fawn. Tending it, her love kept her from going far from it, and lacking grass and water close by she was famished. Seeing her the Thera said: 'Ah, surely this world bound in the bonds of craving suffers sore, unable to cut them!' And taking this feeling as a goad, he developed insight and won arahantship. Thereupon, discerning that his companion was cherishing many wrong thoughts, he admonished him through the parable of the doe, and uttered this verse:
 
 ## Verses

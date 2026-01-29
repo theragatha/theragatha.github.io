@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age at Sāriputta's native place, [^1] in a brahmin's family, and was called Susārada [75] (Dullard), because he was slow in growing. [^2] He was converted by the teaching of that Thera and in due time, as a bhikkhu, became an arahant, and confessed his aññā in this verse:
+ 
+
+He was reborn in this Buddha-age at Sāriputta's native place,[^1] in a brahmin's family, and was called Susārada [75] (Dullard), because he was slow in growing.[^2] He was converted by the teaching of that Thera and in due time, as a bhikkhu, became an arahant, and confessed his aññā in this verse:
 
 ## Verses
 

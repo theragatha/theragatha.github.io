@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age at Rājagaha, as the son of a brahmin graduate. [^1] Grown up and proficient in the Three Vedas, he saw no kernel in them, and being urged by maturity of conditions, he went to the Bamboo Grove, and when he had heard the Master preach, he left the world. Meditating in the forest on ethical conduct, he was not long in winning arahantship. Thereupon he approached the Master, saluted him, seated himself on one side and, by praising the Exalted One, confessed aññā in this verse:
+ 
+
+He was reborn in this Buddha-age at Rājagaha, as the son of a brahmin graduate.[^1] Grown up and proficient in the Three Vedas, he saw no kernel in them, and being urged by maturity of conditions, he went to the Bamboo Grove, and when he had heard the Master preach, he left the world. Meditating in the forest on ethical conduct, he was not long in winning arahantship. Thereupon he approached the Master, saluted him, seated himself on one side and, by praising the Exalted One, confessed aññā in this verse:
 
 ## Verses
 

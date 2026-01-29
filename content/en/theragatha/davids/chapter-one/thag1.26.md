@@ -1,5 +1,5 @@
 ---
-title: "1.26 Ab"
+title: "1.26 Abhaya"
 id: "thag1.26"
 chapter: 1
 verse: 26
@@ -12,7 +12,7 @@ weight: 26
 bookHidden: true
 ---
 
-# 1.26 Ab
+# 1.26 Abhaya
 
 Of him, the Buddha, kin o' th' sun, I heard\
 The word most eloquent, and hearing pierced\

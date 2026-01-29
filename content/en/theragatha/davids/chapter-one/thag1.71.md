@@ -1,5 +1,5 @@
 ---
-title: "1.71 Vaccha"
+title: "1.71 Vacchapāla"
 id: "thag1.71"
 chapter: 1
 verse: 71
@@ -12,7 +12,7 @@ weight: 71
 bookHidden: true
 ---
 
-# 1.71 Vaccha
+# 1.71 Vacchapāla
 
 Is there a man who can the truth discern\
 Tho' it be very subtle and refined,\

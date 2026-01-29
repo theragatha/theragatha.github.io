@@ -1,5 +1,5 @@
 ---
-title: "1.114 Adhimutta</a>"
+title: "1.114 Adhimutta"
 id: "thag1.114"
 chapter: 1
 verse: 114
@@ -12,9 +12,11 @@ weight: 114
 bookHidden: true
 ---
 
-# Adhimutta</a>
+# Adhimutta
 
 ## Commentary
+
+ 
 
 Reborn in this Buddha-age in a brahmin family at Sāvatthī and named Adhimutta, he became discontented at finding no pith in the brahmin wisdom, and while he was seeking to escape during his last span of life, he saw the majesty of the Buddha at the presentation of the Jeta Grove. Entering the Order, he in due course won arahantship. Thereupon he admonished those bhikkhus dwelling with him who were very corpulent, in this verse:
 

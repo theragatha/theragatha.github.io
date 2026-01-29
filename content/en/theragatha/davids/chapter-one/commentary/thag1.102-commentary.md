@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age as the son of the rāja of a district, [^1] he was unable to maintain his country's independence, and lost his throne. Wandering about the land unhappy, he saw and heard the Exalted One, entered the [95] Order, and won arahantship. And inveighing in his psalm against worldliness, he thus in divers ways confessed aññā :
+ 
+
+Reborn in this Buddha-age as the son of the rāja of a district,[^1] he was unable to maintain his country's independence, and lost his throne. Wandering about the land unhappy, he saw and heard the Exalted One, entered the [95] Order, and won arahantship. And inveighing in his psalm against worldliness, he thus in divers ways confessed aññā:
 
 ## Verses
 

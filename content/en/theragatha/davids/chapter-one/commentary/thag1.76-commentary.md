@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 He was reborn in this Buddha-age at Vesālī, in the family of a Licchavi noble (rāja). When grown up he was ever mad for war and an unconquered fighter, ever sacrificing what was near and dear, so that he became known as Piyañjaha — Love-renouncing. But when the Master came to Vesālī, Piyañjaha found faith in him, entered the Order, dwelt in the forest, developed insight and won arahantship. As arahant he thought, 'How different is worldly success from Ariyan success!' and by this insight confessing aññā, he uttered this verse:
 
 ## Verses

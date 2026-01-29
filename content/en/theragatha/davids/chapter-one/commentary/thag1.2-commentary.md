@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age [^1] at Sāvatthī, in a very wealthy clan of brahmins, he was named Koṭṭhita. [^2] When he was come of age he had learned the three Vedas, and perfected himself in the accomplishments of a brahmin. He heard the Master preach the Norm, found faith, and entered the Order. Practising insight from the day of his ordination he attained arahantship, together with thorough mastery of the form and meaning of the Norm. [^3] As proficient [7] herein he used to question the great Theras and Him-of-the-Ten-Powers [^4] about them. Hence it came that he was held chief of those who were thus proficient. Then the Master, having shown his attainments in the Vedalla-Sutta, ranked him chief of those who were proficient in insight. [^5]
+ 
+
+Reborn in this Buddha-age[^1] at Sāvatthī, in a very wealthy clan of brahmins, he was named Koṭṭhita.[^2] When he was come of age he had learned the three Vedas, and perfected himself in the accomplishments of a brahmin. He heard the Master preach the Norm, found faith, and entered the Order. Practising insight from the day of his ordination he attained arahantship, together with thorough mastery of the form and meaning of the Norm.[^3] As proficient [7] herein he used to question the great Theras and Him-of-the-Ten-Powers[^4] about them. Hence it came that he was held chief of those who were thus proficient. Then the Master, having shown his attainments in the Vedalla-Sutta, ranked him chief of those who were proficient in insight.[^5]
 
 He, on a later occasion, conscious of the bliss of emancipation, broke forth in this verse:
 

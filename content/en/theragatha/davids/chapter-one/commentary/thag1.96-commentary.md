@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age at Pāvā in the family of a Malla rāja, [^1] he was named Khaṇḍasumana (Jasmine), because on his birthday the jasmine was in bloom. [^2] He heard the Exalted One while the latter was staying in Cunda's mango grove at Pāvā, [^3] entered the Order, and acquired sixfold abhiññā. Thereupon he remembered his own former births: how he had offered a plant of jasmine at the tope of Kassapa Buddha when all the plucked flowers went to form the king's own offering; and, discerning how this act had guided him to Nibbāna now, he said this verse:
+ 
+
+Reborn in this Buddha-age at Pāvā in the family of a Malla rāja,[^1] he was named Khaṇḍasumana (Jasmine), because on his birthday the jasmine was in bloom.[^2] He heard the Exalted One while the latter was staying in Cunda's mango grove at Pāvā,[^3] entered the Order, and acquired sixfold abhiññā. Thereupon he remembered his own former births: how he had offered a plant of jasmine at the tope of Kassapa Buddha when all the plucked flowers went to form the king's own offering; and, discerning how this act had guided him to Nibbāna now, he said this verse:
 
 ## Verses
 

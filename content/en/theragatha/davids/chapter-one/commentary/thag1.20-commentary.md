@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn, when our Master was living, at Sāvatthī, as the son of the brahmin who was price-assessor [^1] to the king of Kosala. He became an ascetic as follower of Bavarī, the learned brahmin, who dwelt in the Kapiṭṭha park on the banks of the Godhāvarī. Now Bavari [^2] sent him, together with Tissa and Metteyya, to the Master. And Ajita was so satisfied with the Master's answers to his questions, that he entered the Order. Choosing a form of mental exercise he developed insight, and attained arahant-ship. Thereupon he uttered his song of victory [^3] in this verse:
+ 
+
+He was reborn, when our Master was living, at Sāvatthī, as the son of the brahmin who was price-assessor[^1] to the king of Kosala. He became an ascetic as follower of Bavarī, the learned brahmin, who dwelt in the Kapiṭṭha park on the banks of the Godhāvarī. Now Bavari[^2] sent him, together with Tissa and Metteyya, to the Master. And Ajita was so satisfied with the Master's answers to his questions, that he entered the Order. Choosing a form of mental exercise he developed insight, and attained arahant-ship. Thereupon he uttered his song of victory[^3] in this verse:
 
 ## Verses
 

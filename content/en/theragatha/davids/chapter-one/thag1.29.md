@@ -1,5 +1,5 @@
 ---
-title: "1.29 Hā"
+title: "1.29 Hārita"
 id: "thag1.29"
 chapter: 1
 verse: 29
@@ -12,7 +12,7 @@ weight: 29
 bookHidden: true
 ---
 
-# 1.29 Hā
+# 1.29 Hārita
 
 Now bend aloft thyself; e'en as his bolt\
 The fletcher, so do thou, O Hārita,\

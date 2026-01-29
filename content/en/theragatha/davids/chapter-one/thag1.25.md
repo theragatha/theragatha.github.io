@@ -1,5 +1,5 @@
 ---
-title: "1.25 Nan"
+title: "1.25 Nandiya"
 id: "thag1.25"
 chapter: 1
 verse: 25
@@ -12,7 +12,7 @@ weight: 25
 bookHidden: true
 ---
 
-# 1.25 Nan
+# 1.25 Nandiya
 
 To him whose thought is ever newly born\
 From splendour of the Path, and eke hath touched\

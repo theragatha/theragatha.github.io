@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age at Sāvatthī in a wealthy family, his heart was moved when the Jeta Grove was presented, [^1] and he left the world. Dwelling in the forest he meditated on ethical conduct, and, because of his attainments and charm, he became called Rāmaṇeyyaka (Gratus, Gratulus) .
+ 
+
+Reborn in this Buddha-age at Sāvatthī in a wealthy family, his heart was moved when the Jeta Grove was presented,[^1] and he left the world. Dwelling in the forest he meditated on ethical conduct, and, because of his attainments and charm, he became called Rāmaṇeyyaka (Gratus, Gratulus).
 
 Now one day Māra the Evil One, wishing to disturb him, made a fearful noise. The Thera, hearing it, was with his habitual courage unafraid, and knew it was Māra. And to show his contempt he uttered this verse:
 

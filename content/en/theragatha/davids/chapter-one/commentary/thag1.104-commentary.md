@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age at Sāvatthī in a brahmin's family, he heard, when grown up, of the great supernormal powers of Moggallāna the Great. [^1] And he thought: 'I, too, will become so gifted.' And impelled by prior causes he entered the Order under the Exalted One, and by exercising himself in the training for calm and insight, acquired in due course sixfold abhiññā. Then he, enjoying the various forms of supernormal movement, continued to bestow favour on beings by the wonder of those acts and by the wonder of training. [^2] When the bhikkhus asked him: 'Khitaka, friend, do you employ supernormal power?' he uttered this verse:
+ 
+
+Reborn in this Buddha-age at Sāvatthī in a brahmin's family, he heard, when grown up, of the great supernormal powers of Moggallāna the Great.[^1] And he thought: 'I, too, will become so gifted.' And impelled by prior causes he entered the Order under the Exalted One, and by exercising himself in the training for calm and insight, acquired in due course sixfold abhiññā. Then he, enjoying the various forms of supernormal movement, continued to bestow favour on beings by the wonder of those acts and by the wonder of training.[^2] When the bhikkhus asked him: 'Khitaka, friend, do you employ supernormal power?' he uttered this verse:
 
 ## Verses
 

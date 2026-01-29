@@ -1,5 +1,5 @@
 ---
-title: "1.118 Kim"
+title: "1.118 Kimbila"
 id: "thag1.118"
 chapter: 1
 verse: 118
@@ -12,11 +12,13 @@ weight: 118
 bookHidden: true
 ---
 
-# Kim
+# Kimbila
 
 ## Commentary
 
-Reborn in this Buddha-age at Kapilavatthu in the family of a Sākiyan rāja, and named Kimbila, [^1] he inherited immense wealth. The Master saw the maturity of his insight while staying at Anupiyā, and in order to arouse him, conjured up a beautiful woman in her prime, and showed her to him passing to old age. Then Kimbila greatly shaken uttered this verse:
+ 
+
+Reborn in this Buddha-age at Kapilavatthu in the family of a Sākiyan rāja, and named Kimbila,[^1] he inherited immense wealth. The Master saw the maturity of his insight while staying at Anupiyā, and in order to arouse him, conjured up a beautiful woman in her prime, and showed her to him passing to old age. Then Kimbila greatly shaken uttered this verse:
 
 ## Verses
 

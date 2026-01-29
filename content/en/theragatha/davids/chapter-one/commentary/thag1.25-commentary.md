@@ -1,5 +1,5 @@
 ---
-title: "1.25 Nan"
+title: "1.25 Nandiya"
 id: "thag1.25"
 chapter: 1
 verse: 25
@@ -12,11 +12,13 @@ weight: 25
 bookHidden: true
 ---
 
-# Nan
+# Nandiya
 
 ## Commentary
 
-Born in this Buddha-age at Kapilavatthu, in the house of a Sākiyan rāja, his parents said: He is born bringing us bliss; and they called him Nandiya (Beatus). Grown up, he went forth, when Anuruddha and the rest left the world under the Master. And because of his studies and his resolve made in the past, he soon attained arahantship. Thereafter he dwelt with Anuruddha the Thera [^1] and his [30] friends, in the Eastern Bamboo Wood. There Māra, the Evil One, wishing to frighten him, appeared in a terrifying shape. But the Thera drove him away with the words, 'O Evil One! what canst thou do with those that have transcended thy realm? 'Tis thou that thereby wilt meet with defeat and ruin.'
+ 
+
+Born in this Buddha-age at Kapilavatthu, in the house of a Sākiyan rāja, his parents said: He is born bringing us bliss; and they called him Nandiya (Beatus). Grown up, he went forth, when Anuruddha and the rest left the world under the Master. And because of his studies and his resolve made in the past, he soon attained arahantship. Thereafter he dwelt with Anuruddha the Thera[^1] and his [30] friends, in the Eastern Bamboo Wood. There Māra, the Evil One, wishing to frighten him, appeared in a terrifying shape. But the Thera drove him away with the words, 'O Evil One! what canst thou do with those that have transcended thy realm? 'Tis thou that thereby wilt meet with defeat and ruin.'
 
 ## Verses
 

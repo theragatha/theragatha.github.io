@@ -1,5 +1,5 @@
 ---
-title: "1.89 Devasabha</a>"
+title: "1.89 Devasabha"
 id: "thag1.89"
 chapter: 1
 verse: 89
@@ -12,7 +12,7 @@ weight: 89
 bookHidden: true
 ---
 
-# 1.89 Devasabha</a>
+# 1.89 Devasabha
 
 Transcended is the miry bog of lusts.\
 Past doom infernal am I safely come\

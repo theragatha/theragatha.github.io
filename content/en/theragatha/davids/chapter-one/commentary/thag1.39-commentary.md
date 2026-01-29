@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was born in this Buddha-age at Kapilavatthu, as the son of the Exalted One's aunt, and named Tissa. [^1] He left the world to follow the Exalted One, and dwelling in a woodland settlement, was proud because of his rank, being [44] irritable and captious in his conduct, so that he did not do his duties with zeal. Then the Master, surveying him one day with celestial vision from afar, while he was sleeping with open mouth at siesta, came over him above, shedding glory down upon him, and wakening him with these words:
+ 
+
+He was born in this Buddha-age at Kapilavatthu, as the son of the Exalted One's aunt, and named Tissa.[^1] He left the world to follow the Exalted One, and dwelling in a woodland settlement, was proud because of his rank, being [44] irritable and captious in his conduct, so that he did not do his duties with zeal. Then the Master, surveying him one day with celestial vision from afar, while he was sleeping with open mouth at siesta, came over him above, shedding glory down upon him, and wakening him with these words:
 
 ## Verses
 

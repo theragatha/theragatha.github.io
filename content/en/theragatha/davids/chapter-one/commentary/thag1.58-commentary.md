@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-His story resembles that of the Añjana -Woodlander, with this difference: he dwelt in a hut beside a hamlet in the Vajjian territory. It was a pretty pleasing little chalet, with floor and walls well prepared, surrounded by park and tank, and with its enclosure of smooth pearly sand. And the Thera's excellent virtues enhanced its attractiveness. He there won arahantship, and there continued to dwell. Now when people came to see the vihāra (settlement), they could see the hut. One day a few fast women came by, and seeing the attractiveness of the hut said:
+ 
+
+His story resembles that of the Añjana-Woodlander, with this difference: he dwelt in a hut beside a hamlet in the Vajjian territory. It was a pretty pleasing little chalet, with floor and walls well prepared, surrounded by park and tank, and with its enclosure of smooth pearly sand. And the Thera's excellent virtues enhanced its attractiveness. He there won arahantship, and there continued to dwell. Now when people came to see the vihāra (settlement), they could see the hut. One day a few fast women came by, and seeing the attractiveness of the hut said:
 
 'The recluse living there might be a youth we could fascinate.' So they accosted him, saying: 'Delightful, sir, is your dwelling-place. We too are delightful to see, just in the prime of our youth,' and they began to show off their raiment and so forth. But the Thera set forth his passionless state in this verse:
 

@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was born in this Buddha-age in a wealthy Magadhese family. He came to know Soṇa-Kutikaṇṇa; [^1] and when he heard that the latter had left the world, he grew agitated, and thought: 'If he who has so great an estate shall leave the world, why not rather I?' And entering the Order, he took for exercise the subject of ethical conduct, [^2] and seeking a suitable haunt, dwelt on the uplands not far from his native village. Now one day his mother, who daily dispensed alms, gave him, on his round, rice-porridge prepared with honey and sugar. This he took and ate in the shade of that hill under a bamboo thicket. With bowl and hands washed, and refreshed by the appropriate fare offered him, he put forth insight without toil and, with mind intent on [28] the ebb and flow of all things, attained the topmost meditation of the Paths, winning arahantship, with mastery of the form and meaning of the doctrine. Desirous to go up to the hilly region that he might dwell in bliss while he lived, he made known his own experience in this verse:
+ 
+
+He was born in this Buddha-age in a wealthy Magadhese family. He came to know Soṇa-Kutikaṇṇa;[^1] and when he heard that the latter had left the world, he grew agitated, and thought: 'If he who has so great an estate shall leave the world, why not rather I?' And entering the Order, he took for exercise the subject of ethical conduct,[^2] and seeking a suitable haunt, dwelt on the uplands not far from his native village. Now one day his mother, who daily dispensed alms, gave him, on his round, rice-porridge prepared with honey and sugar. This he took and ate in the shade of that hill under a bamboo thicket. With bowl and hands washed, and refreshed by the appropriate fare offered him, he put forth insight without toil and, with mind intent on [28] the ebb and flow of all things, attained the topmost meditation of the Paths, winning arahantship, with mastery of the form and meaning of the doctrine. Desirous to go up to the hilly region that he might dwell in bliss while he lived, he made known his own experience in this verse:
 
 ## Verses
 

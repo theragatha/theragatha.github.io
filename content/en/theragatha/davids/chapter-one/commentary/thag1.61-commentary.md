@@ -1,5 +1,5 @@
 ---
-title: "1.61 V"
+title: "1.61 Vappa"
 id: "thag1.61"
 chapter: 1
 verse: 61
@@ -12,11 +12,13 @@ weight: 61
 bookHidden: true
 ---
 
-# V
+# Vappa
 
 ## Commentary
 
-He was reborn in this Buddha-age at Kapilavatthu, as the son of a brahmin Vāsettha. Now when Asita the seer [^1] had declared that the young noble Siddhattha would become omniscient, Vappa with four other sons of brahmins, Kondañña at their head, [^2] became recluses. When Asita's prophecy had been fulfilled, Vappa heard the Buddha preach and thought: 'I will win salvation.' He was present during the six years when the Great Being made his ascetic struggles; thereupon disgusted when the latter again took solid food, he went to Isipatana, and there met the Master then starting the Wheel of the Norm a-rolling and was converted. On the fifth day he and his four mates won arahantship. Thereupon reflecting on the might of the Master and the blindness of the world, and how the Ariyan state bestowed vision, he said this verse:
+ 
+
+He was reborn in this Buddha-age at Kapilavatthu, as the son of a brahmin Vāsettha. Now when Asita the seer[^1] had declared that the young noble Siddhattha would become omniscient, Vappa with four other sons of brahmins, Kondañña at their head,[^2] became recluses. When Asita's prophecy had been fulfilled, Vappa heard the Buddha preach and thought: 'I will win salvation.' He was present during the six years when the Great Being made his ascetic struggles; thereupon disgusted when the latter again took solid food, he went to Isipatana, and there met the Master then starting the Wheel of the Norm a-rolling and was converted. On the fifth day he and his four mates won arahantship. Thereupon reflecting on the might of the Master and the blindness of the world, and how the Ariyan state bestowed vision, he said this verse:
 
 ## Verses
 

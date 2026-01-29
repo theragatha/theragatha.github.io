@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age as the son of a Licchavi rāja at Vesālī, he became known as the Vajjian's son, because his father was one of the Vajjians. [^1] While yet a youth and engaged in training elephants, he, inclined by fullness of cause to seek Release, went to the Vihāra at the hour when the Master was to preach, and having heard, entered the Order, and in due course acquired sixfold abhiññā.
+ 
+
+Reborn in this Buddha-age as the son of a Licchavi rāja at Vesālī, he became known as the Vajjian's son, because his father was one of the Vajjians.[^1] While yet a youth and engaged in training elephants, he, inclined by fullness of cause to seek Release, went to the Vihāra at the hour when the Master was to preach, and having heard, entered the Order, and in due course acquired sixfold abhiññā.
 
 At a later time, shortly after the Master had passed away, Vajjiputta formed an agreement with the chief Theras to preserve the Dhamma intact, and travelled with them from place to place. One day he saw the Venerable Ānanda, who was still a student only, surrounded by a large congregation, teaching them the Norm. And to call forth endeavour in him to reach the higher Paths, he uttered this verse:
 

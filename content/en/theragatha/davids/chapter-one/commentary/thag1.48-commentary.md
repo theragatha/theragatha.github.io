@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 He was reborn in this Buddha-age, at Rājagaha, as the son of a wealthy brahmin. Grown up, he followed the example of Brahmāyu, Pokkharasāti and other well-known brahmins, who found faith in the Master and reached the First Path. Later he entered the Order and acquired the [53] six abhiññās. Then, confessing anna, he uttered this verse:
 
 ## Verses

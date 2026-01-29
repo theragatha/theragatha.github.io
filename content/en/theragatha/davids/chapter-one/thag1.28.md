@@ -1,5 +1,5 @@
 ---
-title: "1.28 Jambugāmika's"
+title: "1.28 Jambugāmika's Son"
 id: "thag1.28"
 chapter: 1
 verse: 28
@@ -12,7 +12,7 @@ weight: 28
 bookHidden: true
 ---
 
-# 1.28 Jambugāmika's
+# 1.28 Jambugāmika's Son
 
 And art thou then not gratified by gear?\
 And art thou then not charmed thyself t' adorn?\

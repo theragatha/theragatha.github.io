@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age at Sālī, as the son of a certain brahmin, he grew up expert in the Three Vedas. [^1] Feeling repelled by domestic life, and inclined to jhāna, he met the Exalted One at Sālī, believed, was ordained, and attained arahantship as soon as his head was shaved.
+ 
+
+Reborn in this Buddha-age at Sālī, as the son of a certain brahmin, he grew up expert in the Three Vedas.[^1] Feeling repelled by domestic life, and inclined to jhāna, he met the Exalted One at Sālī, believed, was ordained, and attained arahantship as soon as his head was shaved.
 
 Thereupon he signalized his putting away the hindrances, and confessed aññā in this verse:
 

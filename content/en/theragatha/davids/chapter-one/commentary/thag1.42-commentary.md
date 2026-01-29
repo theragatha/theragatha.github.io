@@ -16,9 +16,11 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn, in this Buddha-age, in the kingdom of Magadha, at the village of Nālaka, as the son of Rūpasārī, the brahminee. When he was grown up his mother desired [46] he should marry, but he heard of Sāriputta's [^1] renunciation, and said: 'If my elder brother Upatissa has laid aside this wealth, I too will vomit back his vomit,' and he went to the bhikkhus and, announcing himself as the younger brother of the 'General of the Norm,' [^2] he asked for ordination. When he had won arahantship in the Acacia Wood, [^3] he went to Sāvatthī to salute the Exalted One and his brother, staying a few days at the Jeta Grove. Then the Master, seated in the conclave of the Ariyans, assigned 'Revata the Acacia-woodlander the first place among forest bhikkhus.' [^4]
+ 
 
-At another time he went to his native village and fetched away his three nephews, the sons of his three sisters, Cālā, Upacālā, and Sīsūpacālā. [^5] named respectively, Cāla, Upacāla, and Sīsūpacāla, and ordained them. One day the Thera was ill, and Sāriputta heard of it, and said: 'I will make inquiry after Revata's state and treatment.' And seeing him coming far off, Revata admonished the three novices to be heedful, saying:
+He was reborn, in this Buddha-age, in the kingdom of Magadha, at the village of Nālaka, as the son of Rūpasārī, the brahminee. When he was grown up his mother desired [46] he should marry, but he heard of Sāriputta's[^1] renunciation, and said: 'If my elder brother Upatissa has laid aside this wealth, I too will vomit back his vomit,' and he went to the bhikkhus and, announcing himself as the younger brother of the 'General of the Norm,'[^2] he asked for ordination. When he had won arahantship in the Acacia Wood,[^3] he went to Sāvatthī to salute the Exalted One and his brother, staying a few days at the Jeta Grove. Then the Master, seated in the conclave of the Ariyans, assigned 'Revata the Acacia-woodlander the first place among forest bhikkhus.'[^4]
+
+At another time he went to his native village and fetched away his three nephews, the sons of his three sisters, Cālā, Upacālā, and Sīsūpacālā.[^5] named respectively, Cāla, Upacāla, and Sīsūpacāla, and ordained them. One day the Thera was ill, and Sāriputta heard of it, and said: 'I will make inquiry after Revata's state and treatment.' And seeing him coming far off, Revata admonished the three novices to be heedful, saying:
 
 ## Verses
 

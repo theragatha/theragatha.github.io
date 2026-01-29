@@ -1,5 +1,5 @@
 ---
-title: "1.89 Devasabha</a>"
+title: "1.89 Devasabha"
 id: "thag1.89"
 chapter: 1
 verse: 89
@@ -12,11 +12,13 @@ weight: 89
 bookHidden: true
 ---
 
-# Devasabha</a>
+# Devasabha
 
 ## Commentary
 
-Reborn in this Buddha-age as the son of the rāja of a district, [^2] he succeeded to his title when quite young. But [84] when being awakened (buddho) he went to hear the Master teach, he resigned his title, entered the Order, and anon won arahantship. Then joy arose in him when he reflected on the corrupting things he had put away, and he burst forth in this psalm:
+ 
+
+Reborn in this Buddha-age as the son of the rāja of a district,[^2] he succeeded to his title when quite young. But [84] when being awakened (buddho) he went to hear the Master teach, he resigned his title, entered the Order, and anon won arahantship. Then joy arose in him when he reflected on the corrupting things he had put away, and he burst forth in this psalm:
 
 ## Verses
 

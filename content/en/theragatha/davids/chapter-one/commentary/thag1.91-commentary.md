@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age at Kapilavatthu, in the family of a Sākiyan rāja. And because of the completeness of his gifts and fortune he became known as Paripuṇṇaka. [^1] His means allowed him to enjoy at all times food of a hundred essences. But he, hearing that the Master partook of mixed scraps, said: 'Though he be delicately bred, the Exalted One lives thus, contemplating the bliss of Nibbāna. Why should we in our greed become epicures? Let us, too, seek for that bliss of Nibbāna!' Thus agitated he renounced his home, entered the Order, and, taking his exercise of meditation on the body from the Exalted One, he in due course attained arahantship. Thereupon he burst forth into this psalm: [^2]
+ 
+
+He was reborn in this Buddha-age at Kapilavatthu, in the family of a Sākiyan rāja. And because of the completeness of his gifts and fortune he became known as Paripuṇṇaka.[^1] His means allowed him to enjoy at all times food of a hundred essences. But he, hearing that the Master partook of mixed scraps, said: 'Though he be delicately bred, the Exalted One lives thus, contemplating the bliss of Nibbāna. Why should we in our greed become epicures? Let us, too, seek for that bliss of Nibbāna!' Thus agitated he renounced his home, entered the Order, and, taking his exercise of meditation on the body from the Exalted One, he in due course attained arahantship. Thereupon he burst forth into this psalm:[^2]
 
 ## Verses
 

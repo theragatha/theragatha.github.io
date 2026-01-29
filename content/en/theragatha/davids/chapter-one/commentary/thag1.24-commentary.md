@@ -1,5 +1,5 @@
 ---
-title: "1.24 Suga"
+title: "1.24 Sugandha"
 id: "thag1.24"
 chapter: 1
 verse: 24
@@ -12,11 +12,13 @@ weight: 24
 bookHidden: true
 ---
 
-# Suga
+# Sugandha
 
 ## Commentary
 
-He was reborn in this Buddha-age of wealthy parents at Sāvatthī. And because of his aspiration in the past, when he presented Kassapa Buddha with a Fragrant Chamber of sandal-wood, that he might in one life be reborn with a fragrant body, he, on the day of his birth — and his mother before that day — filled the house with fragrance. Then said his parents: 'Our son is come bringing his own name!' and they called him Sugandha (Aroma). When grown up, he was induced to leave the world by the preaching of the Thera Mahā-Sela. [^1] And within seven [29] days he attained arahantship. Confessing aññā he uttered this verse:
+ 
+
+He was reborn in this Buddha-age of wealthy parents at Sāvatthī. And because of his aspiration in the past, when he presented Kassapa Buddha with a Fragrant Chamber of sandal-wood, that he might in one life be reborn with a fragrant body, he, on the day of his birth — and his mother before that day — filled the house with fragrance. Then said his parents: 'Our son is come bringing his own name!' and they called him Sugandha (Aroma). When grown up, he was induced to leave the world by the preaching of the Thera Mahā-Sela.[^1] And within seven [29] days he attained arahantship. Confessing aññā he uttered this verse:
 
 ## Verses
 

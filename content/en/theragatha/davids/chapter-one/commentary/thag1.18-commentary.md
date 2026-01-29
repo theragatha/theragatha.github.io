@@ -1,5 +1,5 @@
 ---
-title: "1.18 Singāla-Pitar</a>"
+title: "1.18 Singāla-Pitar"
 id: "thag1.18"
 chapter: 1
 verse: 18
@@ -12,11 +12,13 @@ weight: 18
 bookHidden: true
 ---
 
-# Singāla-Pitar</a>
+# Singāla-Pitar
 
 ## Commentary
 
-Reborn in this Buddha-age of wealthy parents at Sāvatthī, he married and named his son Singāla(ka), himself becoming known as Singāla's father. At a later time he threw off domestic ties, and left the world for the Order. The Exalted One, contemplating his inclinations, gave him the meditative exercise of the idea of a skeleton. Taking it he dwelt among the Sākiyans at Suṇsumāragira, in the [23] Bhesakalā Wood. [^2] Now in that wood a woodland sprite, judging that the Thera would soon grasp the fruition he laboured after, uttered this verse:
+ 
+
+Reborn in this Buddha-age of wealthy parents at Sāvatthī, he married and named his son Singāla(ka), himself becoming known as Singāla's father. At a later time he threw off domestic ties, and left the world for the Order. The Exalted One, contemplating his inclinations, gave him the meditative exercise of the idea of a skeleton. Taking it he dwelt among the Sākiyans at Suṇsumāragira, in the [23] Bhesakalā Wood.[^2] Now in that wood a woodland sprite, judging that the Thera would soon grasp the fruition he laboured after, uttered this verse:
 
 ## Verses
 

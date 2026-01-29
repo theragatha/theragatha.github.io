@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age as the son of a Wanderer, [^1] and was converted to the religious life when lie saw the Exalted One perform the twin-miracle. [^2] And through jhāna he attained arahantship.
+ 
+
+He was reborn in this Buddha-age as the son of a Wanderer,[^1] and was converted to the religious life when lie saw the Exalted One perform the twin-miracle.[^2] And through jhāna he attained arahantship.
 
 Now a Wanderer named Kātiyāna, whom he had known as a layman, had lost all support from the laity since the Buddha had arisen, and was destitute. He came to the Thera and said: 'You of the Sakiyans, who have won much fame and support, live happily, but we are distressed and destitute. What should one do to compass happiness both in this life and the next?' The Thera said: 'Happiness not of the world: - this, for one who undergoes the suitable procedure to get it, and who gets it, is alone to be called unqualified happiness.' And to illustrate this by his own attainment, he uttered this verse:
 

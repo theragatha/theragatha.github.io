@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-When Kassapa was Buddha, this brother left the world and followed him. Now after the Master had preached the Sutta on Happy-Lonely, a certain bhikkhu talked with Lomasakangiya about it. And our Thera, being unable to explain it, uttered the wish: 'May I in the future become able to teach thee the Happy-Lonely!' The other answered: 'May I ask thee!' Of these two the former, when our Buddha lived, was reborn at Kapilavatthu, in the house of a Sakiyan rāja. And he was very delicate, and covered with fine hair, and therefore he was called Lomasakangiya. [^1] The other was reborn at that time among the gods, and named Candana. [^2]
+ 
+
+When Kassapa was Buddha, this brother left the world and followed him. Now after the Master had preached the Sutta on Happy-Lonely, a certain bhikkhu talked with Lomasakangiya about it. And our Thera, being unable to explain it, uttered the wish: 'May I in the future become able to teach thee the Happy-Lonely!' The other answered: 'May I ask thee!' Of these two the former, when our Buddha lived, was reborn at Kapilavatthu, in the house of a Sakiyan rāja. And he was very delicate, and covered with fine hair, and therefore he was called Lomasakangiya.[^1] The other was reborn at that time among the gods, and named Candana.[^2]
 
 Now when Anuruddha and the other Sākiyan youths left the world, Lomasakangiya would not. Then Candana, to stir him up, came to him and asked concerning the Happy-Lonely. The other knew not what he meant. Then Candana reminded him. So Lomasakangiya went to	the Exalted One and asked	him if it was true that he	had made that resolve in the past. 'Ay, youth,' replied the Exalted One; 'and the meaning of it is to be understood in more than fifty points of detail.' Then Lomasakangiya said: 'Wherefore, lord, let me	be ordained.' And	the Exalted One sent him to get his	parents' permission.	He asked his mother, but she feared for his health, saying: 'My dear, thou art delicate. How canst thou leave the world?' Then Lomasakangiya uttered this verse:
 

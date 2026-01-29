@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 Now he was reborn in this Buddha-age at Sāvatthī, as the son of a councillor, and was named Ātuma. When he was adolescent his mother proposed to find him a wife, and consulted with kinsfolk. But he, being impelled by the fullness of conditions, said: 'What have I to do with house-ways? Now will I leave the world.' But though he went [73] to the Brethren and was ordained, yet did his mother seek to corrupt his pious wish. Then he declared his inclination in this verse:
 
 ## Verses

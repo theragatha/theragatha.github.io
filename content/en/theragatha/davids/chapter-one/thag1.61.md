@@ -1,5 +1,5 @@
 ---
-title: "1.61 V"
+title: "1.61 Vappa"
 id: "thag1.61"
 chapter: 1
 verse: 61
@@ -12,7 +12,7 @@ weight: 61
 bookHidden: true
 ---
 
-# 1.61 V
+# 1.61 Vappa
 
 He who doth see can see another seer,\
 Him too who hath no eyes wherewith to see,\

@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age in a wealthy family, in the kingdom of Kosala, he found faith in the Master when the latter accepted the gift of the Jeta Grove. Finishing his novitiate, he dwelt in the forest at the foot of the mountain. Now at the time of the rains, the clouds had emptied themselves in the crests of the hills and trees; bushes and creepers became filled with dense foliage. Then the Thera, going forth one day from his cave, saw the loveliness of the woods and the mountains, and considered seriously: 'These trees and creepers are unconscious, yet by the season's fulfilment they have won growth. Why should not [100] I who have attained a suitable season win growth by good qualities?' [^1] And he uttered this verse, which became his confession of aññā, for he fortnwith strove and won arahantship:
+ 
+
+Reborn in this Buddha-age in a wealthy family, in the kingdom of Kosala, he found faith in the Master when the latter accepted the gift of the Jeta Grove. Finishing his novitiate, he dwelt in the forest at the foot of the mountain. Now at the time of the rains, the clouds had emptied themselves in the crests of the hills and trees; bushes and creepers became filled with dense foliage. Then the Thera, going forth one day from his cave, saw the loveliness of the woods and the mountains, and considered seriously: 'These trees and creepers are unconscious, yet by the season's fulfilment they have won growth. Why should not [100] I who have attained a suitable season win growth by good qualities?'[^1] And he uttered this verse, which became his confession of aññā, for he fortnwith strove and won arahantship:
 
 ## Verses
 

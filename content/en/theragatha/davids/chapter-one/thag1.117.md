@@ -1,5 +1,5 @@
 ---
-title: "1.117 "
+title: "1.117 Yasa"
 id: "thag1.117"
 chapter: 1
 verse: 117
@@ -12,7 +12,7 @@ weight: 117
 bookHidden: true
 ---
 
-# 1.117 
+# 1.117 Yasa
 
 With perfumed skin and delicately clad\
 And head ablaze with gems, natheless my way\

@@ -1,5 +1,5 @@
 ---
-title: "1.17 Da"
+title: "1.17 Dasaka"
 id: "thag1.17"
 chapter: 1
 verse: 17
@@ -12,7 +12,7 @@ weight: 17
 bookHidden: true
 ---
 
-# 1.17 Da
+# 1.17 Dasaka
 
 Who waxes slothful and in diet gross,\
 Given to sleep and rolling as he lies,\

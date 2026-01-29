@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age in the village of Nālaka as the son of a brahmin, and was a friend of Sāriputta before the latter left the world. Hearing the General of the Norm preach, he too left the world, being established on the plane of insight. [^1] Anon he won arahantship. Thereupon, in course of teaching the bhikkhus, he confessed aññā in this verse:
+ 
+
+He was reborn in this Buddha-age in the village of Nālaka as the son of a brahmin, and was a friend of Sāriputta before the latter left the world. Hearing the General of the Norm preach, he too left the world, being established on the plane of insight.[^1] Anon he won arahantship. Thereupon, in course of teaching the bhikkhus, he confessed aññā in this verse:
 
 ## Verses
 

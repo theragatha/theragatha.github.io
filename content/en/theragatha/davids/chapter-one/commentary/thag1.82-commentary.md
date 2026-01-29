@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age at Sāvatthī, as the son of a brahmin of north-western origin, [^1] he was named Kassapa. His father died while he was a child, and his mother brought him up. When one day he heard the Exalted One preach at the Jeta Grove, he was then and there impelled by maturing conditions to enter the First Path. And going to his mother, he asked her permission for his ordination.
+ 
+
+Reborn in this Buddha-age at Sāvatthī, as the son of a brahmin of north-western origin,[^1] he was named Kassapa. His father died while he was a child, and his mother brought him up. When one day he heard the Exalted One preach at the Jeta Grove, he was then and there impelled by maturing conditions to enter the First Path. And going to his mother, he asked her permission for his ordination.
 
 Now when the Master had ended the rainy season with the Parivāra festival and was starting on his country tour, Kassapa was anxious to go with him. And first he went to take leave of his mother. She let him go with this admonition:
 

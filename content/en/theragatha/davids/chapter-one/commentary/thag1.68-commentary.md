@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 He was reborn in this Buddha-age at Sāvatthī, as the son of a wealthy councillor. Come to years of discretion, he was convinced by the majesty of the Buddha, at the presentation of the Jeta Grove, and left the world. Fulfilling his novitiate, and dwelling in the forest, he came to the Master to learn. And at that time the Master, seeing [69] Sāriputta rapt in contemplation near him, broke forth into this psalm:
 
 ## Verses

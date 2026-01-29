@@ -16,9 +16,11 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age at the town of Roguva in a rāja's family, at his father's death he succeeded to the title. As an absent ally of King Bimbisāra, he sent him presents of jewels, pearls, and robes. The king sent him in return the life of the Buddha on a painted panel, and the Conditioned Genesis on a gold plate specially inscribed. [^1]
+ 
 
-[91] When he saw these, because he had resolved under former Buddhas and because it was his last birth, he pondered on going forward and turning back, setting the order of the doctrine in his heart and growing uneasy till he came to this conclusion: 'Now have I seen the likeness of the Exalted One, and have learnt the order of his doctrine at the same time. Full of ill are worldly desires. What have I to do with the life in houses?' And he abdicated, entered the Order, and, taking his earthen bowl and followed, as was Prince Pukkusāti, [^2] by a lamenting populace, he left the town and went to Rājagaha. There he dwelt in the Sabbasoṇḍika Cave, and visited the Exalted One. And learning of him, he won arahantship. Thereupon alluding to his experiences, he uttered this psalm:
+Reborn in this Buddha-age at the town of Roguva in a rāja's family, at his father's death he succeeded to the title. As an absent ally of King Bimbisāra, he sent him presents of jewels, pearls, and robes. The king sent him in return the life of the Buddha on a painted panel, and the Conditioned Genesis on a gold plate specially inscribed.[^1]
+
+[91] When he saw these, because he had resolved under former Buddhas and because it was his last birth, he pondered on going forward and turning back, setting the order of the doctrine in his heart and growing uneasy till he came to this conclusion: 'Now have I seen the likeness of the Exalted One, and have learnt the order of his doctrine at the same time. Full of ill are worldly desires. What have I to do with the life in houses?' And he abdicated, entered the Order, and, taking his earthen bowl and followed, as was Prince Pukkusāti,[^2] by a lamenting populace, he left the town and went to Rājagaha. There he dwelt in the Sabbasoṇḍika Cave, and visited the Exalted One. And learning of him, he won arahantship. Thereupon alluding to his experiences, he uttered this psalm:
 
 ## Verses
 

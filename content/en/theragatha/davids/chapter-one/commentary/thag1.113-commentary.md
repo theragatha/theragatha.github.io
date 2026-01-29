@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 Reborn in this Buddha-age as the son of a wealthy brahmin at Rājagaha and named Vaccha, he found faith when King Bimbisāra conferred with the Master. And entering the Order he attained arahantship. As arahant he dwelt in the woods devoted to detachment; hence he came to be called Woodland Vaccha (Vanavaccha). Now it happened that the Thera, in order to do a kindness to his kinsfolk, went to Rājagaha, and dwelt there a little [102] space, telling them of his mode of life. They begged him, saying: 'Sir, do us the kindness of dwelling in the near Vihāra, and we will wait upon you.' The Thera showed them in this verse both his love of the mountains and the life of detachment:
 
 ## Verses

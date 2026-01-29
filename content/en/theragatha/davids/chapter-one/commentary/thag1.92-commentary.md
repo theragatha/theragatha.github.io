@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 He was reborn in this Buddha-age at Sāvatthī, in a brahmin's family, and named Vijaya. When he had learnt the brahmin wisdom, he left the world as an ascetic, [86] and dwelt in the forest practising jhāna. Then he heard of the Buddha's mission and was glad, and went to salute and hear him. Thereupon he entered the Order and soon won arahantship, confessing aññā in this verse:
 
 ## Verses

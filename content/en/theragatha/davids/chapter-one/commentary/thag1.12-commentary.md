@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha's days as the son of Samiddhi, a brahmin of the village of Nālaka in Magadha. And he entered the Order because Sāriputta [^1] had done so, and he knew that Sāriputta was very wise. After he had attained arahantship, and was enjoying the bliss of emancipation, he uttered his psalm to encourage his fellow-disciples to make efforts:
+ 
+
+He was reborn in this Buddha's days as the son of Samiddhi, a brahmin of the village of Nālaka in Magadha. And he entered the Order because Sāriputta[^1] had done so, and he knew that Sāriputta was very wise. After he had attained arahantship, and was enjoying the bliss of emancipation, he uttered his psalm to encourage his fellow-disciples to make efforts:
 
 ## Verses
 

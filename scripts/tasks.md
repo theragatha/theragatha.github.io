@@ -1,0 +1,1 @@
+Spaces before footnotes in Davids.

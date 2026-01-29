@@ -1,5 +1,5 @@
 ---
-title: "1.60 Sī"
+title: "1.60 Sīvali"
 id: "thag1.60"
 chapter: 1
 verse: 60
@@ -12,7 +12,7 @@ weight: 60
 bookHidden: true
 ---
 
-# 1.60 Sī
+# 1.60 Sīvali
 
 Now have they prospered, all my highest aims,\
 To compass which I sought this still retreat.\

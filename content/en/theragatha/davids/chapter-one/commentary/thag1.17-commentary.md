@@ -1,5 +1,5 @@
 ---
-title: "1.17 Da"
+title: "1.17 Dasaka"
 id: "thag1.17"
 chapter: 1
 verse: 17
@@ -12,11 +12,13 @@ weight: 17
 bookHidden: true
 ---
 
-# Da
+# Dasaka
 
 ## Commentary
 
-He, by his karma, was reborn in the age of our Exalted One at Sāvatthī, as the child of a slave of Anāthapiṇḍika, [22] and was by him appointed as gate-porter of the Vihāra. [^1] Hearing of his virtuous conduct and his wishes, his master made him a freed man, and said, how happy it was to leave the life of the world. He was ordained accordingly; but from that time he grew slothful and slack of effort, taking no steps to roll back the round of rebirth, and sleeping much after meals. At sermon-time he would get into a corner on the outskirts of the congregation, and sit snoring. Now the Exalted One, contemplating his antecedents, spoke the following verse to him in order to stir up agitation:
+ 
+
+He, by his karma, was reborn in the age of our Exalted One at Sāvatthī, as the child of a slave of Anāthapiṇḍika, [22] and was by him appointed as gate-porter of the Vihāra.[^1] Hearing of his virtuous conduct and his wishes, his master made him a freed man, and said, how happy it was to leave the life of the world. He was ordained accordingly; but from that time he grew slothful and slack of effort, taking no steps to roll back the round of rebirth, and sleeping much after meals. At sermon-time he would get into a corner on the outskirts of the congregation, and sit snoring. Now the Exalted One, contemplating his antecedents, spoke the following verse to him in order to stir up agitation:
 
 ## Verses
 

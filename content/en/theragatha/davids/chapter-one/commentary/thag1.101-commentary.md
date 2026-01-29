@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 Reborn in this Buddha-age at Sāvatthī in a brahmin's family, he was named Belaṭṭhakāni. When after hearing the Master teach he had entered the Order, and was practising calm and insight in a forest of Kosala, he grew very slothful and was also rough of speech. Hence he did not evoke the right state of mind for his exercises. Now the Exalted One considered his maturing insight, and stirred his heart by this admonitory verse:
 
 ## Verses

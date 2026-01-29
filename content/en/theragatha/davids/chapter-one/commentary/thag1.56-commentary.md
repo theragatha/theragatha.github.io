@@ -1,5 +1,5 @@
 ---
-title: "1.56 Kuṭivihārin</a>"
+title: "1.56 Kuṭivihārin"
 id: "thag1.56"
 chapter: 1
 verse: 56
@@ -12,9 +12,11 @@ weight: 56
 bookHidden: true
 ---
 
-# Kuṭivihārin</a>
+# Kuṭivihārin
 
 ## Commentary
+
+ 
 
 His story (in this life) is like that of Añjana-vaniya, with this difference: while striving for insight he was walking by the fields, and took shelter from the rain in the little empty hut of the field-watchman, and there won arahantship. Thereupon the watchman came and said: 'Who is in the hut?' The answer was: 'A bhikkhu is in the hut,' and the rest of the verse:
 

@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age among the Sākiyans, in the township of Devadaha, in the family of a Sākiyan rāja, he was named Young [^1] Saṇmoda. But inasmuch as, when a boy, he suffered from rheumatism, [^2] and at times walked like a cripple, he grew to be called Pakkha (= cripple), and retained the name after his recovery. He was present when the Exalted One visited his kinsfolk, [^3] won faith in him, entered the Order, and dwelt in the forest. Going one day to the village for alms, he sat down beneath a tree. Then a kite, seizing some flesh, flew up into the sky. Him many kites attacked, making him drop the meat. Another kite grabbed the fallen flesh, and was plundered by another. And the bhikkhu thought: 'Just like that meat are worldly desires, common to all, full of pain and woe.' And reflecting hereon, and how they were impermanent and so on, he carried out his mission, sat down for his afternoon rest, and expanding insight won arahantship. Thereupon making the base of his emotion his goad, he confessed aññā in this verse:
+ 
+
+Reborn in this Buddha-age among the Sākiyans, in the township of Devadaha, in the family of a Sākiyan rāja, he was named Young[^1] Saṇmoda. But inasmuch as, when a boy, he suffered from rheumatism,[^2] and at times walked like a cripple, he grew to be called Pakkha (= cripple), and retained the name after his recovery. He was present when the Exalted One visited his kinsfolk,[^3] won faith in him, entered the Order, and dwelt in the forest. Going one day to the village for alms, he sat down beneath a tree. Then a kite, seizing some flesh, flew up into the sky. Him many kites attacked, making him drop the meat. Another kite grabbed the fallen flesh, and was plundered by another. And the bhikkhu thought: 'Just like that meat are worldly desires, common to all, full of pain and woe.' And reflecting hereon, and how they were impermanent and so on, he carried out his mission, sat down for his afternoon rest, and expanding insight won arahantship. Thereupon making the base of his emotion his goad, he confessed aññā in this verse:
 
 ## Verses
 

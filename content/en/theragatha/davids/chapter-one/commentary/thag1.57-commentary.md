@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-His story resembles that of the Añjana Wood Thera, with this difference: When he had left the world under similar circumstances, he pursued his religious studies in a very old hut. And he thought: 'This old hut is now rotten; I ought to make another.' So he turned his mind to new action. [^1] Then a spirit, seeking salvation, sought to agitate him by uttering this verse, simple in words but profound in meaning:
+ 
+
+His story resembles that of the Añjana Wood Thera, with this difference: When he had left the world under similar circumstances, he pursued his religious studies in a very old hut. And he thought: 'This old hut is now rotten; I ought to make another.' So he turned his mind to new action.[^1] Then a spirit, seeking salvation, sought to agitate him by uttering this verse, simple in words but profound in meaning:
 
 ## Verses
 

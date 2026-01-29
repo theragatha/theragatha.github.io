@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 Reborn in this Buddha-age at Vesalī, in the family of a Licchavi rāja, he became as a pious lad a servitor to the Order. Later, after he had been ordained, he also was subject to sloth and torpor, and was also aroused by the Master with this verse :
 
 ## Verses

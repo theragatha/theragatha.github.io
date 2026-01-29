@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in this Buddha-age at Sāvatthī, as the son of a brahmin, he was named Samitigutta. [^1] Hearing the Master preach, he entered the Order and attained entire purity of conduct. As the consequence of his action in a former life, he was attacked by leprosy and his limbs crumbled off piece by piece. He dwelt in the infirmary. [^2] And one day the General of the Norm went on his round of inquiry, asking after this and that sick bhikkhu. Seeing Samitigutta, he gave him an exercise on the contemplation [79] of feeling, saying 'My friend, in so far as there is what we call process of the five constituents, the whole of suffering is a matter of feeling. But if just the constituents be absent, suffering is absent.' So saying, he went on; but the patient, set up by the lesson, developed insight and realized sixfold abhiññā. Thereupon he remembered the evil action in former births for which he was now overcome by disease. And extolling the fact that all was now done with, he uttered this verse:
+ 
+
+Reborn in this Buddha-age at Sāvatthī, as the son of a brahmin, he was named Samitigutta.[^1] Hearing the Master preach, he entered the Order and attained entire purity of conduct. As the consequence of his action in a former life, he was attacked by leprosy and his limbs crumbled off piece by piece. He dwelt in the infirmary.[^2] And one day the General of the Norm went on his round of inquiry, asking after this and that sick bhikkhu. Seeing Samitigutta, he gave him an exercise on the contemplation [79] of feeling, saying 'My friend, in so far as there is what we call process of the five constituents, the whole of suffering is a matter of feeling. But if just the constituents be absent, suffering is absent.' So saying, he went on; but the patient, set up by the lesson, developed insight and realized sixfold abhiññā. Thereupon he remembered the evil action in former births for which he was now overcome by disease. And extolling the fact that all was now done with, he uttered this verse:
 
 ## Verses
 

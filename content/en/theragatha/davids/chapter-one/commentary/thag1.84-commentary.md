@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 Reborn in this Buddha-age at Sāvatthī as the son of a brahmin, he was called Nīta. When grown up he thought: 'These Sākiyan recluses are very lucky in that they are well provided with all necessaries. It is a happy life, that of a member of the Order.' So he entered it to get pleasure from it, paid scant attention to his exercise, ate his fill, spent the day in idle talk, and slept all night long. But the Master discerned the ripeness of his antecedents, and gave him this verse in admonition:
 
 ## Verses

@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age in the kingdom of Magadha at the village of Jenta, as the son of the raja of a district. [^1] While still young, his mind, impelled by maturity of conditions, inclined to leaving the world, and he turned the matter over and wondered what he should do. So doubting he heard the Master preach. From that day he became devoted to the religious life, and entered the Order. Happily working and with swift insight, he realized arahantship; then reflecting on his attainment and how he had been perplexed, he joyously uttered this verse:
+ 
+
+He was reborn in this Buddha-age in the kingdom of Magadha at the village of Jenta, as the son of the raja of a district.[^1] While still young, his mind, impelled by maturity of conditions, inclined to leaving the world, and he turned the matter over and wondered what he should do. So doubting he heard the Master preach. From that day he became devoted to the religious life, and entered the Order. Happily working and with swift insight, he realized arahantship; then reflecting on his attainment and how he had been perplexed, he joyously uttered this verse:
 
 ## Verses
 

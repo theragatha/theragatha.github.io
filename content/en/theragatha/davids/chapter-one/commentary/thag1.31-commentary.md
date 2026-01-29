@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He was reborn in this Buddha-age at Sāvatthī, in a brahmin's family, and named Aggidatta. [^1] When grown [36] up he saw the Exalted One work the twin-miracle, [^2] and, being convinced, he entered the Order. Taking a subject for meditation, he went to the Ratīra forest, and became known as Gahva-Ratīriya. Growing in insight, he in a short time attained arahantship. Thereupon he went to worship the Exalted One at Sāvatthī. His kinsfolk, hearing of his coming, bestowed liberal gifts upon him. And when he wished to go back to the forest, they said: 'Sir, the forest is full of peril through the gadflies and mosquitoes. Stay here!' But the Thera, devoted to detachment, replied, 'Life in the forest suits me,' and confessing aññā he uttered this verse:
+ 
+
+He was reborn in this Buddha-age at Sāvatthī, in a brahmin's family, and named Aggidatta.[^1] When grown [36] up he saw the Exalted One work the twin-miracle,[^2] and, being convinced, he entered the Order. Taking a subject for meditation, he went to the Ratīra forest, and became known as Gahva-Ratīriya. Growing in insight, he in a short time attained arahantship. Thereupon he went to worship the Exalted One at Sāvatthī. His kinsfolk, hearing of his coming, bestowed liberal gifts upon him. And when he wished to go back to the forest, they said: 'Sir, the forest is full of peril through the gadflies and mosquitoes. Stay here!' But the Thera, devoted to detachment, replied, 'Life in the forest suits me,' and confessing aññā he uttered this verse:
 
 ## Verses
 

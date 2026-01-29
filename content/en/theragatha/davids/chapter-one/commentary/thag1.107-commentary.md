@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn in the kingdom of Magadha in a brahmin's family, and impelled by maturity of conditions, he preferred the religious to the household life. Seeking the Exalted One on the South Hill, [^1] he heard him teach the Norm, whereupon he entered the Order, and in due course became an arahant. And reflecting with joy upon his career, he broke forth in this psalm, confessing aññā:
+ 
+
+Reborn in the kingdom of Magadha in a brahmin's family, and impelled by maturity of conditions, he preferred the religious to the household life. Seeking the Exalted One on the South Hill,[^1] he heard him teach the Norm, whereupon he entered the Order, and in due course became an arahant. And reflecting with joy upon his career, he broke forth in this psalm, confessing aññā:
 
 ## Verses
 

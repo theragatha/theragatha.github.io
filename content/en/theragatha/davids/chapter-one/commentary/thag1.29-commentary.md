@@ -1,5 +1,5 @@
 ---
-title: "1.29 Hā"
+title: "1.29 Hārita"
 id: "thag1.29"
 chapter: 1
 verse: 29
@@ -12,11 +12,13 @@ weight: 29
 bookHidden: true
 ---
 
-# Hā
+# Hārita
 
 ## Commentary
 
-Reborn in this Buddha-age at Sāvatthī, as the son of a wealthy brahmin, [^1] his parents wedded him to a brahmin's daughter suitable in birth, beauty and every other respect. And he, enjoying his lot with her, was one day, while he contemplated the perfection of her beauty, admonished by [34] the order of things, [^2] that such beauty must needs ere long be crushed out by decay and death. Nay, when but a few days had passed by, his wife was bitten by a black snake and died. Overwhelmed by anguish he sought the Master and, hearing the Norm, severed his domestic ties and left the world. Now while he was training himself ethically, he could not make straight his heart. [^3] And going for alms into the village, [^4] he saw a fletcher applying his tools and making straight the shaft of an arrow. Then, he thought: 'These men make even a senseless thing straight; why do I not make straight my heart?' So he turned back and, seated for siesta, stirred up insight. And lo! the Exalted One, seated in the air above him, admonished him by this verse:
+ 
+
+Reborn in this Buddha-age at Sāvatthī, as the son of a wealthy brahmin,[^1] his parents wedded him to a brahmin's daughter suitable in birth, beauty and every other respect. And he, enjoying his lot with her, was one day, while he contemplated the perfection of her beauty, admonished by [34] the order of things,[^2] that such beauty must needs ere long be crushed out by decay and death. Nay, when but a few days had passed by, his wife was bitten by a black snake and died. Overwhelmed by anguish he sought the Master and, hearing the Norm, severed his domestic ties and left the world. Now while he was training himself ethically, he could not make straight his heart.[^3] And going for alms into the village,[^4] he saw a fletcher applying his tools and making straight the shaft of an arrow. Then, he thought: 'These men make even a senseless thing straight; why do I not make straight my heart?' So he turned back and, seated for siesta, stirred up insight. And lo! the Exalted One, seated in the air above him, admonished him by this verse:
 
 ## Verses
 

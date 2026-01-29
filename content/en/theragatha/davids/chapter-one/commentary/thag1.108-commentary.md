@@ -16,6 +16,8 @@ bookHidden: true
 
 ## Commentary
 
+ 
+
 He followed his son's example, saying: 'My son left the world when he was young; why should not I leave it?' So he, too, sought the Master, and in due course realized arahahtship and uttered his psalm:
 
 ## Verses

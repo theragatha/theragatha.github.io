@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-He in this Buddha-age was reborn, in consequence of his actions, [^1] in a despised class, as one of a clan of watchmen in a cemetery at Sāvatthī. Converted by the preaching of the Thera Sopāka [^2] his friend, he entered the Order and attained to the highest, declaring this in his psalm while he yet was striving for arahantship:
+ 
+
+He in this Buddha-age was reborn, in consequence of his actions,[^1] in a despised class, as one of a clan of watchmen in a cemetery at Sāvatthī. Converted by the preaching of the Thera Sopāka[^2] his friend, he entered the Order and attained to the highest, declaring this in his psalm while he yet was striving for arahantship:
 
 ## Verses
 

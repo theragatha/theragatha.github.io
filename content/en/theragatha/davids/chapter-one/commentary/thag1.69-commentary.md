@@ -16,7 +16,9 @@ bookHidden: true
 
 ## Commentary
 
-Reborn when our Exalted One was alive in the house of King Suddhodana, of a slave, he was called Channa. A contemporary of the future Buddha, he found faith in the Master when the latter returned to meet his kinsfolk. He thereupon entered the Order. Out of his affection for Him, egoistic pride in 'our Buddha, our Doctrine' arose, and he could not conquer this fondness, nor perform his duty as novice. When the Master had passed away, and his injunction that the higher penalty be imposed on Channa was carried out, [^1] the latter suffered anguish, extirpated his fondness, and soon after attained arahantship. Thereafter, blissful in his emancipation, he expressed his rapture in this psalm:
+ 
+
+Reborn when our Exalted One was alive in the house of King Suddhodana, of a slave, he was called Channa. A contemporary of the future Buddha, he found faith in the Master when the latter returned to meet his kinsfolk. He thereupon entered the Order. Out of his affection for Him, egoistic pride in 'our Buddha, our Doctrine' arose, and he could not conquer this fondness, nor perform his duty as novice. When the Master had passed away, and his injunction that the higher penalty be imposed on Channa was carried out,[^1] the latter suffered anguish, extirpated his fondness, and soon after attained arahantship. Thereafter, blissful in his emancipation, he expressed his rapture in this psalm:
 
 ## Verses
 
