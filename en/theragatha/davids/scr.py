@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from bs4 import NavigableString
 from pathlib import Path
+from bs4 import Tag
 
 def gen(chapter_number, verse_number, URL):
         
@@ -57,17 +58,48 @@ bookHidden: true
     output_filename = output_dir / f"thag{chapter_number}.{verse_number}.md"
     with open(output_filename, "w", encoding="utf-8") as out:
         out.write(new_content)
+
+    with open("davids_index.md", "a", encoding="utf-8") as index_file:
+        index_file.write(f"## {chapter_number}.{verse_number} {monk_name}\n\n" + verses_content + "\n")
         
-def rewrite_inline_footnotes(soup):
-    """
-    Convert <span class="f1">[1]</span> → ^1
-    """
+""" def rewrite_inline_footnotes(soup):
+    
+    # Convert <span class="f1">[1]</span> → ^1
+    
     for span in soup.select("span.f1"):
         text = span.get_text(strip=True)
         # Expecting format like "[1]"
         if text.startswith("[") and text.endswith("]"):
             number = text[1:-1]
             span.replace_with(f"[^{number}]")
+    return soup """
+
+def rewrite_inline_footnotes(soup):
+    """
+    Convert <span class="f1">[1]</span> → [^1]
+    and preserve trailing space when the next node starts with text.
+    """
+    for span in soup.select("span.f1"):
+        text = span.get_text(strip=True)
+
+        if not (text.startswith("[") and text.endswith("]")):
+            continue
+
+        number = text[1:-1]
+
+        # Look ahead BEFORE replacing
+        next_sib = span.next_sibling
+        needs_space = (
+            isinstance(next_sib, NavigableString)
+            and next_sib
+            and not next_sib.startswith(" ")
+            and not next_sib.startswith("\n")
+            and not next_sib.startswith(",")
+            and not next_sib.startswith(".")
+        )
+
+        replacement = f"[^{number}]" + (" " if needs_space else "")
+        span.replace_with(replacement)
     return soup
 
 
@@ -84,13 +116,12 @@ def extract_commentary(start):
         if "f4" in classes and "in2" in classes:
             break
 
-        text = sib.get_text(" ", strip=True)
+        # text = sib.get_text(" ", strip=True)
+        text = sib.get_text(strip=False).strip("\n")
         if text:
             parts.append(text)
 
     return "\n\n".join(parts)
-
-from bs4 import Tag
 
 def collect_attribution_from_last_verse(last_verse_p):
     """
@@ -128,11 +159,12 @@ def extract(chapter_number, verse_number,URL):
 
     # Rewrite inline footnotes
     soup = rewrite_inline_footnotes(BeautifulSoup(response.text, "html.parser"))
-    # soup = BeautifulSoup(response.text, "html.parser")
 
     # Extract monk name
 
-    monk_name = soup.find('h1').decode_contents().split("<br/>")[1].strip()[:-4]
+    monk_name = soup.find('h1').decode_contents().split("<br/>")[1].strip()
+    monk_name = re.sub(r"\[\^?\d+\]", "", monk_name).strip()
+    monk_name = re.sub(r"</a>", "", monk_name).strip()
 
     # Extract commentary
     start = soup.find("p", class_="f2 ctr")
